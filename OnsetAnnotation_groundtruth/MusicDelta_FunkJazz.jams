@@ -1,0 +1,4930 @@
+{
+  "sandbox": {
+    "genre": "Jazz", 
+    "is_instrumental": true
+  }, 
+  "annotations": [
+    {
+      "namespace": "onset", 
+      "sandbox": {}, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "Gain Window: 0.25ms\nTemporal Threshold: 0.05ms\nLoudness Threshold: -20dB", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -26.035846073104555, 
+            "powerMix": -19.35088269919207
+          }, 
+          "time": 0.058050000000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -24.80701178881521, 
+            "powerMix": -18.918577129314777
+          }, 
+          "time": 0.626939
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -39.76979053982221, 
+            "powerMix": -27.379888533395338
+          }, 
+          "time": 0.743039
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.651636625011157, 
+            "powerMix": -18.774656874156491
+          }, 
+          "time": 0.9868480000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -30.795913111900177, 
+            "powerMix": -23.976042649389054
+          }, 
+          "time": 1.056508
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -34.162653120278769, 
+            "powerMix": -21.386136081808253
+          }, 
+          "time": 1.160998
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.686289885364634, 
+            "powerMix": -24.318676408722901
+          }, 
+          "time": 1.2654880000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -64.172568438418764, 
+            "powerMix": -22.965552793901786
+          }, 
+          "time": 1.439637
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -32.701843273068583, 
+            "powerMix": -27.386809911386344
+          }, 
+          "time": 1.648617
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -70.982473132516716, 
+            "powerMix": -31.49325827668228
+          }, 
+          "time": 1.787937
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -36.392707065696499, 
+            "powerMix": -35.843413118100159
+          }, 
+          "time": 1.8692060000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -69.49731010338138, 
+            "powerMix": -19.55017313866648
+          }, 
+          "time": 1.9620860000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -35.616504158775683, 
+            "powerMix": -21.450093842026511
+          }, 
+          "time": 2.252336
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -22.157596308448614, 
+            "powerMix": -18.162536582063137
+          }, 
+          "time": 2.7980050000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -38.12247257961274, 
+            "powerMix": -27.10069715440666
+          }, 
+          "time": 2.8560540000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -48.098543223391033, 
+            "powerMix": -29.658680515224699
+          }, 
+          "time": 3.088254
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.815346058070336, 
+            "powerMix": -20.264933427344133
+          }, 
+          "time": 3.181134
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -38.7058536599855, 
+            "powerMix": -27.869737737748885
+          }, 
+          "time": 3.2507940000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.004851055067306, 
+            "powerMix": -20.656204466310683
+          }, 
+          "time": 3.3436730000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.846324162272808, 
+            "powerMix": -22.971557579434283
+          }, 
+          "time": 3.4365530000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -62.99470240158854, 
+            "powerMix": -24.695448966391869
+          }, 
+          "time": 3.622313
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -29.257568290717909, 
+            "powerMix": -21.573968814007177
+          }, 
+          "time": 3.831293
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.365659474216208, 
+            "powerMix": -20.429380508511734
+          }, 
+          "time": 3.889342
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.81284093756507, 
+            "powerMix": -24.136070525101431
+          }, 
+          "time": 3.982222
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.277512833573482, 
+            "powerMix": -24.259464707728071
+          }, 
+          "time": 4.121542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.459420558721465, 
+            "powerMix": -24.009205767729537
+          }, 
+          "time": 4.249252
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -34.526506218290841, 
+            "powerMix": -29.849222313113476
+          }, 
+          "time": 4.365351
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -35.906875200678769, 
+            "powerMix": -21.404956910923701
+          }, 
+          "time": 4.435011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -21.4548890325208, 
+            "powerMix": -17.527976961722473
+          }, 
+          "time": 4.98068
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -37.14227806537999, 
+            "powerMix": -28.327219536696752
+          }, 
+          "time": 5.03873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -46.975375150951308, 
+            "powerMix": -29.672031912513592
+          }, 
+          "time": 5.27093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.23085832915843, 
+            "powerMix": -18.92202904728601
+          }, 
+          "time": 5.37542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.858628747109783, 
+            "powerMix": -32.349057849802136
+          }, 
+          "time": 5.456689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -51.443226983549721, 
+            "powerMix": -20.933591364277596
+          }, 
+          "time": 5.5263489990000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.201487995060859, 
+            "powerMix": -23.75428622066519
+          }, 
+          "time": 5.630839
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.691040640617668, 
+            "powerMix": -21.78123485936753
+          }, 
+          "time": 5.7701590000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -44.652176293900297, 
+            "powerMix": -29.142146230825986
+          }, 
+          "time": 5.932698
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.92761749602845, 
+            "powerMix": -24.779297015231258
+          }, 
+          "time": 6.013968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -36.603184651538044, 
+            "powerMix": -28.933238637006347
+          }, 
+          "time": 6.130067999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -32.23468502317975, 
+            "powerMix": -32.042798368673601
+          }, 
+          "time": 6.246168000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -44.820915964300255, 
+            "powerMix": -17.328408887116147
+          }, 
+          "time": 6.327438000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -34.884773106413164, 
+            "powerMix": -20.57473421915757
+          }, 
+          "time": 6.606077
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -23.216869408301658, 
+            "powerMix": -19.279431793588945
+          }, 
+          "time": 7.151746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -35.62420713238194, 
+            "powerMix": -26.675763822546699
+          }, 
+          "time": 7.256236
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.456530405099777, 
+            "powerMix": -20.65048593376385
+          }, 
+          "time": 7.581315000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -31.124030585927606, 
+            "powerMix": -23.099042351645032
+          }, 
+          "time": 7.662585000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.005450548860104, 
+            "powerMix": -23.141931597100989
+          }, 
+          "time": 7.720635000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.350478325565366, 
+            "powerMix": -23.747490113322026
+          }, 
+          "time": 7.813515000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.386084644485102, 
+            "powerMix": -18.635646501747384
+          }, 
+          "time": 7.952834
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.064311726669111, 
+            "powerMix": -18.261399270159583
+          }, 
+          "time": 8.231474
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.875693530539905, 
+            "powerMix": -20.565597663600723
+          }, 
+          "time": 8.324354000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.686102787480802, 
+            "powerMix": -19.697440607899097
+          }, 
+          "time": 8.486893
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.79564861348463, 
+            "powerMix": -24.653706340290821
+          }, 
+          "time": 8.626213
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -30.442997433145464, 
+            "powerMix": -26.218762121877251
+          }, 
+          "time": 8.719093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -30.495301969233871, 
+            "powerMix": -21.001468620856087
+          }, 
+          "time": 8.777143
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -24.540609631785539, 
+            "powerMix": -18.355577489193152
+          }, 
+          "time": 9.334422
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -40.801811901476427, 
+            "powerMix": -21.226046535437163
+          }, 
+          "time": 9.392472
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -33.651035174222336, 
+            "powerMix": -18.77920824526505
+          }, 
+          "time": 9.705941000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -36.713516039734223, 
+            "powerMix": -23.673019580555636
+          }, 
+          "time": 9.822041
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "alto saxophone"
+            ], 
+            "powerStem": -47.128893610378057, 
+            "powerMix": -19.105379802122961
+          }, 
+          "time": 9.891701000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.501015277302574, 
+            "powerMix": -20.157221682667501
+          }, 
+          "time": 9.984580000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.271906997188225, 
+            "powerMix": -20.665296510221381
+          }, 
+          "time": 10.1239
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -46.553425121010193, 
+            "powerMix": -28.125004156326646
+          }, 
+          "time": 10.29805
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.809912209673563, 
+            "powerMix": -22.534054483443548
+          }, 
+          "time": 10.37932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -38.368501200064841, 
+            "powerMix": -21.139278229862466
+          }, 
+          "time": 10.507028999000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -28.046857410879721, 
+            "powerMix": -18.304808747435285
+          }, 
+          "time": 10.634739000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.174664849827561, 
+            "powerMix": -18.935762254412573
+          }, 
+          "time": 10.692789000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -36.244800564167079, 
+            "powerMix": -19.223658362558631
+          }, 
+          "time": 10.983039000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -21.367554058710581, 
+            "powerMix": -17.927159860830081
+          }, 
+          "time": 11.505488000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.262000821555034, 
+            "powerMix": -21.839480162447643
+          }, 
+          "time": 11.586757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -28.563676616700874, 
+            "powerMix": -18.13973836377264
+          }, 
+          "time": 11.888617
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -32.934526092877164, 
+            "powerMix": -26.783366303012642
+          }, 
+          "time": 12.004717000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -26.154192324220592, 
+            "powerMix": -20.258521307823635
+          }, 
+          "time": 12.062766
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.466723487107956, 
+            "powerMix": -22.483897854097989
+          }, 
+          "time": 12.167256
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -30.505570296679615, 
+            "powerMix": -19.785412139516872
+          }, 
+          "time": 12.294966
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -25.400980920591731, 
+            "powerMix": -21.769616444937647
+          }, 
+          "time": 12.353016
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -34.724924767150078, 
+            "powerMix": -25.998616767806645
+          }, 
+          "time": 12.422676000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -44.975827978822309, 
+            "powerMix": -31.53465869742115
+          }, 
+          "time": 12.480726
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.721151048956209, 
+            "powerMix": -21.210484795459173
+          }, 
+          "time": 12.561995000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.624380771805249, 
+            "powerMix": -22.554363712479358
+          }, 
+          "time": 12.712925
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "alto saxophone"
+            ], 
+            "powerStem": -50.637873929348999, 
+            "powerMix": -21.658122584904408
+          }, 
+          "time": 12.863855000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.883498328523782, 
+            "powerMix": -23.176386270341442
+          }, 
+          "time": 12.991565000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -28.107839132080127, 
+            "powerMix": -25.875375841544432
+          }, 
+          "time": 13.107664000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -35.959807892660173, 
+            "powerMix": -19.577253691136665
+          }, 
+          "time": 13.165714000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -27.35528543430247, 
+            "powerMix": -20.185499741405643
+          }, 
+          "time": 13.699773
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -38.027355862316924, 
+            "powerMix": -23.841271022413157
+          }, 
+          "time": 13.781043
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -48.027079201420023, 
+            "powerMix": -29.415726957198235
+          }, 
+          "time": 13.990023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -53.080663433813029, 
+            "powerMix": -19.780508291156288
+          }, 
+          "time": 14.106122000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -37.113131859338282, 
+            "powerMix": -29.973739354019756
+          }, 
+          "time": 14.187392000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -87.391391568281449, 
+            "powerMix": -22.909116919507035
+          }, 
+          "time": 14.257052000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.068239656590048, 
+            "powerMix": -23.271020808102204
+          }, 
+          "time": 14.361542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -32.166702606790686, 
+            "powerMix": -24.162018320153123
+          }, 
+          "time": 14.512472
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -41.992490912031485, 
+            "powerMix": -28.346150236460311
+          }, 
+          "time": 14.640181
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.721490396928694, 
+            "powerMix": -24.786594528696327
+          }, 
+          "time": 14.744671
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -33.837768564471354, 
+            "powerMix": -27.677892131793406
+          }, 
+          "time": 14.860771000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -33.069115237751888, 
+            "powerMix": -32.870084972504038
+          }, 
+          "time": 14.988481
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -24.048173244981918, 
+            "powerMix": -19.276353803436812
+          }, 
+          "time": 15.058141
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -36.265477012585478, 
+            "powerMix": -21.701919355747048
+          }, 
+          "time": 15.360000000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -25.847537744759158, 
+            "powerMix": -21.638671303324074
+          }, 
+          "time": 15.418050000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -26.913822736532357, 
+            "powerMix": -22.013828081233562
+          }, 
+          "time": 15.51093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -22.789959647295944, 
+            "powerMix": -21.841439891929191
+          }, 
+          "time": 15.882449000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -32.826503562922539, 
+            "powerMix": -27.949616531051149
+          }, 
+          "time": 15.940499
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -51.654151504039802, 
+            "powerMix": -20.734981766466611
+          }, 
+          "time": 16.253968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.179782656769795, 
+            "powerMix": -21.110347315893016
+          }, 
+          "time": 16.370068
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -32.370351310063548, 
+            "powerMix": -26.560991804865601
+          }, 
+          "time": 16.509387999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.16913713446046, 
+            "powerMix": -24.057883597751598
+          }, 
+          "time": 16.567438000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.539823063700865, 
+            "powerMix": -23.418377402689462
+          }, 
+          "time": 16.660317000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -46.324802806491647, 
+            "powerMix": -34.992670629148982
+          }, 
+          "time": 16.764807
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -22.086473288526491, 
+            "powerMix": -22.026284312777754
+          }, 
+          "time": 16.834467
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.558908007954798, 
+            "powerMix": -16.140953306463434
+          }, 
+          "time": 16.938957000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -32.760649347295121, 
+            "powerMix": -23.731674172983041
+          }, 
+          "time": 17.066667000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -32.459110625459381, 
+            "powerMix": -19.510224872339933
+          }, 
+          "time": 17.205986
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "electric piano"
+            ], 
+            "powerStem": -61.209893359630989, 
+            "powerMix": -24.580046066880662
+          }, 
+          "time": 17.380136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.839093699221024, 
+            "powerMix": -17.898427339871656
+          }, 
+          "time": 17.507846
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.114195330080364, 
+            "powerMix": -22.294843545855258
+          }, 
+          "time": 17.914195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.497600111083116, 
+            "powerMix": -19.12519942201623
+          }, 
+          "time": 18.053515
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.481830936045313, 
+            "powerMix": -21.293899091667253
+          }, 
+          "time": 18.216054
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -32.310661141361969, 
+            "powerMix": -23.560089881965407
+          }, 
+          "time": 18.320544
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -32.106243420165107, 
+            "powerMix": -26.068946523371508
+          }, 
+          "time": 18.425034
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.448551238186596, 
+            "powerMix": -18.684515068227693
+          }, 
+          "time": 18.483084
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.839433446730375, 
+            "powerMix": -24.618499639636333
+          }, 
+          "time": 18.564354
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -35.697753316334428, 
+            "powerMix": -28.058389801855608
+          }, 
+          "time": 18.622404
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -47.785917120285319, 
+            "powerMix": -30.184423791963052
+          }, 
+          "time": 18.692063
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -26.454306848887327, 
+            "powerMix": -16.465009551378845
+          }, 
+          "time": 18.750113000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -31.621252753746752, 
+            "powerMix": -20.028831258825296
+          }, 
+          "time": 18.877823000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "alto saxophone"
+            ], 
+            "powerStem": -45.041347956605932, 
+            "powerMix": -19.451782644262781
+          }, 
+          "time": 19.028753000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -33.943564575789253, 
+            "powerMix": -18.913911493681233
+          }, 
+          "time": 19.133243
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.504651846183457, 
+            "powerMix": -29.943978736298355
+          }, 
+          "time": 19.237732
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "alto saxophone"
+            ], 
+            "powerStem": -45.361849625963856, 
+            "powerMix": -18.813780895170346
+          }, 
+          "time": 19.295782000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.594940214170975, 
+            "powerMix": -20.936727313932465
+          }, 
+          "time": 19.400272
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -41.301798881012637, 
+            "powerMix": -22.967457112072076
+          }, 
+          "time": 19.539592000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -35.533691652505084, 
+            "powerMix": -23.196850762654321
+          }, 
+          "time": 19.690522
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -27.549471832142281, 
+            "powerMix": -22.01777963837462
+          }, 
+          "time": 19.760181000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -36.08625038301286, 
+            "powerMix": -22.008722386296196
+          }, 
+          "time": 19.957551000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -26.037762952493765, 
+            "powerMix": -23.236207446844524
+          }, 
+          "time": 20.108481
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -26.239897234467055, 
+            "powerMix": -24.029333583658527
+          }, 
+          "time": 20.166531000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric piano"
+            ], 
+            "powerStem": -44.909848115273519, 
+            "powerMix": -17.471426513986422
+          }, 
+          "time": 20.23619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -23.284868298553985, 
+            "powerMix": -22.142470877272288
+          }, 
+          "time": 20.340680000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.001682494172385, 
+            "powerMix": -19.782317868270638
+          }, 
+          "time": 20.39873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -37.073119836060386, 
+            "powerMix": -22.989475416016312
+          }, 
+          "time": 20.456780000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -33.480577917869859, 
+            "powerMix": -28.853241067571695
+          }, 
+          "time": 20.51483
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -37.180526413170114, 
+            "powerMix": -25.116856558258263
+          }, 
+          "time": 20.5961
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.04053558147627, 
+            "powerMix": -20.645197196538547
+          }, 
+          "time": 20.65415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -40.068378581365479, 
+            "powerMix": -23.553072271429507
+          }, 
+          "time": 20.712200000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -38.682934645591999, 
+            "powerMix": -32.834128296399705
+          }, 
+          "time": 20.793469
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.273670762692241, 
+            "powerMix": -16.394045813517121
+          }, 
+          "time": 20.897959
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -34.463572675426981, 
+            "powerMix": -20.579118499202522
+          }, 
+          "time": 21.048889000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.911698345301716, 
+            "powerMix": -20.395279392638606
+          }, 
+          "time": 21.164989000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -36.412802269788088, 
+            "powerMix": -21.151490534508582
+          }, 
+          "time": 21.281088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -29.555416523007384, 
+            "powerMix": -20.828366007742606
+          }, 
+          "time": 21.432018000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.526870072346789, 
+            "powerMix": -22.319083727717711
+          }, 
+          "time": 21.524898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.333796704747552, 
+            "powerMix": -17.571450232684292
+          }, 
+          "time": 21.582948000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -28.456541489100125, 
+            "powerMix": -20.738270663911781
+          }, 
+          "time": 21.675828000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "alto saxophone"
+            ], 
+            "powerStem": -50.434429869702399, 
+            "powerMix": -20.426774988016021
+          }, 
+          "time": 21.733878
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -46.233096981594528, 
+            "powerMix": -16.303333600127278
+          }, 
+          "time": 21.838367
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -26.976565940303395, 
+            "powerMix": -19.664817630118229
+          }, 
+          "time": 22.151837
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "alto saxophone"
+            ], 
+            "powerStem": -56.690862515309476, 
+            "powerMix": -19.17575760094654
+          }, 
+          "time": 22.442086
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.574341495116339, 
+            "powerMix": -25.097342797872848
+          }, 
+          "time": 22.639456000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -27.603300610438207, 
+            "powerMix": -19.594997146555482
+          }, 
+          "time": 22.848435000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -25.200990966247602, 
+            "powerMix": -21.443993017671858
+          }, 
+          "time": 22.952925
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.823708134144113, 
+            "powerMix": -21.927304210848124
+          }, 
+          "time": 23.127075
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -33.389952476594161, 
+            "powerMix": -23.164386793764407
+          }, 
+          "time": 23.243175
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -44.393817919223444, 
+            "powerMix": -25.893070562295573
+          }, 
+          "time": 23.324444
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.495858192301981, 
+            "powerMix": -24.032395579156205
+          }, 
+          "time": 23.486984000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.932827022862242, 
+            "powerMix": -28.748548180247006
+          }, 
+          "time": 23.603084000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -29.473797293104997, 
+            "powerMix": -25.604928201479197
+          }, 
+          "time": 23.730794000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -23.474968948187971, 
+            "powerMix": -20.150111987170231
+          }, 
+          "time": 23.800454000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -36.936183274262063, 
+            "powerMix": -20.794107092667279
+          }, 
+          "time": 24.102313000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -22.303983393151128, 
+            "powerMix": -18.255745034544823
+          }, 
+          "time": 24.613152000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -33.771702559805547, 
+            "powerMix": -25.623400128747669
+          }, 
+          "time": 24.752472
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -27.670360445579053, 
+            "powerMix": -20.515990070978329
+          }, 
+          "time": 24.973061
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -35.566396063194148, 
+            "powerMix": -28.415798582496073
+          }, 
+          "time": 25.065941000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.919847077141483, 
+            "powerMix": -22.204861903306458
+          }, 
+          "time": 25.135601
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.514096893026647, 
+            "powerMix": -23.499031326612283
+          }, 
+          "time": 25.240091000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -34.86399787777912, 
+            "powerMix": -25.444520863491185
+          }, 
+          "time": 25.309751000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.993369799630926, 
+            "powerMix": -21.571977173155332
+          }, 
+          "time": 25.414240000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -26.202094311478245, 
+            "powerMix": -23.792201577576073
+          }, 
+          "time": 25.47229
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -45.597231358661759, 
+            "powerMix": -41.136516572834701
+          }, 
+          "time": 25.55356
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -23.213272214143089, 
+            "powerMix": -18.538777128000323
+          }, 
+          "time": 25.66966
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -27.189813387704067, 
+            "powerMix": -20.576954992637759
+          }, 
+          "time": 25.75093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -30.342497270876517, 
+            "powerMix": -23.823655595023318
+          }, 
+          "time": 25.936689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.633342852585166, 
+            "powerMix": -24.007251948076075
+          }, 
+          "time": 26.006349
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -29.326641279239524, 
+            "powerMix": -22.84676225095965
+          }, 
+          "time": 26.076009000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.867588278687279, 
+            "powerMix": -20.096056137338252
+          }, 
+          "time": 26.215329
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -24.582617819812363, 
+            "powerMix": -16.555191642582688
+          }, 
+          "time": 26.273379000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.442362532668252, 
+            "powerMix": -19.896217423331631
+          }, 
+          "time": 26.354649000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "alto saxophone"
+            ], 
+            "powerStem": -50.775676410154539, 
+            "powerMix": -20.345633866586439
+          }, 
+          "time": 26.412698000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.614040757894081, 
+            "powerMix": -20.871209641685194
+          }, 
+          "time": 26.470748
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -25.539935566198796, 
+            "powerMix": -18.748371958407677
+          }, 
+          "time": 26.528798000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -30.094204077209909, 
+            "powerMix": -21.962817363054942
+          }, 
+          "time": 26.586848000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.030403538665873, 
+            "powerMix": -17.705537947408068
+          }, 
+          "time": 26.644898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -25.735418787289461, 
+            "powerMix": -22.273618131256704
+          }, 
+          "time": 26.714558
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -55.732802272178063, 
+            "powerMix": -24.106553263100466
+          }, 
+          "time": 26.888707
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "alto saxophone"
+            ], 
+            "powerStem": -49.31958470915103, 
+            "powerMix": -18.685934122516951
+          }, 
+          "time": 26.946757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -32.749321787416427, 
+            "powerMix": -28.435452726235265
+          }, 
+          "time": 27.051247
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -20.795848605167823, 
+            "powerMix": -17.617530941493836
+          }, 
+          "time": 27.167347000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -32.852776658063931, 
+            "powerMix": -21.89026493098142
+          }, 
+          "time": 27.318277000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -20.153335376025385, 
+            "powerMix": -16.92312318236451
+          }, 
+          "time": 27.445986
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -28.337098857751091, 
+            "powerMix": -26.861690560202682
+          }, 
+          "time": 27.678186
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -56.039071563948852, 
+            "powerMix": -48.076244031532866
+          }, 
+          "time": 28.003265000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -65.855650904023577, 
+            "powerMix": -53.876296521235645
+          }, 
+          "time": 28.328345000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric piano"
+            ], 
+            "powerStem": -46.194736715854589, 
+            "powerMix": -16.309960377694477
+          }, 
+          "time": 28.421224000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -49.510589901678848, 
+            "powerMix": -18.20516779985763
+          }, 
+          "time": 28.572154
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.049121460552968, 
+            "powerMix": -19.399311692640239
+          }, 
+          "time": 28.653424
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "alto saxophone"
+            ], 
+            "powerStem": -51.315591616903937, 
+            "powerMix": -19.479697158223196
+          }, 
+          "time": 28.711474000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -22.959152679828655, 
+            "powerMix": -16.961742935510088
+          }, 
+          "time": 28.804354000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -23.66789460358223, 
+            "powerMix": -20.290186686340689
+          }, 
+          "time": 28.885624000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.844073630158157, 
+            "powerMix": -23.431158039373283
+          }, 
+          "time": 28.943673
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -36.391568177412104, 
+            "powerMix": -34.039334527782728
+          }, 
+          "time": 29.013333000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.745262243521097, 
+            "powerMix": -19.258983567665091
+          }, 
+          "time": 29.071383
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -33.345722261643814, 
+            "powerMix": -29.236839056073286
+          }, 
+          "time": 29.233923
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.850421538998933, 
+            "powerMix": -25.910616658615162
+          }, 
+          "time": 29.315193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric piano"
+            ], 
+            "powerStem": -45.785717815163068, 
+            "powerMix": -15.165713730312698
+          }, 
+          "time": 29.373243000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.28756905834048, 
+            "powerMix": -20.895929793799422
+          }, 
+          "time": 29.489342
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.719334074238862, 
+            "powerMix": -18.681448936849048
+          }, 
+          "time": 29.593832000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -21.185478605847141, 
+            "powerMix": -17.316624133043884
+          }, 
+          "time": 29.698322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -37.744240509043429, 
+            "powerMix": -20.033201319063977
+          }, 
+          "time": 29.756372000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -43.593514167586022, 
+            "powerMix": -32.016163894018447
+          }, 
+          "time": 29.837642000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.087704097688555, 
+            "powerMix": -15.837987877989219
+          }, 
+          "time": 29.895692
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -21.548139529827903, 
+            "powerMix": -17.228246232629971
+          }, 
+          "time": 29.976961000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -27.428833759007077, 
+            "powerMix": -21.173880736701499
+          }, 
+          "time": 30.035011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -40.998518122981515, 
+            "powerMix": -29.468307074098895
+          }, 
+          "time": 30.104671000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.183897091197878, 
+            "powerMix": -20.614666007424852
+          }, 
+          "time": 30.174331000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.05345378827873, 
+            "powerMix": -21.451655537189339
+          }, 
+          "time": 30.267210999000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -33.31325684776612, 
+            "powerMix": -17.900870231664992
+          }, 
+          "time": 30.325261
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -30.492388086715884, 
+            "powerMix": -23.812914631747386
+          }, 
+          "time": 30.394921000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "alto saxophone"
+            ], 
+            "powerStem": -50.621646950743532, 
+            "powerMix": -18.538729156571495
+          }, 
+          "time": 30.476190000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.035435778056744, 
+            "powerMix": -21.044047167996851
+          }, 
+          "time": 30.58068
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -30.354343045612708, 
+            "powerMix": -19.230172261174431
+          }, 
+          "time": 30.638730000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -23.016118294281021, 
+            "powerMix": -22.949527385547835
+          }, 
+          "time": 31.172789
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -39.962569655760653, 
+            "powerMix": -28.452938150865915
+          }, 
+          "time": 31.404989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -46.647710537002467, 
+            "powerMix": -31.785181542784102
+          }, 
+          "time": 31.486259
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -48.899520133188361, 
+            "powerMix": -19.959191782649196
+          }, 
+          "time": 31.567528000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -27.457354531632099, 
+            "powerMix": -22.024054504492071
+          }, 
+          "time": 31.695238000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.465358537744976, 
+            "powerMix": -23.895282765272128
+          }, 
+          "time": 31.811338000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -32.532125773217459, 
+            "powerMix": -22.033115162118282
+          }, 
+          "time": 31.962268
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -36.236556976613713, 
+            "powerMix": -27.332084979616234
+          }, 
+          "time": 32.066757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.592110478007331, 
+            "powerMix": -24.274856715336032
+          }, 
+          "time": 32.182857
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -37.838342866749095, 
+            "powerMix": -28.372216449793001
+          }, 
+          "time": 32.322177
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -28.71298672394397, 
+            "powerMix": -21.348940003671764
+          }, 
+          "time": 32.461497
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.974861592857231, 
+            "powerMix": -19.872668127826245
+          }, 
+          "time": 32.519545999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -26.846762205567813, 
+            "powerMix": -21.306468140893628
+          }, 
+          "time": 32.600816
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -38.055493222900665, 
+            "powerMix": -21.553249916789575
+          }, 
+          "time": 32.798186
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -24.15245200465149, 
+            "powerMix": -24.208173405373707
+          }, 
+          "time": 33.332245
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -37.867551594773332, 
+            "powerMix": -31.621728119099217
+          }, 
+          "time": 33.483175
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -49.338955221033729, 
+            "powerMix": -38.763447926552509
+          }, 
+          "time": 33.552834000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "electric piano"
+            ], 
+            "powerStem": -79.143495859301026, 
+            "powerMix": -32.060951800593848
+          }, 
+          "time": 33.622494
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.472181941677352, 
+            "powerMix": -18.950351296707058
+          }, 
+          "time": 33.703764
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.86866935642561, 
+            "powerMix": -24.664089043080544
+          }, 
+          "time": 33.854694
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.291760431569543, 
+            "powerMix": -22.712204170352315
+          }, 
+          "time": 33.994014
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -60.105113176049628, 
+            "powerMix": -22.939547996744942
+          }, 
+          "time": 34.144943000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.367461032546576, 
+            "powerMix": -19.248180014518582
+          }, 
+          "time": 34.377143000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.153526841570208, 
+            "powerMix": -23.730091703492317
+          }, 
+          "time": 34.516463
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "alto saxophone"
+            ], 
+            "powerStem": -61.393181321636774, 
+            "powerMix": -21.712784329911198
+          }, 
+          "time": 34.690612
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -31.237239681661471, 
+            "powerMix": -27.691494457463904
+          }, 
+          "time": 34.771882000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.683137867506055, 
+            "powerMix": -23.129342337913844
+          }, 
+          "time": 34.841542000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -27.845251876050373, 
+            "powerMix": -22.250457693127931
+          }, 
+          "time": 34.934422000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.688397214297929, 
+            "powerMix": -20.478295378695471
+          }, 
+          "time": 34.992472
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -24.742375875380912, 
+            "powerMix": -20.876841566027938
+          }, 
+          "time": 35.271111000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -27.020546140838917, 
+            "powerMix": -21.822841306415377
+          }, 
+          "time": 35.398821000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -27.991498027138583, 
+            "powerMix": -18.540014871756785
+          }, 
+          "time": 35.503310999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -37.551519308409311, 
+            "powerMix": -25.348663779887168
+          }, 
+          "time": 35.75873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -46.424665609943801, 
+            "powerMix": -26.655790531028153
+          }, 
+          "time": 35.85161
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -50.16983936524678, 
+            "powerMix": -20.396971317154843
+          }, 
+          "time": 35.932880000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.847879212667742, 
+            "powerMix": -27.253141168367826
+          }, 
+          "time": 36.01415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -38.069189267207008, 
+            "powerMix": -21.934923318712698
+          }, 
+          "time": 36.08381
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.837180675508424, 
+            "powerMix": -23.261618138893425
+          }, 
+          "time": 36.176689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -32.058227707628212, 
+            "powerMix": -21.56567134387647
+          }, 
+          "time": 36.327619000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -36.280558863011642, 
+            "powerMix": -25.950246069491797
+          }, 
+          "time": 36.443719
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.237500163364796, 
+            "powerMix": -23.578594032620479
+          }, 
+          "time": 36.571429
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -35.126934337963014, 
+            "powerMix": -25.973898694357331
+          }, 
+          "time": 36.699138000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano", 
+              "alto saxophone"
+            ], 
+            "powerStem": -84.123306397721123, 
+            "powerMix": -34.775120406151999
+          }, 
+          "time": 36.768798000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.146757875855283, 
+            "powerMix": -20.37738889137103
+          }, 
+          "time": 36.838458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -27.747994567091361, 
+            "powerMix": -21.216863156162876
+          }, 
+          "time": 36.966168
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "alto saxophone"
+            ], 
+            "powerStem": -62.111536574144608, 
+            "powerMix": -20.82850078614733
+          }, 
+          "time": 37.163537000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -24.092801133701872, 
+            "powerMix": -20.244733687731681
+          }, 
+          "time": 37.221587
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -24.146405741813894, 
+            "powerMix": -20.305482618209815
+          }, 
+          "time": 37.384127
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -22.737481919108138, 
+            "powerMix": -20.074047384899018
+          }, 
+          "time": 37.697596000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.252933668527746, 
+            "powerMix": -22.402328519567696
+          }, 
+          "time": 37.836916
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.41274428769886, 
+            "powerMix": -19.962549387623909
+          }, 
+          "time": 38.092336
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.057490382684197, 
+            "powerMix": -16.982226462521169
+          }, 
+          "time": 38.196825000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -28.186338987489457, 
+            "powerMix": -19.960436787691371
+          }, 
+          "time": 38.336145
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.080802560518329, 
+            "powerMix": -20.279296924133892
+          }, 
+          "time": 38.394195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -46.840264077218521, 
+            "powerMix": -17.528492940521168
+          }, 
+          "time": 38.510295
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -31.51505375000562, 
+            "powerMix": -20.143712407300786
+          }, 
+          "time": 38.591565
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.871987181182213, 
+            "powerMix": -18.279723224157387
+          }, 
+          "time": 38.730884
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -33.460967993088083, 
+            "powerMix": -18.568379052217395
+          }, 
+          "time": 38.788934000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.587573015145509, 
+            "powerMix": -19.735397330873038
+          }, 
+          "time": 38.858594000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -24.329047351538613, 
+            "powerMix": -18.926549937657835
+          }, 
+          "time": 38.928254
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -32.00567868117011, 
+            "powerMix": -21.233881461668183
+          }, 
+          "time": 38.997914
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -47.999294211401605, 
+            "powerMix": -18.435502189803788
+          }, 
+          "time": 39.055964
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -29.588926680468116, 
+            "powerMix": -21.733132800798742
+          }, 
+          "time": 39.137234
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.807424767027729, 
+            "powerMix": -20.504423666994253
+          }, 
+          "time": 39.195283
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -26.768511108664374, 
+            "powerMix": -20.256682121211568
+          }, 
+          "time": 39.288163000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.810077983617624, 
+            "powerMix": -19.209928026639076
+          }, 
+          "time": 39.357823
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -24.32693782496958, 
+            "powerMix": -19.933793767542795
+          }, 
+          "time": 39.636463
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -25.55856121836203, 
+            "powerMix": -18.239972080702849
+          }, 
+          "time": 39.868662
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -24.101263234945186, 
+            "powerMix": -20.295816610904446
+          }, 
+          "time": 39.926712
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -22.161282812560049, 
+            "powerMix": -19.597074136655749
+          }, 
+          "time": 39.984762
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -38.998569641514102, 
+            "powerMix": -20.571664541075521
+          }, 
+          "time": 40.089252
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.871298573081507, 
+            "powerMix": -19.463873268657942
+          }, 
+          "time": 40.275011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -46.107314132727709, 
+            "powerMix": -32.750005479058515
+          }, 
+          "time": 40.344671000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.716710645953135, 
+            "powerMix": -21.267165402813099
+          }, 
+          "time": 40.425941
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.769433626828992, 
+            "powerMix": -23.82344899237421
+          }, 
+          "time": 40.530431
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -21.980616474631237, 
+            "powerMix": -18.852804501334084
+          }, 
+          "time": 40.681361
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.732999324953635, 
+            "powerMix": -20.234949681470166
+          }, 
+          "time": 40.913560000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -38.87927156246019, 
+            "powerMix": -21.625430680949552
+          }, 
+          "time": 41.041270000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -35.98536509371845, 
+            "powerMix": -25.834248524924877
+          }, 
+          "time": 41.12254
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.737514905375516, 
+            "powerMix": -16.705651714415612
+          }, 
+          "time": 41.21542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -26.502975057941853, 
+            "powerMix": -20.200628246063221
+          }, 
+          "time": 41.296689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano", 
+              "alto saxophone"
+            ], 
+            "powerStem": -50.5974958917447, 
+            "powerMix": -18.964596811277225
+          }, 
+          "time": 41.366349
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -25.331331063140155, 
+            "powerMix": -20.459440402733478
+          }, 
+          "time": 41.459229
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -35.362288197900646, 
+            "powerMix": -19.570250825511984
+          }, 
+          "time": 41.517279
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -24.116807082191709, 
+            "powerMix": -20.211715198661629
+          }, 
+          "time": 41.656599
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -23.468820308569811, 
+            "powerMix": -22.807322973353902
+          }, 
+          "time": 42.051338
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -27.944978194382003, 
+            "powerMix": -22.261002041034828
+          }, 
+          "time": 42.132608000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -39.866240251026575, 
+            "powerMix": -27.600266346145467
+          }, 
+          "time": 42.202268000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.754988003908416, 
+            "powerMix": -20.540896889455134
+          }, 
+          "time": 42.411247
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -35.152472848285527, 
+            "powerMix": -28.096786927432717
+          }, 
+          "time": 42.504127000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.320992155375666, 
+            "powerMix": -24.343380821605635
+          }, 
+          "time": 42.573787
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -53.306558915723272, 
+            "powerMix": -23.248938174841086
+          }, 
+          "time": 42.724717000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -24.678640162291352, 
+            "powerMix": -22.016713561742392
+          }, 
+          "time": 42.805986000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -37.518795045912213, 
+            "powerMix": -22.386402114558564
+          }, 
+          "time": 42.864036000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -23.555425378635292, 
+            "powerMix": -21.925416733602766
+          }, 
+          "time": 42.945306
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -21.760132543799941, 
+            "powerMix": -21.516004949401793
+          }, 
+          "time": 43.014966
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.023557790906569, 
+            "powerMix": -20.256752953961438
+          }, 
+          "time": 43.084626
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -31.150515400553385, 
+            "powerMix": -23.855778752751533
+          }, 
+          "time": 43.247166
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -21.44543847308973, 
+            "powerMix": -21.012919248006096
+          }, 
+          "time": 43.305215000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -28.913756656524487, 
+            "powerMix": -22.787461259179729
+          }, 
+          "time": 43.398095000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano", 
+              "alto saxophone"
+            ], 
+            "powerStem": -63.80111249239679, 
+            "powerMix": -23.041683533778276
+          }, 
+          "time": 43.456145
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.234575823878565, 
+            "powerMix": -23.665319268361401
+          }, 
+          "time": 43.514194999000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -26.035384085583047, 
+            "powerMix": -23.018534797307282
+          }, 
+          "time": 43.607075
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -27.94450541344505, 
+            "powerMix": -18.650965015483546
+          }, 
+          "time": 43.688345000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -23.946871949216462, 
+            "powerMix": -18.309541267915254
+          }, 
+          "time": 44.245624
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -36.511074113098026, 
+            "powerMix": -22.048460540650119
+          }, 
+          "time": 44.396553000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -32.542101094195672, 
+            "powerMix": -23.071275516922842
+          }, 
+          "time": 44.559093000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -35.682986413352012, 
+            "powerMix": -19.946099719615898
+          }, 
+          "time": 44.617143000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.951621935699499, 
+            "powerMix": -20.234032237856496
+          }, 
+          "time": 44.686803000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -32.385295873126822, 
+            "powerMix": -21.54975707631263
+          }, 
+          "time": 44.756463000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -23.260948906954116, 
+            "powerMix": -20.342684105120462
+          }, 
+          "time": 44.826122000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -21.915760250072125, 
+            "powerMix": -19.77774484709181
+          }, 
+          "time": 44.884172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.174707672582571, 
+            "powerMix": -19.439911636026977
+          }, 
+          "time": 44.942222
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.112545839218853, 
+            "powerMix": -18.640779342737918
+          }, 
+          "time": 45.023492000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -77.70273777956055, 
+            "powerMix": -27.512057873122885
+          }, 
+          "time": 45.186032000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.684360223699024, 
+            "powerMix": -23.324732070100978
+          }, 
+          "time": 45.290522
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -24.583080408760523, 
+            "powerMix": -20.914967746320826
+          }, 
+          "time": 45.348571
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "electric piano"
+            ], 
+            "powerStem": -66.885364595965626, 
+            "powerMix": -22.722097453275396
+          }, 
+          "time": 45.429841
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -33.423554719326056, 
+            "powerMix": -22.524915076196685
+          }, 
+          "time": 45.487891000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.050489200554054, 
+            "powerMix": -18.123810864107114
+          }, 
+          "time": 45.545941000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -26.478349633852694, 
+            "powerMix": -18.648722615296258
+          }, 
+          "time": 45.766531
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -36.038377693131224, 
+            "powerMix": -21.188536745923173
+          }, 
+          "time": 45.87102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -22.739507374099681, 
+            "powerMix": -19.78157887224301
+          }, 
+          "time": 46.1961
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -21.832713102022318, 
+            "powerMix": -17.771574947922726
+          }, 
+          "time": 46.405079
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -41.812363386984863, 
+            "powerMix": -22.750107161894555
+          }, 
+          "time": 46.497959
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -45.493702972309869, 
+            "powerMix": -28.003660788753166
+          }, 
+          "time": 46.695329
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -58.036155067553139, 
+            "powerMix": -20.846438519457653
+          }, 
+          "time": 46.811429000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -36.883197468696707, 
+            "powerMix": -27.893536862031333
+          }, 
+          "time": 46.892698
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -35.864986418566133, 
+            "powerMix": -21.437921391927137
+          }, 
+          "time": 46.950748000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.743925137663524, 
+            "powerMix": -20.701651204905254
+          }, 
+          "time": 47.043628000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.034426204573169, 
+            "powerMix": -24.358386665974884
+          }, 
+          "time": 47.182948
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -35.853653462287213, 
+            "powerMix": -21.750651244228365
+          }, 
+          "time": 47.310658000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -26.218504456022487, 
+            "powerMix": -23.732938495746797
+          }, 
+          "time": 47.380317000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.575092094759931, 
+            "powerMix": -19.767406817800239
+          }, 
+          "time": 47.438367
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -25.413860090471509, 
+            "powerMix": -19.903820141219192
+          }, 
+          "time": 47.496417
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -29.42959251196956, 
+            "powerMix": -22.496796430810328
+          }, 
+          "time": 47.600907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -26.119480272968755, 
+            "powerMix": -23.898162839357159
+          }, 
+          "time": 47.705397000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -23.524235004084172, 
+            "powerMix": -19.413595603094649
+          }, 
+          "time": 47.763447000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -35.914693922665741, 
+            "powerMix": -24.444981905851279
+          }, 
+          "time": 47.833107000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -34.072657786724548, 
+            "powerMix": -24.924126675187907
+          }, 
+          "time": 47.984036
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "alto saxophone"
+            ], 
+            "powerStem": -60.205902754868134, 
+            "powerMix": -20.300467364127268
+          }, 
+          "time": 48.042086000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "alto saxophone"
+            ], 
+            "powerStem": -29.274742596766714, 
+            "powerMix": -20.381500973451129
+          }, 
+          "time": 48.134966000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -40.87289433259712, 
+            "powerMix": -28.563106221264828
+          }, 
+          "time": 48.912834000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "electric piano"
+            ], 
+            "powerStem": -44.472963746608556, 
+            "powerMix": -44.051031550482563
+          }, 
+          "time": 49.35401400000001
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "FunkJazz", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 49.386326530612244, 
+    "artist": "MusicDelta"
+  }
+}

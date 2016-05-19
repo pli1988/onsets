@@ -1,0 +1,7052 @@
+{
+  "sandbox": {
+    "genre": "Musical Theatre", 
+    "is_instrumental": false
+  }, 
+  "annotations": [
+    {
+      "namespace": "onset", 
+      "sandbox": {}, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "Gain Window: 0.25ms\nTemporal Threshold: 0.05ms\nLoudness Threshold: -20dB", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 0, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -20.427778602314284, 
+            "powerMix": -20.427778602314284
+          }, 
+          "time": 0.058050000000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.924934606285987, 
+            "powerMix": -27.924934606285987
+          }, 
+          "time": 0.336689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.594878639779431, 
+            "powerMix": -33.594878639779431
+          }, 
+          "time": 0.5572790000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.493445066408782, 
+            "powerMix": -32.493445066408782
+          }, 
+          "time": 0.754649
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.962203563048178, 
+            "powerMix": -33.962203563048178
+          }, 
+          "time": 0.9984580000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -22.733493137103338, 
+            "powerMix": -22.733493137103338
+          }, 
+          "time": 1.1958280000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.005460689013102, 
+            "powerMix": -28.005460689013102
+          }, 
+          "time": 1.439637
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.047347623285404, 
+            "powerMix": -32.047347623285404
+          }, 
+          "time": 1.637007
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.200343040390926, 
+            "powerMix": -21.200343040390926
+          }, 
+          "time": 1.834376
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.802028534728148, 
+            "powerMix": -27.802028534728148
+          }, 
+          "time": 2.066576
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.839627035092679, 
+            "powerMix": -31.839627035092679
+          }, 
+          "time": 2.310385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.149676901317051, 
+            "powerMix": -37.149676901317051
+          }, 
+          "time": 2.5425850000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.95490643073488, 
+            "powerMix": -32.95490643073488
+          }, 
+          "time": 2.7515650000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.213790446107243, 
+            "powerMix": -24.213790446107243
+          }, 
+          "time": 2.960544
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.833598296990072, 
+            "powerMix": -26.833598296990072
+          }, 
+          "time": 3.1927440000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.375500374883526, 
+            "powerMix": -28.375500374883526
+          }, 
+          "time": 3.3901130000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.353562171161119, 
+            "powerMix": -21.353562171161119
+          }, 
+          "time": 3.622313
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.669594841106729, 
+            "powerMix": -27.669594841106729
+          }, 
+          "time": 3.854512
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.463117035353378, 
+            "powerMix": -31.463117035353378
+          }, 
+          "time": 4.051882
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.03803283579137, 
+            "powerMix": -33.03803283579137
+          }, 
+          "time": 4.284082000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.920608853654283, 
+            "powerMix": -31.920608853654283
+          }, 
+          "time": 4.504671
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.813753979801234, 
+            "powerMix": -21.813753979801234
+          }, 
+          "time": 4.725261000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -29.874118366825407, 
+            "powerMix": -29.874118366825407
+          }, 
+          "time": 4.95746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.320431569893639, 
+            "powerMix": -30.320431569893639
+          }, 
+          "time": 5.1548300000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -20.738696278063369, 
+            "powerMix": -20.738696278063369
+          }, 
+          "time": 5.36381
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.910804905067348, 
+            "powerMix": -26.910804905067348
+          }, 
+          "time": 5.5960090000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.809949871965763, 
+            "powerMix": -27.809949871965763
+          }, 
+          "time": 5.816599
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -51.188133014739421, 
+            "powerMix": -47.142368279187437
+          }, 
+          "time": 5.921088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -49.118872992716945, 
+            "powerMix": -29.416241753964712
+          }, 
+          "time": 6.048798000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.098704794506833, 
+            "powerMix": -28.137618629977858
+          }, 
+          "time": 6.246168000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -49.701375206867418, 
+            "powerMix": -38.906661920524961
+          }, 
+          "time": 6.420317000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -23.415154752634507, 
+            "powerMix": -23.421657773135319
+          }, 
+          "time": 6.478367
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.583034340424678, 
+            "powerMix": -27.583034340424678
+          }, 
+          "time": 6.710567
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.271985113695703, 
+            "powerMix": -31.271985113695703
+          }, 
+          "time": 6.919546
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.467011445255963, 
+            "powerMix": -21.467011445255963
+          }, 
+          "time": 7.116916000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.078206596163625, 
+            "powerMix": -32.078206596163625
+          }, 
+          "time": 7.395556
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.719822138207832, 
+            "powerMix": -27.719822138207832
+          }, 
+          "time": 7.569705000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.851656887839503, 
+            "powerMix": -28.694048262523062
+          }, 
+          "time": 7.825125000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.755565666243537, 
+            "powerMix": -30.334329279083818
+          }, 
+          "time": 7.918005000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.911546625594283, 
+            "powerMix": -27.282342970286059
+          }, 
+          "time": 8.034104000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.802405708641309, 
+            "powerMix": -21.801943002513585
+          }, 
+          "time": 8.266304
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.557017144399286, 
+            "powerMix": -26.505231318074799
+          }, 
+          "time": 8.498503000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -29.884740093913813, 
+            "powerMix": -29.742674183412568
+          }, 
+          "time": 8.707483
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -23.048968264974707, 
+            "powerMix": -23.001776713671983
+          }, 
+          "time": 8.904853000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -49.606797522069272, 
+            "powerMix": -30.478252280315207
+          }, 
+          "time": 9.009342
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.809215762867019, 
+            "powerMix": -25.809215762867019
+          }, 
+          "time": 9.148662
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.322807817539541, 
+            "powerMix": -26.322807817539541
+          }, 
+          "time": 9.357642
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.471532346294627, 
+            "powerMix": -28.471532346294627
+          }, 
+          "time": 9.613061
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.184203337753154, 
+            "powerMix": -27.147082949938767
+          }, 
+          "time": 9.810431000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.896872109576847, 
+            "powerMix": -21.898891757293196
+          }, 
+          "time": 10.04263
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.078872886982946, 
+            "powerMix": -27.962488282269984
+          }, 
+          "time": 10.28644
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -49.462986863940671, 
+            "powerMix": -44.972155144836677
+          }, 
+          "time": 10.414150000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.357256487709734, 
+            "powerMix": -27.212828589982006
+          }, 
+          "time": 10.495420000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.312467493012587, 
+            "powerMix": -21.303065230836037
+          }, 
+          "time": 10.692789000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.076881795758009, 
+            "powerMix": -26.076881795758009
+          }, 
+          "time": 10.948209
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.821235725112366, 
+            "powerMix": -26.821235725112366
+          }, 
+          "time": 11.145578
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -37.457729565358122, 
+            "powerMix": -36.956085764171547
+          }, 
+          "time": 11.284898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.226176585907787, 
+            "powerMix": -25.098989656813508
+          }, 
+          "time": 11.377778000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.639259105541669, 
+            "powerMix": -38.710161813655056
+          }, 
+          "time": 11.482268000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.30211882480587, 
+            "powerMix": -28.298140185424984
+          }, 
+          "time": 11.586757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.445647014860683, 
+            "powerMix": -34.297065543819741
+          }, 
+          "time": 11.644807
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -20.696077588700273, 
+            "powerMix": -20.693584112597357
+          }, 
+          "time": 11.807347
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.956518914668806, 
+            "powerMix": -24.918868234522193
+          }, 
+          "time": 12.027937000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -54.534783298562779, 
+            "powerMix": -44.125072994316447
+          }, 
+          "time": 12.132425999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.289169259858124, 
+            "powerMix": -27.280763048916192
+          }, 
+          "time": 12.213696
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -20.561073278282734, 
+            "powerMix": -20.561073278282734
+          }, 
+          "time": 12.399456
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -44.194527767385139, 
+            "powerMix": -36.879703731013826
+          }, 
+          "time": 12.550385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.026936842704504, 
+            "powerMix": -25.965982987239265
+          }, 
+          "time": 12.666485000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -44.493291645766668, 
+            "powerMix": -40.490816256936512
+          }, 
+          "time": 12.782585000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.492721577673549, 
+            "powerMix": -26.478534992347676
+          }, 
+          "time": 12.887075000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -42.140093991099441, 
+            "powerMix": -41.53635469150376
+          }, 
+          "time": 13.038005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -29.116666439786776, 
+            "powerMix": -29.115138912580171
+          }, 
+          "time": 13.130884
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.333528212847131, 
+            "powerMix": -31.333528212847131
+          }, 
+          "time": 13.351474000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -67.918309593553104, 
+            "powerMix": -48.133557614342251
+          }, 
+          "time": 13.421134
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -22.986423459052993, 
+            "powerMix": -22.988664928468946
+          }, 
+          "time": 13.583673000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.881545531917034, 
+            "powerMix": -26.813848250955669
+          }, 
+          "time": 13.804263
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.078574959242122, 
+            "powerMix": -27.184845930038723
+          }, 
+          "time": 14.024853
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -39.293400445611901, 
+            "powerMix": -38.84196110967531
+          }, 
+          "time": 14.164172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -19.102904522714052, 
+            "powerMix": -19.10970034462968
+          }, 
+          "time": 14.233832000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.050900222984872, 
+            "powerMix": -28.050900222984872
+          }, 
+          "time": 14.477642000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -59.787168357177293, 
+            "powerMix": -47.387329715650566
+          }, 
+          "time": 14.616961000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.106820683671693, 
+            "powerMix": -27.106820683671693
+          }, 
+          "time": 14.709841
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.36755821156564, 
+            "powerMix": -30.36755821156564
+          }, 
+          "time": 14.953651
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.455665343910724, 
+            "powerMix": -39.791111837873189
+          }, 
+          "time": 15.034921
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.665694533518426, 
+            "powerMix": -27.764218229912384
+          }, 
+          "time": 15.15102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -20.425129473676677, 
+            "powerMix": -20.411476480589222
+          }, 
+          "time": 15.37161
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.028867399547437, 
+            "powerMix": -27.045705846648115
+          }, 
+          "time": 15.603810000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.097888148621749, 
+            "powerMix": -32.072435305461561
+          }, 
+          "time": 15.661859000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -29.795236539404417, 
+            "powerMix": -28.328806688460656
+          }, 
+          "time": 15.824399000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.848683089797866, 
+            "powerMix": -37.803265003796923
+          }, 
+          "time": 15.882449000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -19.659834243379688, 
+            "powerMix": -19.659834243379688
+          }, 
+          "time": 16.044989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.494592653115355, 
+            "powerMix": -27.462966319463394
+          }, 
+          "time": 16.265577999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.268090204728558, 
+            "powerMix": -30.268090204728558
+          }, 
+          "time": 16.486168
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.10341051316999, 
+            "powerMix": -32.10341051316999
+          }, 
+          "time": 16.695147000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.340997900277671, 
+            "powerMix": -28.33278738004627
+          }, 
+          "time": 16.915737
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -50.124599922562318, 
+            "powerMix": -48.888876196410507
+          }, 
+          "time": 17.043447
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -20.275797643399134, 
+            "powerMix": -20.287601037208628
+          }, 
+          "time": 17.136327
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.540165404829576, 
+            "powerMix": -27.427116076350458
+          }, 
+          "time": 17.368526000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.321025612597285, 
+            "powerMix": -30.170241371713757
+          }, 
+          "time": 17.577506
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.243206868233948, 
+            "powerMix": -34.121726868434493
+          }, 
+          "time": 17.670385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.908613061768477, 
+            "powerMix": -21.933126039803213
+          }, 
+          "time": 17.786485000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -37.904253796039782, 
+            "powerMix": -23.853483061137069
+          }, 
+          "time": 17.856145
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.756259744065041, 
+            "powerMix": -28.117628728497657
+          }, 
+          "time": 18.030295000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.351241487404629, 
+            "powerMix": -28.471606252166932
+          }, 
+          "time": 18.192834
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.736662025051054, 
+            "powerMix": -31.258943108282608
+          }, 
+          "time": 18.459864
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.664990566223139, 
+            "powerMix": -34.760481593536255
+          }, 
+          "time": 18.645624
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -23.832928272181675, 
+            "powerMix": -23.501375382432947
+          }, 
+          "time": 18.889433
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.473451371044227, 
+            "powerMix": -28.014238434348371
+          }, 
+          "time": 19.121633000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -39.885558166423102, 
+            "powerMix": -34.766027211014034
+          }, 
+          "time": 19.284172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.773143445089101, 
+            "powerMix": -29.623434339716201
+          }, 
+          "time": 19.353832
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.110633170372481, 
+            "powerMix": -33.834512827952224
+          }, 
+          "time": 19.469932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -23.220275692586242, 
+            "powerMix": -23.247325640817394
+          }, 
+          "time": 19.539592000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.943215725110953, 
+            "powerMix": -23.550883943772952
+          }, 
+          "time": 19.597642
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.704000131534215, 
+            "powerMix": -26.609269591401642
+          }, 
+          "time": 19.795011000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.555914277872411, 
+            "powerMix": -30.127772438396512
+          }, 
+          "time": 20.003990999000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.639263445481184, 
+            "powerMix": -31.740497672125457
+          }, 
+          "time": 20.23619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.483250746611034, 
+            "powerMix": -34.189612555165724
+          }, 
+          "time": 20.35229
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.893720023561173, 
+            "powerMix": -33.690755697806587
+          }, 
+          "time": 20.44517
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.500711849262952, 
+            "powerMix": -31.483189420276254
+          }, 
+          "time": 20.51483
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.67232514067096, 
+            "powerMix": -24.402690599666307
+          }, 
+          "time": 20.65415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.025502841573925, 
+            "powerMix": -29.687693076612881
+          }, 
+          "time": 20.886349000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.692578276756677, 
+            "powerMix": -31.564559199159138
+          }, 
+          "time": 21.106939
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.848664591309266, 
+            "powerMix": -31.815834255768827
+          }, 
+          "time": 21.176599000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.169403691493457, 
+            "powerMix": -25.562023962868771
+          }, 
+          "time": 21.281088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.485832575845599, 
+            "powerMix": -21.753645562789007
+          }, 
+          "time": 21.362358
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.740733758374638, 
+            "powerMix": -29.597494367134889
+          }, 
+          "time": 21.559728
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -52.342856518354743, 
+            "powerMix": -32.867932354921649
+          }, 
+          "time": 21.733878
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.328431822667298, 
+            "powerMix": -26.452832020759708
+          }, 
+          "time": 22.000907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.35747511949161, 
+            "powerMix": -32.414934560593274
+          }, 
+          "time": 22.140227000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.032109498822066, 
+            "powerMix": -32.897759952466096
+          }, 
+          "time": 22.198277
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.420810278120182, 
+            "powerMix": -31.454134181854695
+          }, 
+          "time": 22.279546
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -39.569248078392533, 
+            "powerMix": -22.319280767082702
+          }, 
+          "time": 22.407256
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -42.986624844739197, 
+            "powerMix": -25.704571629900734
+          }, 
+          "time": 22.500136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.793519384928409, 
+            "powerMix": -29.167548067770944
+          }, 
+          "time": 22.651066
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.657179927122499, 
+            "powerMix": -32.080863964013652
+          }, 
+          "time": 22.836825
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano", 
+              "male singer"
+            ], 
+            "powerStem": -60.303068785080526, 
+            "powerMix": -23.87487761668789
+          }, 
+          "time": 23.034195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.309518672906037, 
+            "powerMix": -26.018918540558467
+          }, 
+          "time": 23.289615
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.555927467186372, 
+            "powerMix": -28.56249023097584
+          }, 
+          "time": 23.498594
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.691215366625386, 
+            "powerMix": -29.988373526435073
+          }, 
+          "time": 23.719184000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.185015148487054, 
+            "powerMix": -31.896073039038622
+          }, 
+          "time": 23.916553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.590640131209284, 
+            "powerMix": -23.247666701732463
+          }, 
+          "time": 24.113923
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.78568708246036, 
+            "powerMix": -26.366706856963521
+          }, 
+          "time": 24.218413
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.897493233992293, 
+            "powerMix": -26.069880805411117
+          }, 
+          "time": 24.346122
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.673762250544076, 
+            "powerMix": -26.970342389636677
+          }, 
+          "time": 24.531881999000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.344313437354515, 
+            "powerMix": -23.96554185273693
+          }, 
+          "time": 24.729252000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.781186884572442, 
+            "powerMix": -24.708698881703665
+          }, 
+          "time": 25.007891
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.665328071675571, 
+            "powerMix": -23.303134621054284
+          }, 
+          "time": 25.205261
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.536501775713894, 
+            "powerMix": -31.932362585538709
+          }, 
+          "time": 25.449070000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.935504368446015, 
+            "powerMix": -30.616256731445766
+          }, 
+          "time": 25.658050000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.631513572935901, 
+            "powerMix": -35.09408592734075
+          }, 
+          "time": 25.727710000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.11312509292576, 
+            "powerMix": -20.824696919467822
+          }, 
+          "time": 25.855420000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.268954742594993, 
+            "powerMix": -25.124615495448403
+          }, 
+          "time": 26.087619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.358688816939331, 
+            "powerMix": -26.39284319071686
+          }, 
+          "time": 26.284989000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.755917981490423, 
+            "powerMix": -27.428524836513457
+          }, 
+          "time": 26.366259000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.6554285623507, 
+            "powerMix": -21.857897929339025
+          }, 
+          "time": 26.470748
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.626027655242218, 
+            "powerMix": -25.021799169347947
+          }, 
+          "time": 26.737778000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -26.938382867235994, 
+            "powerMix": -26.867267885353744
+          }, 
+          "time": 26.842268
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.944658540533791, 
+            "powerMix": -25.360436670077728
+          }, 
+          "time": 26.946757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -39.287882331506999, 
+            "powerMix": -28.176366302369431
+          }, 
+          "time": 27.155737000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.049290978909362, 
+            "powerMix": -28.115566748444216
+          }, 
+          "time": 27.353107
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.347019743553155, 
+            "powerMix": -33.176236007326295
+          }, 
+          "time": 27.480816
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -22.200853074186838, 
+            "powerMix": -21.86448170772961
+          }, 
+          "time": 27.562086
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.353939225971175, 
+            "powerMix": -33.471275383752001
+          }, 
+          "time": 27.701406000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.773114959906827, 
+            "powerMix": -26.555341546889785
+          }, 
+          "time": 27.805896
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -25.356650009984335, 
+            "powerMix": -25.364877929993931
+          }, 
+          "time": 27.921995000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.495283192796343, 
+            "powerMix": -27.150515722389251
+          }, 
+          "time": 28.014875
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.017565791733425, 
+            "powerMix": -20.886184024086333
+          }, 
+          "time": 28.212245000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.090893902320651, 
+            "powerMix": -23.809960938947686
+          }, 
+          "time": 28.316735
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -29.561764828893736, 
+            "powerMix": -29.131201824936529
+          }, 
+          "time": 28.467664000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.223962948411184, 
+            "powerMix": -30.76255587112691
+          }, 
+          "time": 28.676644000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -25.669210505759668, 
+            "powerMix": -25.672928058899288
+          }, 
+          "time": 28.815964
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.26692130330618, 
+            "powerMix": -26.735252519766291
+          }, 
+          "time": 28.908844000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.193393302083948, 
+            "powerMix": -27.907580485899381
+          }, 
+          "time": 29.106213
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -20.461910069485203, 
+            "powerMix": -20.366279888367359
+          }, 
+          "time": 29.315193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.157428198009786, 
+            "powerMix": -21.082876957916369
+          }, 
+          "time": 29.535782
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.926586867493047, 
+            "powerMix": -26.373495809640133
+          }, 
+          "time": 29.733152
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.390320657874355, 
+            "powerMix": -24.262681112682763
+          }, 
+          "time": 29.907302
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.146105680924819, 
+            "powerMix": -25.100175470279702
+          }, 
+          "time": 29.988571
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -44.143160836532147, 
+            "powerMix": -38.655831687873871
+          }, 
+          "time": 30.603900000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -19.794909201933471, 
+            "powerMix": -19.774099506277931
+          }, 
+          "time": 30.74322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.761181659742018, 
+            "powerMix": -25.305436126298495
+          }, 
+          "time": 30.917370000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -46.553993627807635, 
+            "powerMix": -45.241032317370305
+          }, 
+          "time": 31.358549000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -53.422898004701231, 
+            "powerMix": -49.559052476633028
+          }, 
+          "time": 31.625578
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.622816607930908, 
+            "powerMix": -31.246465812800768
+          }, 
+          "time": 31.857778000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -45.82462040917396, 
+            "powerMix": -30.181913478733012
+          }, 
+          "time": 32.031926999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.94161006565075, 
+            "powerMix": -28.665171953834726
+          }, 
+          "time": 32.124807000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.044841124281234, 
+            "powerMix": -28.786997717791181
+          }, 
+          "time": 32.275737
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -41.112276423651217, 
+            "powerMix": -31.40560899778302
+          }, 
+          "time": 32.391837
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.475819454213315, 
+            "powerMix": -38.175596010332157
+          }, 
+          "time": 32.531155999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.087053022639815, 
+            "powerMix": -34.955380709350983
+          }, 
+          "time": 32.705306
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -41.742476738191208, 
+            "powerMix": -40.252429812481203
+          }, 
+          "time": 32.821406
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.042313975419667, 
+            "powerMix": -29.769334549845688
+          }, 
+          "time": 32.879456000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.439243807897874, 
+            "powerMix": -38.384985712458743
+          }, 
+          "time": 33.111655
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.362455850431402, 
+            "powerMix": -37.705808033320636
+          }, 
+          "time": 33.204535
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.744545434201761, 
+            "powerMix": -28.538753254014679
+          }, 
+          "time": 33.425125
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.652946037422893, 
+            "powerMix": -30.1812332984261
+          }, 
+          "time": 33.541224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.412638793675086, 
+            "powerMix": -29.927974479229228
+          }, 
+          "time": 33.726984
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.457948894232572, 
+            "powerMix": -34.334242097918562
+          }, 
+          "time": 33.970794000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -37.218572211187706, 
+            "powerMix": -34.954231034191224
+          }, 
+          "time": 34.214603000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.938553064100901, 
+            "powerMix": -32.396218577722422
+          }, 
+          "time": 34.400363
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.880842367025053, 
+            "powerMix": -31.061670169326909
+          }, 
+          "time": 34.562902
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.68350265366761, 
+            "powerMix": -38.564833701854006
+          }, 
+          "time": 34.841542000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.065026847680834, 
+            "powerMix": -35.407662161467783
+          }, 
+          "time": 34.946032
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.183506182887584, 
+            "powerMix": -35.430538019943299
+          }, 
+          "time": 35.096961
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.606989547553212, 
+            "powerMix": -35.694115723096573
+          }, 
+          "time": 35.178231000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -29.326148324884436, 
+            "powerMix": -28.901928562512534
+          }, 
+          "time": 35.259500999000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.365272022940204, 
+            "powerMix": -33.514352794134425
+          }, 
+          "time": 35.352381
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.772560161416649, 
+            "powerMix": -35.515148209067725
+          }, 
+          "time": 35.422041
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.984655334221145, 
+            "powerMix": -38.320751798023323
+          }, 
+          "time": 35.526531000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.899825639646942, 
+            "powerMix": -32.090989879408411
+          }, 
+          "time": 35.700680000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -40.93287260115612, 
+            "powerMix": -36.205866168197161
+          }, 
+          "time": 35.932880000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.886764798617232, 
+            "powerMix": -30.055095675701885
+          }, 
+          "time": 36.141859000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -41.256812487769082, 
+            "powerMix": -37.992359790100586
+          }, 
+          "time": 36.408889
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.581148612049802, 
+            "powerMix": -35.092798611208281
+          }, 
+          "time": 36.594649000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.568932436901925, 
+            "powerMix": -37.376530963585573
+          }, 
+          "time": 36.745578
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -40.782735671134873, 
+            "powerMix": -38.752160716883132
+          }, 
+          "time": 36.838458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.309714968098568, 
+            "powerMix": -31.968711862542118
+          }, 
+          "time": 37.012608
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -40.07504710823212, 
+            "powerMix": -39.12564808854215
+          }, 
+          "time": 37.175147
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -42.413016644555157, 
+            "powerMix": -41.66269651504826
+          }, 
+          "time": 37.268027000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.770238394739415, 
+            "powerMix": -38.781000304048291
+          }, 
+          "time": 37.337687
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.628969448419156, 
+            "powerMix": -32.657406436805601
+          }, 
+          "time": 37.418957
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.292182248698495, 
+            "powerMix": -39.275184223422237
+          }, 
+          "time": 37.744036
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.721874598286661, 
+            "powerMix": -32.747571772914213
+          }, 
+          "time": 37.860136000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -40.113921229038908, 
+            "powerMix": -40.074854115036239
+          }, 
+          "time": 38.103946
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -43.838220274242744, 
+            "powerMix": -39.408194783852522
+          }, 
+          "time": 38.220045
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano", 
+              "male singer"
+            ], 
+            "powerStem": -72.192233940626039, 
+            "powerMix": -33.187558746645664
+          }, 
+          "time": 38.301315
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.490711311469234, 
+            "powerMix": -35.353497142656877
+          }, 
+          "time": 38.440635
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.755834118400685, 
+            "powerMix": -30.587780862682973
+          }, 
+          "time": 38.545125000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.737469974171539, 
+            "powerMix": -35.977981403707616
+          }, 
+          "time": 38.719274000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.218246508194447, 
+            "powerMix": -26.842957183172395
+          }, 
+          "time": 38.881814000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.391649304687107, 
+            "powerMix": -29.69844931614109
+          }, 
+          "time": 39.148844000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.482478872772347, 
+            "powerMix": -34.614922540528724
+          }, 
+          "time": 39.288163000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -43.145266407381442, 
+            "powerMix": -30.59993481318412
+          }, 
+          "time": 39.404263
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.887289976109066, 
+            "powerMix": -31.365100723628782
+          }, 
+          "time": 39.473923
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.472348323506154, 
+            "powerMix": -35.214799222043808
+          }, 
+          "time": 39.566803
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.820449313542696, 
+            "powerMix": -30.590983012065202
+          }, 
+          "time": 39.648073000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.747523220087942, 
+            "powerMix": -31.486629246409695
+          }, 
+          "time": 39.717732000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -50.179171587547621, 
+            "powerMix": -34.635738188461261
+          }, 
+          "time": 39.845442000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -42.467145823750123, 
+            "powerMix": -37.692776568052039
+          }, 
+          "time": 39.903492
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.717111979394296, 
+            "powerMix": -34.647280481281399
+          }, 
+          "time": 40.007981999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.035319732945972, 
+            "powerMix": -31.384762144136005
+          }, 
+          "time": 40.089252
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.207308208830348, 
+            "powerMix": -27.459460477027395
+          }, 
+          "time": 40.263401
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.218247347300341, 
+            "powerMix": -31.951371355459042
+          }, 
+          "time": 40.449161000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.466398003856703, 
+            "powerMix": -34.022529849874502
+          }, 
+          "time": 40.70458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.519202103232765, 
+            "powerMix": -30.714209689717094
+          }, 
+          "time": 40.809070000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.107227146861682, 
+            "powerMix": -31.923138493562057
+          }, 
+          "time": 40.89034
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.537823592312378, 
+            "powerMix": -31.824216815920426
+          }, 
+          "time": 40.96
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.122787528115126, 
+            "powerMix": -31.107501124489154
+          }, 
+          "time": 41.134149999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.559626223489531, 
+            "powerMix": -31.53967494400538
+          }, 
+          "time": 41.227029
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.752384124715924, 
+            "powerMix": -33.818071710424199
+          }, 
+          "time": 41.389569
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.082479690712844, 
+            "powerMix": -28.539526062278618
+          }, 
+          "time": 41.517279
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.789270261811026, 
+            "powerMix": -32.280377344905354
+          }, 
+          "time": 41.598549000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.85644746503332, 
+            "powerMix": -30.434997985634954
+          }, 
+          "time": 41.691429
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.976140374157154, 
+            "powerMix": -34.500563992703512
+          }, 
+          "time": 41.842358000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -40.559378387280923, 
+            "powerMix": -34.972190628140908
+          }, 
+          "time": 41.946848
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.263152421578525, 
+            "powerMix": -33.441386817189994
+          }, 
+          "time": 42.004898000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.571365421026581, 
+            "powerMix": -27.755284845909927
+          }, 
+          "time": 42.132608000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.562347248847239, 
+            "powerMix": -32.664603295526014
+          }, 
+          "time": 42.271927000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.66662309795835, 
+            "powerMix": -38.482586376894062
+          }, 
+          "time": 42.376417000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.083930819208714, 
+            "powerMix": -28.382385072440243
+          }, 
+          "time": 42.550567
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.92504576023358, 
+            "powerMix": -32.438605320003447
+          }, 
+          "time": 42.689887000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.040140668548261, 
+            "powerMix": -31.871250589840258
+          }, 
+          "time": 42.759546
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.380403879232617, 
+            "powerMix": -28.395193470122962
+          }, 
+          "time": 42.991746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.760363557350942, 
+            "powerMix": -29.902909347859158
+          }, 
+          "time": 43.235556
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -29.373847026510642, 
+            "powerMix": -27.556125135167647
+          }, 
+          "time": 43.409705
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.800514192055374, 
+            "powerMix": -30.470057514384941
+          }, 
+          "time": 43.723175000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.212940118569705, 
+            "powerMix": -26.581136923292213
+          }, 
+          "time": 43.862494000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.634794141567969, 
+            "powerMix": -29.87394282310899
+          }, 
+          "time": 44.222404000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.66544990486754, 
+            "powerMix": -30.462662914042124
+          }, 
+          "time": 44.280454000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.745214956415111, 
+            "powerMix": -36.253493293331836
+          }, 
+          "time": 44.501043
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.588083319746033, 
+            "powerMix": -29.496923987124333
+          }, 
+          "time": 44.710023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -41.237696859082277, 
+            "powerMix": -26.215197390704571
+          }, 
+          "time": 44.965442
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.217163026841888, 
+            "powerMix": -31.14165272203449
+          }, 
+          "time": 45.093152
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.854511077980867, 
+            "powerMix": -37.846021102184793
+          }, 
+          "time": 45.151202000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.037149908687361, 
+            "powerMix": -34.413389219906939
+          }, 
+          "time": 45.220862000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.901282797578176, 
+            "powerMix": -26.992676574280456
+          }, 
+          "time": 45.371791
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.567297568582639, 
+            "powerMix": -29.448487707802204
+          }, 
+          "time": 45.580771000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.313151914741439, 
+            "powerMix": -25.469951188637367
+          }, 
+          "time": 45.83619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.393941354953782, 
+            "powerMix": -26.298766573287452
+          }, 
+          "time": 45.97551
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.470363132123495, 
+            "powerMix": -28.015415574134508
+          }, 
+          "time": 46.10322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.871078721177753, 
+            "powerMix": -33.547612879510268
+          }, 
+          "time": 46.26576
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.894113579503532, 
+            "powerMix": -27.627522753772347
+          }, 
+          "time": 46.416689000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.270418594177315, 
+            "powerMix": -27.065305909263799
+          }, 
+          "time": 46.602449
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.892019501904123, 
+            "powerMix": -33.290839460521568
+          }, 
+          "time": 46.706939000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -39.29400469791085, 
+            "powerMix": -34.628080454590069
+          }, 
+          "time": 46.764989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.209799702078517, 
+            "powerMix": -27.491372657635488
+          }, 
+          "time": 46.834649000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.126109566698574, 
+            "powerMix": -26.915581992698762
+          }, 
+          "time": 46.927528
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.853948837232451, 
+            "powerMix": -24.190436539079862
+          }, 
+          "time": 47.078458000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.546041554497698, 
+            "powerMix": -25.981294834086292
+          }, 
+          "time": 47.287438
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.475583737751322, 
+            "powerMix": -29.477936725433818
+          }, 
+          "time": 47.496417
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.694647887763963, 
+            "powerMix": -28.329706708995893
+          }, 
+          "time": 47.693787
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.311969091127501, 
+            "powerMix": -25.898898196125202
+          }, 
+          "time": 47.925986
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.040140392476758, 
+            "powerMix": -24.319044021803968
+          }, 
+          "time": 48.100136000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.910337199648701, 
+            "powerMix": -24.845480621380069
+          }, 
+          "time": 48.355556
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.427168141681008, 
+            "powerMix": -24.173933930323585
+          }, 
+          "time": 48.413605000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.877782134298229, 
+            "powerMix": -28.134334332983137
+          }, 
+          "time": 48.529705
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.751788669714685, 
+            "powerMix": -31.556081522508212
+          }, 
+          "time": 48.587755
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.157606764344607, 
+            "powerMix": -30.084294842581887
+          }, 
+          "time": 48.785125
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.913497064526723, 
+            "powerMix": -26.383851846020924
+          }, 
+          "time": 48.982494
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.361267428064551, 
+            "powerMix": -26.948391613494344
+          }, 
+          "time": 49.19147400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.490950856262657, 
+            "powerMix": -29.74849572731749
+          }, 
+          "time": 49.330794000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.554687261753948, 
+            "powerMix": -29.73305630576451
+          }, 
+          "time": 49.667483000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano", 
+              "male singer"
+            ], 
+            "powerStem": -65.675627908290181, 
+            "powerMix": -29.783435853874522
+          }, 
+          "time": 49.806803
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.905377470352736, 
+            "powerMix": -29.435808044473291
+          }, 
+          "time": 50.004172000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.57757957358784, 
+            "powerMix": -27.499164907085827
+          }, 
+          "time": 50.271202
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.0592756607995, 
+            "powerMix": -27.204724023419118
+          }, 
+          "time": 50.491791000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.374750066521507, 
+            "powerMix": -28.745684176492542
+          }, 
+          "time": 50.654331000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.90805838211638, 
+            "powerMix": -31.009981718456757
+          }, 
+          "time": 50.828481000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.776278721853913, 
+            "powerMix": -30.054875665698031
+          }, 
+          "time": 50.921361000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.025229285036005, 
+            "powerMix": -29.95278468725758
+          }, 
+          "time": 51.10712
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.342781957503817, 
+            "powerMix": -31.561425278833923
+          }, 
+          "time": 51.36254
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.80298848894607, 
+            "powerMix": -34.62918542552805
+          }, 
+          "time": 51.4322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -44.091312649865969, 
+            "powerMix": -36.777235931846093
+          }, 
+          "time": 51.525078999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.466663962846013, 
+            "powerMix": -35.357709693113776
+          }, 
+          "time": 51.641179
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.946789118417762, 
+            "powerMix": -37.892188032601112
+          }, 
+          "time": 51.838549
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.183786434063308, 
+            "powerMix": -33.250462945454686
+          }, 
+          "time": 51.90820900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.795896027933331, 
+            "powerMix": -31.582973623711691
+          }, 
+          "time": 52.001088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.811723399849129, 
+            "powerMix": -29.365307703265465
+          }, 
+          "time": 52.268118
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.753539731478384, 
+            "powerMix": -33.940827207186125
+          }, 
+          "time": 52.430658
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.415928714955786, 
+            "powerMix": -31.133975056216752
+          }, 
+          "time": 52.523537000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.441024054343153, 
+            "powerMix": -30.010425556460504
+          }, 
+          "time": 52.651247000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -44.278350764198976, 
+            "powerMix": -36.273373098167866
+          }, 
+          "time": 52.70929700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.867707417715202, 
+            "powerMix": -35.163757191743763
+          }, 
+          "time": 52.767347
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.579907055218698, 
+            "powerMix": -25.244625493125096
+          }, 
+          "time": 52.848617000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano", 
+              "male singer"
+            ], 
+            "powerStem": -74.8482512161697, 
+            "powerMix": -34.550472710875795
+          }, 
+          "time": 52.953107
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.947556351948244, 
+            "powerMix": -34.454641660282014
+          }, 
+          "time": 53.01115600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.063314241397279, 
+            "powerMix": -30.171359314013749
+          }, 
+          "time": 53.069206
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.512589559005164, 
+            "powerMix": -28.340123214789216
+          }, 
+          "time": 53.278186000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.008768536710399, 
+            "powerMix": -31.326286958257374
+          }, 
+          "time": 53.51038500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.322658155331283, 
+            "powerMix": -30.323060331939466
+          }, 
+          "time": 53.672925000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.99731272116685, 
+            "powerMix": -36.517976393739481
+          }, 
+          "time": 53.777415000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.143441940460846, 
+            "powerMix": -27.895330150817841
+          }, 
+          "time": 53.951565
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.911804529101815, 
+            "powerMix": -28.399870683984751
+          }, 
+          "time": 54.102494
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.42376838851348, 
+            "powerMix": -26.750797502390459
+          }, 
+          "time": 54.172154000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.185927661222735, 
+            "powerMix": -31.4745450559159
+          }, 
+          "time": 54.311474000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.297112582307946, 
+            "powerMix": -32.563033593259668
+          }, 
+          "time": 54.566893
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.635238556301054, 
+            "powerMix": -30.456344903433727
+          }, 
+          "time": 54.636553000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -46.244620351129868, 
+            "powerMix": -32.887543199648725
+          }, 
+          "time": 54.752653
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.199586559671541, 
+            "powerMix": -25.90061956281734
+          }, 
+          "time": 54.891973
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.842581944332501, 
+            "powerMix": -27.04864978179836
+          }, 
+          "time": 54.973243000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.94338694355806, 
+            "powerMix": -30.23514536670648
+          }, 
+          "time": 55.205442000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.199910292857133, 
+            "powerMix": -34.259743012281795
+          }, 
+          "time": 55.275102000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.872797063505324, 
+            "powerMix": -35.749261548058868
+          }, 
+          "time": 55.402812000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.861698922061194, 
+            "powerMix": -28.696468250691488
+          }, 
+          "time": 55.472472
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.528549647519473, 
+            "powerMix": -25.018903175022935
+          }, 
+          "time": 55.658231
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.603220948003074, 
+            "powerMix": -23.76698316276693
+          }, 
+          "time": 55.902041000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.681140692022076, 
+            "powerMix": -34.225020035988379
+          }, 
+          "time": 56.169070000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -39.856947541553936, 
+            "powerMix": -37.634261439433402
+          }, 
+          "time": 56.34322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.957030565911474, 
+            "powerMix": -30.547860155313646
+          }, 
+          "time": 56.47093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.101721567522365, 
+            "powerMix": -28.096029349401807
+          }, 
+          "time": 56.645079
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.047413446030312, 
+            "powerMix": -31.458057259727667
+          }, 
+          "time": 57.074649
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.048007534324796, 
+            "powerMix": -33.944092901084865
+          }, 
+          "time": 57.492608000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.575032560901516, 
+            "powerMix": -27.900853373447767
+          }, 
+          "time": 57.562268
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.620394145074435, 
+            "powerMix": -29.90958203455579
+          }, 
+          "time": 57.701587
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.951253878011059, 
+            "powerMix": -28.187974015951941
+          }, 
+          "time": 58.433016
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.059094074484406, 
+            "powerMix": -30.472227098227926
+          }, 
+          "time": 58.537506
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.705017794060062, 
+            "powerMix": -36.708030917129548
+          }, 
+          "time": 58.920635000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.372041688065373, 
+            "powerMix": -26.186857492143673
+          }, 
+          "time": 59.280544000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.051287771047136, 
+            "powerMix": -32.598548849598863
+          }, 
+          "time": 59.559184
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.664304370416708, 
+            "powerMix": -36.740714361782089
+          }, 
+          "time": 59.71011300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.662305889461074, 
+            "powerMix": -37.654269203224274
+          }, 
+          "time": 59.919093000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.113917345158072, 
+            "powerMix": -40.411383291946251
+          }, 
+          "time": 59.988753
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -37.992244133574793, 
+            "powerMix": -36.936118672979184
+          }, 
+          "time": 60.081633000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -43.136442567478042, 
+            "powerMix": -34.236079212102389
+          }, 
+          "time": 60.139683000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.879180280590784, 
+            "powerMix": -25.394880172990138
+          }, 
+          "time": 60.325442
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.497460117593516, 
+            "powerMix": -29.380357907601471
+          }, 
+          "time": 60.580862
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.586333315193706, 
+            "powerMix": -32.924716703945748
+          }, 
+          "time": 60.650522
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.401184019547145, 
+            "powerMix": -32.294217266458325
+          }, 
+          "time": 60.83628100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -44.218347178037199, 
+            "powerMix": -24.505048672759813
+          }, 
+          "time": 60.952381
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.410618048797122, 
+            "powerMix": -30.042493502436358
+          }, 
+          "time": 61.242630000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -34.627799747617686, 
+            "powerMix": -32.512911934118847
+          }, 
+          "time": 61.38195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -43.630644519788682, 
+            "powerMix": -42.288823917645601
+          }, 
+          "time": 61.52127
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.575387945577226, 
+            "powerMix": -37.083817265200864
+          }, 
+          "time": 61.61415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -47.223891615345686, 
+            "powerMix": -45.35997991855217
+          }, 
+          "time": 61.741859000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.250530592737952, 
+            "powerMix": -35.2433568120384
+          }, 
+          "time": 61.834739000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.038178390616451, 
+            "powerMix": -36.962910270717458
+          }, 
+          "time": 61.904399000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.596108561530492, 
+            "powerMix": -24.246212727066691
+          }, 
+          "time": 62.020499
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -49.478583282064008, 
+            "powerMix": -37.147571582726911
+          }, 
+          "time": 62.241088000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.123136002486802, 
+            "powerMix": -30.372371845234497
+          }, 
+          "time": 62.357188
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.815897682501145, 
+            "powerMix": -31.876557246602477
+          }, 
+          "time": 62.461678000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.984427936581497, 
+            "powerMix": -22.322931862047565
+          }, 
+          "time": 62.682268
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.350300800933624, 
+            "powerMix": -29.751237456521004
+          }, 
+          "time": 63.111837
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.85300409548222, 
+            "powerMix": -33.971420647254547
+          }, 
+          "time": 63.332426000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.573522515252165, 
+            "powerMix": -33.987235395218207
+          }, 
+          "time": 63.564626000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.901176564894755, 
+            "powerMix": -31.748952997615127
+          }, 
+          "time": 63.622676000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.874089667705995, 
+            "powerMix": -25.324660172628807
+          }, 
+          "time": 63.761995000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -39.44673003404538, 
+            "powerMix": -37.07179480109162
+          }, 
+          "time": 64.00580500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.537744381595665, 
+            "powerMix": -31.631713177797106
+          }, 
+          "time": 64.191565
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.879930590854748, 
+            "powerMix": -36.871167586507319
+          }, 
+          "time": 64.261224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.91877894248158, 
+            "powerMix": -29.133317793185238
+          }, 
+          "time": 64.377324
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -40.91168782975739, 
+            "powerMix": -34.974971236413246
+          }, 
+          "time": 64.853333
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.529329382490602, 
+            "powerMix": -35.469695626733355
+          }, 
+          "time": 65.085533
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano", 
+              "male singer"
+            ], 
+            "powerStem": -74.113287955180283, 
+            "powerMix": -34.228683533220824
+          }, 
+          "time": 65.282902
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -49.061862930679318, 
+            "powerMix": -46.390805375648881
+          }, 
+          "time": 65.387392
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.197035613385328, 
+            "powerMix": -24.171616916164563
+          }, 
+          "time": 65.491882
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.644778742685439, 
+            "powerMix": -31.028378005219366
+          }, 
+          "time": 65.75891200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.870056257101631, 
+            "powerMix": -35.900204558100036
+          }, 
+          "time": 65.921451
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.590772263064135, 
+            "powerMix": -25.375321417086351
+          }, 
+          "time": 66.130430999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.893611084735632, 
+            "powerMix": -32.540064569004286
+          }, 
+          "time": 66.45551
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.478237258594632, 
+            "powerMix": -29.50589128578121
+          }, 
+          "time": 66.58322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -48.749229067503975, 
+            "powerMix": -46.78093356970264
+          }, 
+          "time": 66.68771000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.208984161682039, 
+            "powerMix": -35.816094286606841
+          }, 
+          "time": 66.74576
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -41.763223723546112, 
+            "powerMix": -37.712307630127867
+          }, 
+          "time": 66.82702900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.82922106517087, 
+            "powerMix": -36.15280191938848
+          }, 
+          "time": 66.908299
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.435672412837427, 
+            "powerMix": -39.101737340111391
+          }, 
+          "time": 67.024399
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.582792760963475, 
+            "powerMix": -27.441371591298072
+          }, 
+          "time": 67.094059
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.420859563927472, 
+            "powerMix": -24.056926437724968
+          }, 
+          "time": 67.244989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.707665623983246, 
+            "powerMix": -32.954596250627517
+          }, 
+          "time": 67.500407999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.983705553458321, 
+            "powerMix": -32.006839609114138
+          }, 
+          "time": 67.674558
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.520312175340621, 
+            "powerMix": -24.57670899653737
+          }, 
+          "time": 67.871927
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.596633089683205, 
+            "powerMix": -24.305765266727498
+          }, 
+          "time": 67.941587
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.684186839588769, 
+            "powerMix": -34.666338333054952
+          }, 
+          "time": 68.08090700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.114933817303907, 
+            "powerMix": -34.702732192231025
+          }, 
+          "time": 68.197007
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano", 
+              "male singer"
+            ], 
+            "powerStem": -75.728037686669964, 
+            "powerMix": -34.47089337323267
+          }, 
+          "time": 68.324717
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -26.984476302403753, 
+            "powerMix": -26.603347941762081
+          }, 
+          "time": 68.51047600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.363719951029953, 
+            "powerMix": -27.340922906325567
+          }, 
+          "time": 68.68462600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -37.672336445610753, 
+            "powerMix": -28.536153925364893
+          }, 
+          "time": 68.75428600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.985430819126954, 
+            "powerMix": -25.739537004900129
+          }, 
+          "time": 68.940045
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.233558611909579, 
+            "powerMix": -34.161593690329831
+          }, 
+          "time": 69.056145
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.969890006199606, 
+            "powerMix": -32.668939514462338
+          }, 
+          "time": 69.18385500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.72531185473612, 
+            "powerMix": -27.451983223379983
+          }, 
+          "time": 69.241905
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano", 
+              "male singer"
+            ], 
+            "powerStem": -66.62862174407654, 
+            "powerMix": -29.948988627119864
+          }, 
+          "time": 69.381224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -23.817595928704023, 
+            "powerMix": -23.557468479647291
+          }, 
+          "time": 69.601814
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -40.296538387033792, 
+            "powerMix": -32.279255834967415
+          }, 
+          "time": 70.031383
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -39.696036847263166, 
+            "powerMix": -32.230748591906419
+          }, 
+          "time": 70.251973
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.991336581020338, 
+            "powerMix": -28.981369564684968
+          }, 
+          "time": 70.36807300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.833110440857801, 
+            "powerMix": -34.087878432055504
+          }, 
+          "time": 70.43773200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.235186653670866, 
+            "powerMix": -24.05124300337873
+          }, 
+          "time": 70.64671200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.152267687446262, 
+            "powerMix": -33.560405666257822
+          }, 
+          "time": 70.890522
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.772728645565152, 
+            "powerMix": -27.832965514577893
+          }, 
+          "time": 71.087891
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.505043222155699, 
+            "powerMix": -28.395167461958014
+          }, 
+          "time": 71.238821
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -36.669696000234808, 
+            "powerMix": -32.297996301001469
+          }, 
+          "time": 71.51746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -38.446994115687289, 
+            "powerMix": -33.596417349665309
+          }, 
+          "time": 71.93542000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -42.423160234214137, 
+            "powerMix": -35.98772802396244
+          }, 
+          "time": 72.19083900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -49.857937512850945, 
+            "powerMix": -42.937869779161993
+          }, 
+          "time": 72.29532900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.935403017435497, 
+            "powerMix": -28.815577204252207
+          }, 
+          "time": 72.353379
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.580966070934487, 
+            "powerMix": -29.922731910460296
+          }, 
+          "time": 72.585578
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.670471762960865, 
+            "powerMix": -33.109726658717427
+          }, 
+          "time": 72.79455800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -30.153139805520595, 
+            "powerMix": -27.404694798618287
+          }, 
+          "time": 73.00353700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -29.643798854819821, 
+            "powerMix": -28.279811753988646
+          }, 
+          "time": 73.57242600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.255990042846467, 
+            "powerMix": -26.736516192943789
+          }, 
+          "time": 73.700136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -33.36844363037342, 
+            "powerMix": -32.705945228757784
+          }, 
+          "time": 73.816236
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.645804613440362, 
+            "powerMix": -34.129201132059762
+          }, 
+          "time": 74.094875
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -31.348547414552055, 
+            "powerMix": -29.276801661720278
+          }, 
+          "time": 74.234195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.622818795797947, 
+            "powerMix": -31.864575943336646
+          }, 
+          "time": 74.663764
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -52.719217217708504, 
+            "powerMix": -33.027981619848454
+          }, 
+          "time": 74.768254
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -42.65954856144041, 
+            "powerMix": -29.672163067641691
+          }, 
+          "time": 74.919184
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.655280638791435, 
+            "powerMix": -27.795732458194955
+          }, 
+          "time": 75.000454
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.526230232499568, 
+            "powerMix": -26.587675098489107
+          }, 
+          "time": 75.279093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.603572200278428, 
+            "powerMix": -27.722939102846333
+          }, 
+          "time": 75.430023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.842948339738872, 
+            "powerMix": -30.070411854828876
+          }, 
+          "time": 75.569342
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -36.615388588745979, 
+            "powerMix": -36.117723951330937
+          }, 
+          "time": 75.801542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -35.873178059890598, 
+            "powerMix": -35.450658948025549
+          }, 
+          "time": 75.882812
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.119513411751061, 
+            "powerMix": -27.112836047586434
+          }, 
+          "time": 76.068571
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.266168618312811, 
+            "powerMix": -31.993029646506265
+          }, 
+          "time": 76.207891
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.282148630695477, 
+            "powerMix": -27.179347636946652
+          }, 
+          "time": 76.312381
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.879026009489479, 
+            "powerMix": -25.725648128836145
+          }, 
+          "time": 76.47492100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.119875716884479, 
+            "powerMix": -26.650920935806145
+          }, 
+          "time": 76.84644
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.147763313285424, 
+            "powerMix": -28.026916224946639
+          }, 
+          "time": 76.98576
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.077906990414839, 
+            "powerMix": -29.244146636658041
+          }, 
+          "time": 77.101859
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.592625491667896, 
+            "powerMix": -30.546525605370007
+          }, 
+          "time": 77.380499
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -47.115418839345381, 
+            "powerMix": -40.969378213956546
+          }, 
+          "time": 77.705578
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -34.283073294566563, 
+            "powerMix": -30.371793181451523
+          }, 
+          "time": 77.76362800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano", 
+              "male singer"
+            ], 
+            "powerStem": -60.478084043588261, 
+            "powerMix": -26.471422918772692
+          }, 
+          "time": 77.97260800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.213453174865577, 
+            "powerMix": -28.229396520779808
+          }, 
+          "time": 78.135147
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.919046674792291, 
+            "powerMix": -26.698573797035991
+          }, 
+          "time": 78.64598600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -32.881587866004899, 
+            "powerMix": -32.926045036529118
+          }, 
+          "time": 78.994286
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -29.364987151932723, 
+            "powerMix": -26.846978375799594
+          }, 
+          "time": 79.05233600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -48.92931952101975, 
+            "powerMix": -32.24668900122942
+          }, 
+          "time": 79.26131500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -29.24382963259621, 
+            "powerMix": -29.270072760583922
+          }, 
+          "time": 79.412245
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.30741943913501, 
+            "powerMix": -30.872453850180204
+          }, 
+          "time": 79.505125
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.673364070580469, 
+            "powerMix": -26.569310356110091
+          }, 
+          "time": 79.679274
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.312137677842472, 
+            "powerMix": -28.629994854863384
+          }, 
+          "time": 79.86503400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.747023393770718, 
+            "powerMix": -27.014507698690142
+          }, 
+          "time": 80.317823
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.497191854253806, 
+            "powerMix": -26.293487821187142
+          }, 
+          "time": 80.55002300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -28.60911894630518, 
+            "powerMix": -27.690205140023764
+          }, 
+          "time": 80.642902
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -35.324415622653298, 
+            "powerMix": -27.713297086913457
+          }, 
+          "time": 80.700952
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.90241110120779, 
+            "powerMix": -26.382414492308616
+          }, 
+          "time": 80.875102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.243857784893997, 
+            "powerMix": -27.549064745517914
+          }, 
+          "time": 81.037642
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.46420338819739, 
+            "powerMix": -26.801757025332034
+          }, 
+          "time": 81.281451
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.249991087522968, 
+            "powerMix": -26.506780793180212
+          }, 
+          "time": 81.420771
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -44.127810304791907, 
+            "powerMix": -28.948718368229613
+          }, 
+          "time": 81.560091
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.404279236950664, 
+            "powerMix": -27.143912921770244
+          }, 
+          "time": 81.641361
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -39.425503961254869, 
+            "powerMix": -29.86958500715453
+          }, 
+          "time": 82.11737000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.180028486051274, 
+            "powerMix": -26.799013469970188
+          }, 
+          "time": 82.279909
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -42.891737590293289, 
+            "powerMix": -31.274592547058987
+          }, 
+          "time": 82.419229
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.181371748923905, 
+            "powerMix": -25.036182604945523
+          }, 
+          "time": 82.488889
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.038910024713495, 
+            "powerMix": -24.05339519358899
+          }, 
+          "time": 82.918458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.149588546342919, 
+            "powerMix": -22.919704908423697
+          }, 
+          "time": 82.988118
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -26.633743712468544, 
+            "powerMix": -26.227986722848268
+          }, 
+          "time": 83.348027
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -27.141386095339179, 
+            "powerMix": -26.474305764777725
+          }, 
+          "time": 83.498957
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -26.653023675016531, 
+            "powerMix": -24.511217692358208
+          }, 
+          "time": 83.684717
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -29.20858579068485, 
+            "powerMix": -27.480291655761153
+          }, 
+          "time": 83.858866
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.732114863426361, 
+            "powerMix": -27.416377645948565
+          }, 
+          "time": 83.998186
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.875195520672122, 
+            "powerMix": -23.813890977151392
+          }, 
+          "time": 84.09106600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.527089661853161, 
+            "powerMix": -28.110846065005788
+          }, 
+          "time": 84.172336
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -47.961838001672426, 
+            "powerMix": -29.452540759631432
+          }, 
+          "time": 84.26521499900001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -38.426410964322947, 
+            "powerMix": -29.789603506679882
+          }, 
+          "time": 84.323265
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -30.197260397161298, 
+            "powerMix": -28.554770994097591
+          }, 
+          "time": 84.462585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.882462240808575, 
+            "powerMix": -26.926272685968993
+          }, 
+          "time": 84.62512500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.82286502136748, 
+            "powerMix": -25.308214564149392
+          }, 
+          "time": 84.72961500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.36324878829511, 
+            "powerMix": -25.676006923342356
+          }, 
+          "time": 84.83410400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -29.379114464769337, 
+            "powerMix": -27.289547899480311
+          }, 
+          "time": 85.04308400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -32.224647346193741, 
+            "powerMix": -30.968391134331515
+          }, 
+          "time": 85.29850300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.069684561400535, 
+            "powerMix": -24.961039757458412
+          }, 
+          "time": 85.379773
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -29.335557793303408, 
+            "powerMix": -26.663587813020957
+          }, 
+          "time": 85.50748300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.619736345866272, 
+            "powerMix": -28.290374838620842
+          }, 
+          "time": 85.72807300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -25.223972466069689, 
+            "powerMix": -25.170509936367559
+          }, 
+          "time": 85.786122
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -23.451656116142257, 
+            "powerMix": -23.450421224930651
+          }, 
+          "time": 86.169252
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.687490978048515, 
+            "powerMix": -26.22792253487458
+          }, 
+          "time": 86.413061
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -26.848743529082249, 
+            "powerMix": -26.585790240017182
+          }, 
+          "time": 86.610431
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.543139634177248, 
+            "powerMix": -21.293108600950426
+          }, 
+          "time": 86.79619000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.559186692495004, 
+            "powerMix": -26.930121591356698
+          }, 
+          "time": 87.22576000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -21.808932692216651, 
+            "powerMix": -21.669641861721423
+          }, 
+          "time": 87.376689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.139909451955358, 
+            "powerMix": -26.164860687348423
+          }, 
+          "time": 87.632109
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -26.13748294975899, 
+            "powerMix": -25.011951617938752
+          }, 
+          "time": 88.026848
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.45991431974841, 
+            "powerMix": -23.22193215207119
+          }, 
+          "time": 88.096508
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -37.468680263092551, 
+            "powerMix": -25.628352048706198
+          }, 
+          "time": 88.177778
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -29.490168675300655, 
+            "powerMix": -28.233053770423822
+          }, 
+          "time": 88.40997700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.703238429674691, 
+            "powerMix": -24.94953082895297
+          }, 
+          "time": 88.560907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -24.610048994171891, 
+            "powerMix": -24.156170937221258
+          }, 
+          "time": 88.932426
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -31.106247862803073, 
+            "powerMix": -25.918325687098879
+          }, 
+          "time": 89.060136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.915058715801472, 
+            "powerMix": -27.846058183151893
+          }, 
+          "time": 89.292336
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -23.11285203743866, 
+            "powerMix": -21.109112986504122
+          }, 
+          "time": 89.350385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.458478272014574, 
+            "powerMix": -39.832019647559832
+          }, 
+          "time": 89.76834500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -29.107787526079587, 
+            "powerMix": -24.253523535143966
+          }, 
+          "time": 89.965714
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -33.467230414018658, 
+            "powerMix": -32.725900175251454
+          }, 
+          "time": 90.12825400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -26.610810890320586, 
+            "powerMix": -24.148614913885886
+          }, 
+          "time": 90.639093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "piano"
+            ], 
+            "powerStem": -22.040843400833673, 
+            "powerMix": -22.06926312898279
+          }, 
+          "time": 91.068662
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.631326240344141, 
+            "powerMix": -28.401761136525714
+          }, 
+          "time": 91.33569200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.071923436961342, 
+            "powerMix": -39.975044132250012
+          }, 
+          "time": 91.637551
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -29.249247002478683, 
+            "powerMix": -29.123934203785133
+          }, 
+          "time": 91.90458000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.870758732157586, 
+            "powerMix": -28.846002749442068
+          }, 
+          "time": 92.03229
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -41.460802154207045, 
+            "powerMix": -41.460507807365985
+          }, 
+          "time": 92.47346900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -27.095734874556776, 
+            "powerMix": -27.098565882148979
+          }, 
+          "time": 92.740499
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -40.085492491279602, 
+            "powerMix": -40.0668230359463
+          }, 
+          "time": 93.34421800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -28.653099707046902, 
+            "powerMix": -28.653099707046902
+          }, 
+          "time": 93.87827700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -24.478152353253996, 
+            "powerMix": -24.478152353253996
+          }, 
+          "time": 99.358186
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "male singer"
+            ], 
+            "powerStem": -26.310197299391849, 
+            "powerMix": -26.310197299391849
+          }, 
+          "time": 99.41623600000001
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "YesSirICanFly", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 99.641179138322, 
+    "artist": "BrandonWebster"
+  }
+}

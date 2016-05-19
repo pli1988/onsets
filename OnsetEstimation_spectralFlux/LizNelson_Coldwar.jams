@@ -1,0 +1,3586 @@
+{
+  "sandbox": {}, 
+  "annotations": [
+    {
+      "namespace": "onset", 
+      "sandbox": {}, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 0.19737000000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 0.522449
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 0.8475280000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 1.160998
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 1.509297
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 1.8459860000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 2.194286
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 2.484535
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 2.600635
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 2.693515
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 3.1579140000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 3.459773
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 3.796463
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 4.144762
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 4.446621
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 4.493061
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 4.852971
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 5.1548300000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 5.537959000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 5.909478
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 6.222948000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 6.582857000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 6.907937
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 7.244626
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 7.523265
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 7.569705000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 7.8831750000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 7.999274000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 8.057324000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 8.521723
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 8.835193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 8.951293
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 9.218322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 9.589841
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 9.984580000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 10.03102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 10.541859
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 10.634739000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 14.338322000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 14.651791000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 15.139410000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 15.278730000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 15.592200000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 15.882449000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 16.323628
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 16.462948
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 16.753197
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 17.089887
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 17.577506
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 18.018685
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 18.308934
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 18.796553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 18.959093000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 19.121633000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 19.249342000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 19.527981999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 20.027211
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 20.166531000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 20.30585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 20.48
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 20.770249
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 21.246259000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 21.699048
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 21.989297
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 22.453696
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 22.593016000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 22.906485
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 23.161905
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 23.591474
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 23.626304
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 24.021043000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 24.346122
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 24.787302
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 24.984671000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 25.286531
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 25.58839
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 26.064399
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 26.517188
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 26.795828
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 27.004807000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 27.434376
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 28.026485
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 28.514104000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 28.630204000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 28.932063000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 29.617052
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 30.49941
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 30.650340000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 31.404989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 31.730068000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 32.171247
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 32.949116000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 33.494785
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 33.622494
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 34.237823
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 34.377143000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 34.864762
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 35.224671
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 35.526531000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 36.01415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 36.153469
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 36.316009
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 36.989388000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 37.233197000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 37.593107
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 38.614785000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 38.939864
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 39.218503000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 39.253332999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 39.427483
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 39.764172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 40.96
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 41.134149999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 41.261859
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 41.412789000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 41.714649
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 42.190658
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 42.655057
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 42.933696000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 43.398095000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 43.560635000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 43.850884
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 44.164354
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 44.292063000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 44.605533
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 44.744853000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 45.035102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 45.348571
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 45.9639
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 46.567619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 46.997188
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 47.159728
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 47.333878000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 47.449977000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 47.751837
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 47.914376000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 48.506484999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 48.970884000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 49.168254000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 49.423673
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 49.760363000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 49.888073000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 50.108662
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 50.178322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 50.642721
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 50.770431
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 51.095510000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 51.223220000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 51.385760000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 51.548299
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 51.850159000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 51.989478000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 52.163628
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 52.593197
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 52.767347
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 53.104036
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 53.394286
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 53.545215000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 53.661315
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 53.823855
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 53.96317500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 54.241814000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 54.415964
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 54.659773
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 54.741043000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 54.868753000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 55.008073
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 55.460862000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 56.18068
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 56.633469000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 56.784399
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 56.946939
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 57.086259000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 57.306848
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 57.980227000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 58.11954600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 58.28208600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 58.57233600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 58.74648500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 59.048345000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 59.280544000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 59.40825400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 59.779773000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 59.942313000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 60.116463
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 60.255782
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 60.395102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 60.708571000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 60.99882100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 61.474830000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 61.61415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 61.776689000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 61.916009
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 62.206259
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 62.403628000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 62.693878000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 62.995737000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 63.448526
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 63.587846000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 63.889705000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 64.191565
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 64.632744
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 65.050703
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 65.22485300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 65.39900200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 65.805351
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 66.281361
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 66.56
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 67.024399
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 67.453968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 67.779048
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 67.906757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 68.173787
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 68.68462600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 69.39283400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 69.857234
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 70.00816300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 70.57705200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 70.76281200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 71.07628100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 71.83093000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 72.272109
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 72.423039
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 72.713288
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 73.015147
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 73.746576
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 73.804626
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 74.269025
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 74.396735
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 74.710204
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 74.988844
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 75.174603
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 75.430023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 76.068571
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 76.37043100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 76.40526100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 76.64907000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 76.84644
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 77.14829900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 77.252789
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 77.43854900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 77.566259
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 77.821678
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 78.169977
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 78.320907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 78.448617
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 78.773696
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 79.040726
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 79.505125
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 79.632834
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 79.957914
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 80.236553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 80.271383
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 80.410703
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 80.72417200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 80.94476200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 81.18857100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 81.467211
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 81.76907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 82.08254000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 82.17542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 82.37278900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 82.674649
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 82.860408
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 83.139048
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 83.30158700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 83.893696
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 84.36970500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 84.509024999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 84.683175
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 84.822494
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 85.08952400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 85.12435400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 85.72807300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 85.786122
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 85.948662
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 86.041542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 86.320181
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 86.81941
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 86.97034000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 87.09805
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 87.17932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 87.44634900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 87.574059
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 88.061678
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 88.351927
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 88.51446700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 89.01369600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 89.33877600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 89.37360500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 89.65224500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 89.80317500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 90.11664400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 90.255964
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 90.557823
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 90.685533
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 90.824853
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 90.987392
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 91.277642
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 91.776871
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 92.22966000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 92.508298999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 92.93786800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 93.112018
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 93.26294800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 93.355828
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 93.69251700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 93.83183700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 94.30784600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 94.62131500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 94.91156500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 95.37596400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 95.51528300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 95.677823
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 95.80553300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 95.84036300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 96.107392
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 96.26993200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 96.58340100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 96.73433100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 96.83882100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 97.04780000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 97.23356000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 97.33805000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 97.964989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 98.58031700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 98.754467
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 99.067937
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 99.19564600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 99.36979600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 99.787755
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 99.961905
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 100.26376400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 100.391474
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 100.542404
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 100.704943
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 100.971973
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 101.424762
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 101.575692
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 101.73823100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 102.15619000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 102.31873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 102.58576000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 102.75990900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 103.05015900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 103.352018
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 103.816417
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 103.95573700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 104.09505700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 104.55945600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 104.710385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 105.01224500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 105.186395
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 105.47664400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 105.743673
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 105.98748300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 106.23129300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 106.37061200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 106.66086200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 106.939501
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 107.102041
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 107.72898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 107.87990900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 108.19337900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 108.355918
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 108.680998
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 108.84353700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 108.98285700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 109.13378699900001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 109.400816
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 109.87682500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 110.039365
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 110.178685
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 110.34122400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 110.643084
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 110.794014
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 111.13070300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 111.258413
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 111.571882
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 111.862132
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 112.02467100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 112.326531
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 112.48907000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 112.80254000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 113.081179
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 113.24371900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 113.533968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 113.69650800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 113.998367
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 114.288617
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 114.72979600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 114.88072600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 115.17097500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 115.461224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 115.63537400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 115.96045400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 116.09977300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 116.250703
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 116.42485300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 116.87764200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 117.30721100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 117.434921
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 118.607528
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 118.77006800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 119.06031700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 120.105215
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 120.24453500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 121.13850300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 121.46358300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 122.38077100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 122.49687100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 122.83356
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 123.15863900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 123.34439900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 124.13387800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 125.004626
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 125.66639500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 125.99147400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 126.24689300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 126.583583
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 126.87383200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 127.33823100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 127.82585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 128.11610000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 128.59210900000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 128.719819
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 128.812698
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 129.033288
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 129.311927
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 129.79954600000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 129.950476
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 130.229116
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 130.519364999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 130.69351500000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 130.983764
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 131.134694
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 131.274014
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 131.401723
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 131.436553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 131.715193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 131.86612200000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 132.202812
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 132.353741
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 132.458231
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 132.65560100000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 132.91102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 133.06195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 133.37542000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 133.642449
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 133.816599
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 134.095238
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 134.246168
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 134.559637
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 134.698957
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 134.838277
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 134.989206
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 135.267845999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 135.430385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 135.732245
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 135.883175
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 136.173424
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 136.47528300000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 136.626213
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 136.939683
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 137.05578200000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 137.206712
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 137.36925200000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 137.636281
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 137.98458000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 138.25161
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 138.40254000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 138.565079
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 138.855329
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 139.006259
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 139.284898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 139.447438
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 139.586757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 139.691247
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 139.77251700000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 140.027937
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 140.167256
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 140.515556
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 140.654875
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 140.782585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 140.968345
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 141.246984
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 141.676553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 141.862313
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 142.04807300000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 142.175782
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 142.466032
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 142.90721100000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 143.069751
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 143.36
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 143.49932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 143.66185900000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 143.824399
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 144.161088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 144.41650800000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 144.880907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 145.078277
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 145.38013600000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 145.51945600000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 145.670385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 146.088345
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 146.227664
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 146.541134
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 146.65723400000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 146.959093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 146.993923
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 147.284172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 147.44671200000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 147.736961
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 147.887891
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 148.20136100000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 148.50322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 148.65415000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 148.909569
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 148.95600900000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 149.257868
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 149.420408
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 149.629388
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 149.699048
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 149.86158700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 150.16344700000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 150.314376
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 150.465306
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 150.894875
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 151.069025
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 151.312834
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 151.37088400000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 151.533424
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 151.730794
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 151.800454
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 152.09070300000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 152.43900200000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 152.589932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 152.74086200000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 152.903401
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 153.01950100000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 153.309751
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 153.4839
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 153.8322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 153.971519
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 154.08761900000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 154.261768999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 154.540408
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 154.714558
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 155.039637
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 155.35310700000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 155.77106600000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 155.94521500000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 156.258685
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 156.398005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 156.548934
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 156.711474
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 156.990113
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 157.50095199900002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 157.651882
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 157.80281200000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 157.953741
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 158.255601
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 158.70839
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 159.45142900000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 159.579138
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 159.973878
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 160.113197
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 160.27573700000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 160.426667
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 160.740136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 161.20453500000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 161.332245
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 161.645714
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 161.970794
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 162.121723
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 162.44680300000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 162.597732
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 162.864762
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 162.899592
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 163.178231
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 163.67746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 163.85161000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 163.97932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 164.141859
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 164.420499
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 164.60625900000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 164.908118
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 165.082268
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 165.395737
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 165.685986
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 166.115556
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": NaN, 
+          "value": NaN, 
+          "time": 169.66820900000002
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "Coldwar", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 169.9874829931973, 
+    "artist": "LizNelson"
+  }
+}

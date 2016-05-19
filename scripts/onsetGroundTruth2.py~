@@ -1,0 +1,359 @@
+from __future__ import division
+
+import glob
+import os
+
+import librosa
+import medleydb as mdb
+
+import numpy as np
+import scipy
+
+import itertools
+import jams
+
+def loadAudio(mixedAudioPath,stemsPathList, sr = 44100):
+
+    mixAudio, sr = librosa.load(mixedAudioPath, sr)
+    mixAudio = np.array(mixAudio).T
+
+    # load stems
+
+    stems = []
+
+    for path in stemsPathList:
+
+        stems.append(librosa.load(path, sr)[0])
+
+    stemsAudio = np.array(stems).T
+    
+    return mixAudio, stemsAudio
+
+def estimateGain(mixAudio, stemsAudio, window, stride = None):
+    '''A function to estimate gain coefficients
+    using a rolling regression with window and stride
+    
+    '''
+    
+    if stride == None:
+        stride = window/2
+        
+    gain = np.zeros(stemsAudio.shape)
+
+    gainStart = 0
+    gainEnd = window
+
+    regStart = 0
+    regEnd = window
+
+    stemTmp = stemsAudio[regStart:regEnd]
+    mixTmp = mixAudio[regStart:regEnd]
+
+    gain[gainStart:gainEnd] = scipy.optimize.nnls(stemTmp,mixTmp)[0]
+
+    while regEnd < len(mixAudio):
+
+        gainStart = gainEnd
+        gainEnd = gainStart + stride
+
+        regStart = regStart + stride
+        regEnd = regEnd + stride
+
+        stemTmp = stemsAudio[regStart:regEnd]
+        mixTmp = mixAudio[regStart:regEnd]
+
+        gain[gainStart:gainEnd] = scipy.optimize.nnls(stemTmp,mixTmp)[0]
+    
+    return gain
+
+def findPeaksOnStem(onsetEnvList_stem,pre_max = 3,post_max = 3,pre_avg = 3,post_avg = 3,wait = 1):
+    
+    stemPeakList = []
+
+    for stemOnsetEnvelope in onsetEnvList_stem:
+
+        onsetFrameIdx = librosa.util.peak_pick(stemOnsetEnvelope, pre_max, post_max, pre_avg, post_avg,  stemOnsetEnvelope.mean(), wait)
+        onsetSampleIdx = [librosa.core.frames_to_samples(idx, n_fft=2048, hop_length=512)[0] for idx in onsetFrameIdx]
+
+        stemPeakList.append(onsetSampleIdx)
+        
+    return stemPeakList
+
+def appendOnsetSource(onsetList):
+    # A function to append source idx to osets
+    # returns: [[(onsetidx,source1)]]
+    return [[(x,i) for x in onsetList[i]]for i in range(len(onsetList))]
+
+def power_db(S):
+    
+    return 10*np.log10(sum(S**2)/len(S))
+
+def getSurrounding(X,idx, window = 44100*.04):
+    
+    start = max(0, idx - int(window/2))
+    end = min(len(X), idx + int(window/2))
+
+    if len(X.shape) == 1:
+        return X[start:end]
+    else:
+        return X[start:end,:]
+    
+def isMasked_loudness(X, onsetIdx, sourceIdx, threshold = -20):
+
+    X_section = getSurrounding(X,onsetIdx)
+    combined_section = X_section.sum(1)
+
+    powerMix = power_db(combined_section)
+
+    sourceMask = [power_db(s) - powerMix < threshold for s in X_section.T[sourceIdx]] 
+
+    idxNotMasked = [i for i,j in zip(sourceIdx, sourceMask) if not j]
+    powerSource = power_db(X_section.T[idxNotMasked].sum(0))
+    
+    return sourceMask, powerSource, powerMix  
+
+def mergeOnset_greedy(gainWeightedStem, onsetList, temporalThreshold = 44100*0.05, loudnessThreshold = -20):
+    
+    ''' A function to merge sets of onset from multiple sources
+    
+    Inputs
+        onsetList: list of list of onsets per source
+            example: [[1 2 3][1 4 7]]
+    '''
+    
+    #append source id to onsets
+    onsetSourceList = appendOnsetSource(onsetList)
+
+    flat_onset = [item for sublist in onsetSourceList for item in sublist]
+    combinedOnset = sorted(flat_onset, key = lambda x: x[0])
+
+    #list of unique onsets
+    keys = sorted(list(set([s[0] for s in combinedOnset])))
+
+    # dictionary of onsets
+    d = {key:[] for key in keys}
+
+    for (onsetIdx, sourceID) in combinedOnset:
+        d[onsetIdx].append(sourceID)
+
+    mergedOnset = [keys[0]]
+    sourceList = [d[keys[0]]]
+
+    for onset in keys[1:]:
+        
+        # check temporal
+        if onset - mergedOnset[-1] > temporalThreshold:
+            
+            #check loudness
+            sourceMask, powerSource, powerMix = isMasked_loudness(gainWeightedStem, onset, d[onset], threshold = loudnessThreshold)
+            
+            if any([x == False for x in sourceMask]):
+                
+                idxNotMasked = [i for i,x in enumerate(sourceMask) if not x]
+                sourceIdx = [d[onset][i] for i in idxNotMasked]
+            
+                mergedOnset.append(onset)
+                sourceList.append(sourceIdx)
+
+    return mergedOnset, sourceList
+
+def mergeOnset_greedy2(gainWeightedStem, onsetList, temporalThreshold = 44100*0.05, loudnessThreshold = -20):
+    
+    ''' A function to merge sets of onset from multiple sources
+    
+    Inputs
+        onsetList: list of list of onsets per source
+            example: [[1 2 3][1 4 7]]
+    '''
+    
+    #append source id to onsets
+    onsetSourceList = appendOnsetSource(onsetList)
+
+    flat_onset = [item for sublist in onsetSourceList for item in sublist]
+    combinedOnset = sorted(flat_onset, key = lambda x: x[0])
+
+    #list of unique onsets
+    keys = sorted(list(set([s[0] for s in combinedOnset])))
+
+    # dictionary of onsets
+    d = {key:[] for key in keys}
+
+    for (onsetIdx, sourceID) in combinedOnset:
+        d[onsetIdx].append(sourceID)
+
+    mergedOnset = []
+    sourceList = []
+    powerStem = []
+    powerMix = []
+    
+
+    for onset in keys:
+
+        if len(mergedOnset) == 0:
+
+            #check loudness
+            sourceMask, pSource, pMix = isMasked_loudness(gainWeightedStem, onset, d[onset], threshold = loudnessThreshold)
+
+            if any([x == False for x in sourceMask]):
+
+                idxNotMasked = [i for i,x in enumerate(sourceMask) if not x]
+                sourceIdx = [d[onset][i] for i in idxNotMasked]
+
+                mergedOnset.append(onset)
+                sourceList.append(sourceIdx)
+                powerStem.append(pSource)
+                powerMix.append(pMix)          
+
+        else:
+
+            # check temporal
+            if onset - mergedOnset[-1] > temporalThreshold:
+
+                #check loudness
+                sourceMask, pSource, pMix = isMasked_loudness(gainWeightedStem, onset, d[onset], threshold = loudnessThreshold)
+
+                if any([x == False for x in sourceMask]):
+
+                    idxNotMasked = [i for i,x in enumerate(sourceMask) if not x]
+                    sourceIdx = [d[onset][i] for i in idxNotMasked]
+                    
+                    mergedOnset.append(onset)
+                    sourceList.append(sourceIdx)
+                    powerStem.append(pSource)
+                    powerMix.append(pMix)        
+
+    return mergedOnset, sourceList, powerStem, powerMix
+
+def findNearest(activationTimes, t):
+
+    idx = 0
+
+    while idx < len(activationTimes):
+
+        if activationTimes[idx] < t:
+            idx += 1
+        else:
+            return idx-1, idx
+        
+            break
+            
+def sizePolyphony(stemActivations, t):
+    
+    activationTimes = stemActivations[:,0] 
+
+    left, right = findNearest(activationTimes, t)
+    
+    isActive = stemActivations[[left,right],1:] >= 0.5
+    
+    return sum(sum(isActive))//2
+
+def createAnnotation(onsetTime, peakInstrument, polyphony, annotationRules,powerStem, powerMix):
+
+    jam = jams.JAMS()
+
+    onset_a = jams.Annotation(namespace='onset')
+    onset_a.annotation_metadata.annotation_rules = annotationRules
+
+    for t,i,p,s,m in zip(onsetTime,peakInstrument, polyphony,powerStem, powerMix):
+
+        dataDict = {'onsetSource': i, 'polyphony': p, 'powerStem' : s, 'powerMix': m}
+
+        onset_a.append(time=t, duration=0.0, value = dataDict)
+
+    jam.annotations.append(onset_a)    
+    
+    return jam
+
+
+
+if __name__ == '__main__':
+
+    # get list of files on medleyDB path and load them
+    trackList = os.listdir(mdb.AUDIO_PATH)
+    trackList = [t for t in trackList if t[0]!='.']
+
+    # multitrack generator
+    mtrack_generator = mdb.load_multitracks(trackList)
+
+    sr = 44100
+    gainWindow = int(sr*0.25)
+    temporalThreshold = sr*0.05
+    loudnessThreshold = -20
+
+    g ='Gain Window: ' + str(gainWindow/sr) + 'ms'
+    t = 'Temporal Threshold: ' + str(temporalThreshold/sr) + 'ms'
+    l = 'Loudness Threshold: ' + str(loudnessThreshold) + 'dB'
+
+    annotationRules = "\n".join([g,t,l])
+
+    baseOutPath = './OnsetAnnotations2'
+
+    for track in mtrack_generator:
+        outPath = os.path.join(baseOutPath,track.track_id+'.jams')
+
+        if not os.path.exists(outPath):
+        
+            # only compute annotations for tracks without bleed
+            if track.has_bleed == False:
+                
+                ### Load Thngs ###
+                
+                # data paths
+                mixedAudioPath = track.mix_path
+                stemsPathList = track.stem_filepaths()
+                
+                # audio
+                mixAudio, stemsAudio = loadAudio(mixedAudioPath,stemsPathList, sr = sr)
+                
+                # track-level annotations 
+                instList = track.stem_instruments
+                stemActivations = np.array(track.stem_activations)
+                
+                ### Gain Estimation ###
+                
+                # estimate gain per stem
+                gain = estimateGain(mixAudio, stemsAudio, gainWindow, int(gainWindow/2))
+                
+                # weight stem audio by gain
+                gainWeightedStem = np.array(gain)*stemsAudio
+
+                ### Onsets ###
+                
+                # compute onset strength envelopes
+                onsetEnvList_stem = [librosa.onset.onset_strength(y=s, sr=sr) for s in gainWeightedStem.T]
+                onsetEnv_mix = librosa.onset.onset_strength(y=mixAudio, sr=sr)
+                
+                # find peaks of individual stem onset envelopes
+                stemPeakList = findPeaksOnStem(onsetEnvList_stem)
+
+
+
+                # merge stem onset 
+                mergedOnset, sourceList, powerStem, powerMix = mergeOnset_greedy2(gainWeightedStem, stemPeakList, 
+                                                            temporalThreshold = temporalThreshold,
+                                                            loudnessThreshold = loudnessThreshold)
+                
+                # computations for annotation
+                onsetTime = [s/44100 for s in mergedOnset]
+                peakInstrument = [[instList[i] for i in s] for s in sourceList]
+                polyphony = [sizePolyphony(stemActivations, t) for t in onsetTime]
+                
+                j = createAnnotation(onsetTime, peakInstrument, polyphony, annotationRules, powerStem, powerMix)
+                
+                j.file_metadata.artist = track.artist
+                j.file_metadata.title = track.title
+                j.file_metadata.duration = len(mixAudio)/sr
+
+                metaData = {}
+                metaData['genre'] = track.genre
+                metaData['is_instrumental'] = track.is_instrumental
+                j.sandbox = metaData
+
+                
+                j.save(outPath)
+                print track.track_id
+                
+
+
+
+

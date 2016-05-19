@@ -1,0 +1,6604 @@
+{
+  "sandbox": {
+    "genre": "Musical Theatre", 
+    "is_instrumental": false
+  }, 
+  "annotations": [
+    {
+      "namespace": "onset", 
+      "sandbox": {}, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "Gain Window: 0.25ms\nTemporal Threshold: 0.05ms\nLoudness Threshold: -20dB", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.315974338501483, 
+            "powerMix": -25.315974338501483
+          }, 
+          "time": 0.42956900000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -76.712154985760947, 
+            "powerMix": -76.712154985760947
+          }, 
+          "time": 0.8939680000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.113216629997272, 
+            "powerMix": -25.113216629997272
+          }, 
+          "time": 0.975238
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -54.927365224967552, 
+            "powerMix": -54.927365224967552
+          }, 
+          "time": 1.416417
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.059065020837014, 
+            "powerMix": -26.059065020837014
+          }, 
+          "time": 1.5325170000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -57.531540197370404, 
+            "powerMix": -57.531540197370404
+          }, 
+          "time": 1.799546
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -62.817468780492291, 
+            "powerMix": -62.817468780492291
+          }, 
+          "time": 1.9388660000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.693985665652871, 
+            "powerMix": -25.693985665652871
+          }, 
+          "time": 2.020136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -72.560498230993232, 
+            "powerMix": -72.560498230993232
+          }, 
+          "time": 2.5425850000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -38.766738675697511, 
+            "powerMix": -38.766738675697511
+          }, 
+          "time": 2.6238550000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.043237288517659, 
+            "powerMix": -26.043237288517659
+          }, 
+          "time": 3.134694
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -52.881878327485417, 
+            "powerMix": -52.875363051669765
+          }, 
+          "time": 3.541043
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -23.847927939650226, 
+            "powerMix": -22.001818056724133
+          }, 
+          "time": 3.668753
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -22.71426829247044, 
+            "powerMix": -22.715522240592346
+          }, 
+          "time": 4.040272
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -19.826769249504625, 
+            "powerMix": -19.827210112142598
+          }, 
+          "time": 4.167982
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.388731872147019, 
+            "powerMix": -18.923253936297201
+          }, 
+          "time": 4.249252
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -31.020315581732085, 
+            "powerMix": -30.996179538302382
+          }, 
+          "time": 4.446621
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -23.929996156567906, 
+            "powerMix": -19.825957044709611
+          }, 
+          "time": 4.771701
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -15.119417353378257, 
+            "powerMix": -15.107253477293895
+          }, 
+          "time": 4.911020000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.954641667657754, 
+            "powerMix": -12.723126190353106
+          }, 
+          "time": 5.340590000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.737345109797094, 
+            "powerMix": -20.164123493187226
+          }, 
+          "time": 5.886259000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -16.901009927696094, 
+            "powerMix": -16.898828951853044
+          }, 
+          "time": 6.118458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.232889710807159, 
+            "powerMix": -14.301067252019326
+          }, 
+          "time": 6.408707000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.664122403512716, 
+            "powerMix": -14.66244385717661
+          }, 
+          "time": 6.687347000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -28.778177544622142, 
+            "powerMix": -27.155561165369736
+          }, 
+          "time": 6.977596
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.141325859029656, 
+            "powerMix": -14.133921389639209
+          }, 
+          "time": 7.082086
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.606934113399269, 
+            "powerMix": -13.133530510261311
+          }, 
+          "time": 7.511655
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -26.353233942286671, 
+            "powerMix": -26.355150090832666
+          }, 
+          "time": 7.941224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.592819706466194, 
+            "powerMix": -26.624788614833363
+          }, 
+          "time": 8.057324000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.67679635647254, 
+            "powerMix": -26.720811031411134
+          }, 
+          "time": 8.335964
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -20.722793948065984, 
+            "powerMix": -20.720624401298579
+          }, 
+          "time": 8.672653
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -19.484925737230828, 
+            "powerMix": -19.485237762991112
+          }, 
+          "time": 8.777143
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.166705705372173, 
+            "powerMix": -29.164759602874302
+          }, 
+          "time": 8.893243
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -25.758203961807741, 
+            "powerMix": -25.757776830901292
+          }, 
+          "time": 8.951293
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -23.691775239178806, 
+            "powerMix": -23.631893506668483
+          }, 
+          "time": 9.206712000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -38.848634219663019, 
+            "powerMix": -25.983555771384395
+          }, 
+          "time": 9.287982000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -41.111175624610169, 
+            "powerMix": -35.061834288830077
+          }, 
+          "time": 9.346032000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.378945516431649, 
+            "powerMix": -10.817519575787852
+          }, 
+          "time": 9.462132
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -16.380459113341182, 
+            "powerMix": -10.103852603537169
+          }, 
+          "time": 9.520181000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "claps"
+            ], 
+            "powerStem": -39.170122445643997, 
+            "powerMix": -10.050826234812645
+          }, 
+          "time": 9.717551
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -20.850649996099719, 
+            "powerMix": -10.706758014425784
+          }, 
+          "time": 9.880091
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -29.112319609090012, 
+            "powerMix": -11.129137502248579
+          }, 
+          "time": 9.938141
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.195876422453688, 
+            "powerMix": -9.814927740082938
+          }, 
+          "time": 10.007800000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -20.536009021804968, 
+            "powerMix": -9.3894506877668569
+          }, 
+          "time": 10.26322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.126566203975571, 
+            "powerMix": -12.039631624829699
+          }, 
+          "time": 10.44898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.638820770432288, 
+            "powerMix": -10.59780281213561
+          }, 
+          "time": 10.565079
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -16.10472834253143, 
+            "powerMix": -12.15647150821016
+          }, 
+          "time": 10.634739000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -24.889946110533408, 
+            "powerMix": -11.303710544483682
+          }, 
+          "time": 10.797279000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.925294447971766, 
+            "powerMix": -14.175932542700684
+          }, 
+          "time": 10.901769
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.442186217738715, 
+            "powerMix": -22.743030075613774
+          }, 
+          "time": 11.017868
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.18611322805328, 
+            "powerMix": -9.8429307438171314
+          }, 
+          "time": 11.087528
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -32.585067886344973, 
+            "powerMix": -13.25665365715097
+          }, 
+          "time": 11.168798
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps", 
+              "female singer"
+            ], 
+            "powerStem": -40.813040741485793, 
+            "powerMix": -12.689214258232022
+          }, 
+          "time": 11.342948000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.962897094259695, 
+            "powerMix": -15.302405784660241
+          }, 
+          "time": 11.435828
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -17.228120567710469, 
+            "powerMix": -15.334157679190287
+          }, 
+          "time": 11.586757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -19.894716787589289, 
+            "powerMix": -8.8938360486521706
+          }, 
+          "time": 11.644807
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.296642195754865, 
+            "powerMix": -10.747591111908271
+          }, 
+          "time": 11.726077
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.242611642331653, 
+            "powerMix": -12.384641942931705
+          }, 
+          "time": 11.923447000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.619101481590461, 
+            "powerMix": -12.122507924579844
+          }, 
+          "time": 12.039546000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -62.455938538075273, 
+            "powerMix": -12.84273605389023
+          }, 
+          "time": 12.132425999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.476721399521313, 
+            "powerMix": -10.870494471066579
+          }, 
+          "time": 12.190476
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -28.238664426108194, 
+            "powerMix": -11.853166808634663
+          }, 
+          "time": 12.445896000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -36.383185651120499, 
+            "powerMix": -13.182307089662039
+          }, 
+          "time": 12.724535000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -16.23074769628505, 
+            "powerMix": -13.459377529762008
+          }, 
+          "time": 12.910295000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.399827265484713, 
+            "powerMix": -12.549183429594503
+          }, 
+          "time": 12.991565000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.876545186149627, 
+            "powerMix": -15.145618453371146
+          }, 
+          "time": 13.096054
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.784616603131898, 
+            "powerMix": -19.568895783734778
+          }, 
+          "time": 13.200544
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.568019755184643, 
+            "powerMix": -13.80598671563215
+          }, 
+          "time": 13.270204000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -32.950728400700569, 
+            "powerMix": -13.640385332104785
+          }, 
+          "time": 13.351474000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -31.8414321175213, 
+            "powerMix": -13.551439405546496
+          }, 
+          "time": 13.525624
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass", 
+              "female singer"
+            ], 
+            "powerStem": -40.627826762595561, 
+            "powerMix": -10.594890235555583
+          }, 
+          "time": 13.792653000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.920263978372365, 
+            "powerMix": -10.548837015826354
+          }, 
+          "time": 14.059683000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -40.624616793516822, 
+            "powerMix": -12.634612560635334
+          }, 
+          "time": 14.268662
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.42840623949926, 
+            "powerMix": -10.612084140462475
+          }, 
+          "time": 14.373152000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -27.449035147978357, 
+            "powerMix": -13.459756716646638
+          }, 
+          "time": 14.582132000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -39.170711655177328, 
+            "powerMix": -12.098600188908623
+          }, 
+          "time": 14.640181
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.644617997520379, 
+            "powerMix": -11.811845668569138
+          }, 
+          "time": 14.907211
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -42.319574189747435, 
+            "powerMix": -12.896596927792242
+          }, 
+          "time": 15.18585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.953862390009711, 
+            "powerMix": -14.954337025089819
+          }, 
+          "time": 15.255510000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -33.7192610412703, 
+            "powerMix": -18.240406354704898
+          }, 
+          "time": 15.31356
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -33.238741923597708, 
+            "powerMix": -18.481449411954202
+          }, 
+          "time": 15.383220000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -40.944910179980823, 
+            "powerMix": -13.853145787659308
+          }, 
+          "time": 15.464490000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -26.854346662584916, 
+            "powerMix": -14.878627749153214
+          }, 
+          "time": 15.53415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -21.587159470153555, 
+            "powerMix": -16.373605256699459
+          }, 
+          "time": 15.61542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.76887893743422, 
+            "powerMix": -12.085593421906049
+          }, 
+          "time": 15.696689000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.591925370769687, 
+            "powerMix": -15.516976580848139
+          }, 
+          "time": 15.754739
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -15.650308653643224, 
+            "powerMix": -13.397685756378433
+          }, 
+          "time": 15.952109000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.754348834936996, 
+            "powerMix": -10.965603153500552
+          }, 
+          "time": 16.010159
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -23.353607175817732, 
+            "powerMix": -11.922386228743239
+          }, 
+          "time": 16.253968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -15.465895981710602, 
+            "powerMix": -13.602625313745754
+          }, 
+          "time": 16.404898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -21.758317455720452, 
+            "powerMix": -13.848181041800238
+          }, 
+          "time": 16.462948
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.27334223531264, 
+            "powerMix": -8.0498868338758029
+          }, 
+          "time": 16.532608
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -21.779935610684412, 
+            "powerMix": -18.654582146656516
+          }, 
+          "time": 16.741587000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -18.502113640901605, 
+            "powerMix": -10.555472278345675
+          }, 
+          "time": 16.811247
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.602539493043754, 
+            "powerMix": -15.787936792232715
+          }, 
+          "time": 17.101497000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -18.043326667555636, 
+            "powerMix": -13.910667182452674
+          }, 
+          "time": 17.252425999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -27.455108796742067, 
+            "powerMix": -12.582249956170795
+          }, 
+          "time": 17.333696
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.494793749933985, 
+            "powerMix": -11.508058089395306
+          }, 
+          "time": 17.496236
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass", 
+              "female singer"
+            ], 
+            "powerStem": -59.318600046446662, 
+            "powerMix": -13.634971444436829
+          }, 
+          "time": 17.635556
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.795827347960188, 
+            "powerMix": -10.740420424600593
+          }, 
+          "time": 17.763265
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -23.042831905993211, 
+            "powerMix": -13.756706317905913
+          }, 
+          "time": 17.856145
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass", 
+              "female singer"
+            ], 
+            "powerStem": -34.496906623786749, 
+            "powerMix": -12.714551193769985
+          }, 
+          "time": 17.914195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -29.721113067763216, 
+            "powerMix": -18.399875453337387
+          }, 
+          "time": 17.995465
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.910538878524463, 
+            "powerMix": -13.170415303337688
+          }, 
+          "time": 18.053515
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -12.976976079691173, 
+            "powerMix": -8.893161988256951
+          }, 
+          "time": 18.158005000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.041231155086251, 
+            "powerMix": -11.245974043652092
+          }, 
+          "time": 18.274104
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.116027245797753, 
+            "powerMix": -12.034659335787294
+          }, 
+          "time": 18.401814
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -21.756265176225011, 
+            "powerMix": -12.131800182781859
+          }, 
+          "time": 18.610794000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.915841561768012, 
+            "powerMix": -7.7682575682181465
+          }, 
+          "time": 18.703673000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.36434050896613, 
+            "powerMix": -9.6852711903189963
+          }, 
+          "time": 18.970703
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.077097098889588, 
+            "powerMix": -9.6490010698715558
+          }, 
+          "time": 19.284172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "claps"
+            ], 
+            "powerStem": -52.345565731878928, 
+            "powerMix": -10.733748127376114
+          }, 
+          "time": 19.516372
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.124236507351874, 
+            "powerMix": -12.083768164220244
+          }, 
+          "time": 19.620862000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -40.910180982588983, 
+            "powerMix": -11.214480628010882
+          }, 
+          "time": 19.829841000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -25.038242808652758, 
+            "powerMix": -16.282941976739988
+          }, 
+          "time": 19.911111000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.012243036348742, 
+            "powerMix": -13.994661492753171
+          }, 
+          "time": 20.073651
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -29.002193071721702, 
+            "powerMix": -16.414034145600279
+          }, 
+          "time": 20.27102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.54580979474072, 
+            "powerMix": -10.350279958804933
+          }, 
+          "time": 20.3639
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "claps"
+            ], 
+            "powerStem": -43.250140066828671, 
+            "powerMix": -13.826494411777341
+          }, 
+          "time": 20.619320000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -25.516136143501992, 
+            "powerMix": -11.895190793554571
+          }, 
+          "time": 20.793469
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.087271143974322, 
+            "powerMix": -10.492285029895644
+          }, 
+          "time": 20.886349000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "claps"
+            ], 
+            "powerStem": -43.76688504524823, 
+            "powerMix": -13.627981623590976
+          }, 
+          "time": 21.164989000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.958482015546082, 
+            "powerMix": -14.535040438794127
+          }, 
+          "time": 21.455238
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -30.540889881330028, 
+            "powerMix": -16.044358125005502
+          }, 
+          "time": 21.606168
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.677818789029033, 
+            "powerMix": -11.834128958124827
+          }, 
+          "time": 21.699048
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "female singer"
+            ], 
+            "powerStem": -43.880776827048969, 
+            "powerMix": -13.117301974828113
+          }, 
+          "time": 21.757098000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.306999088661318, 
+            "powerMix": -12.800101707034573
+          }, 
+          "time": 21.815147
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.43742487891604, 
+            "powerMix": -12.364741105207456
+          }, 
+          "time": 21.884807000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.324387578359506, 
+            "powerMix": -12.581066639476976
+          }, 
+          "time": 21.954467
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.067062849938701, 
+            "powerMix": -10.668336461772812
+          }, 
+          "time": 22.012517000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.899395107603077, 
+            "powerMix": -10.961297228524723
+          }, 
+          "time": 22.082177
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.982411764397554, 
+            "powerMix": -12.020080967583233
+          }, 
+          "time": 22.267936999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -16.18001196951418, 
+            "powerMix": -14.684559221353197
+          }, 
+          "time": 22.442086
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -17.125935967760842, 
+            "powerMix": -10.222397530260212
+          }, 
+          "time": 22.534966
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -23.429963994747776, 
+            "powerMix": -10.471220377699348
+          }, 
+          "time": 22.790385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -20.568101366565497, 
+            "powerMix": -12.882535783275976
+          }, 
+          "time": 22.999365
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.738149857371969, 
+            "powerMix": -8.0147474696840089
+          }, 
+          "time": 23.069025
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.938976685278746, 
+            "powerMix": -10.546438196506958
+          }, 
+          "time": 23.336054
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.945106390956752, 
+            "powerMix": -8.2080050613239219
+          }, 
+          "time": 23.626304
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -18.960180275174508, 
+            "powerMix": -12.394276191158598
+          }, 
+          "time": 23.684354000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.271552728584171, 
+            "powerMix": -11.159422773342609
+          }, 
+          "time": 23.881723
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.318150587223514, 
+            "powerMix": -11.775119669943173
+          }, 
+          "time": 23.939773000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.230431365128702, 
+            "powerMix": -12.884570030692524
+          }, 
+          "time": 24.009433
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.739730459237759, 
+            "powerMix": -15.436028524998196
+          }, 
+          "time": 24.102313000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -12.480873339719015, 
+            "powerMix": -10.463474490616459
+          }, 
+          "time": 24.183583000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.082943895835584, 
+            "powerMix": -17.137277361789508
+          }, 
+          "time": 24.288073
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -37.43215327567016, 
+            "powerMix": -14.796584524268511
+          }, 
+          "time": 24.462222
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -16.692989742263322, 
+            "powerMix": -15.143692635781459
+          }, 
+          "time": 24.671202
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.993041177443569, 
+            "powerMix": -8.2549785093146539
+          }, 
+          "time": 24.729252000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.65295908469929, 
+            "powerMix": -15.40946801300927
+          }, 
+          "time": 25.007891
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "female singer"
+            ], 
+            "powerStem": -45.153832787802997, 
+            "powerMix": -14.056421034131237
+          }, 
+          "time": 25.112381000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -20.944843577952142, 
+            "powerMix": -17.632153476693183
+          }, 
+          "time": 25.170431
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.179101579148004, 
+            "powerMix": -14.970824699791001
+          }, 
+          "time": 25.286531
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -22.054528418817711, 
+            "powerMix": -13.702981907284803
+          }, 
+          "time": 25.530340000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.260941203604538, 
+            "powerMix": -11.571447475226989
+          }, 
+          "time": 25.785760000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.703061919552031, 
+            "powerMix": -16.335969222906702
+          }, 
+          "time": 25.855420000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.194835895398782, 
+            "powerMix": -14.755032157900114
+          }, 
+          "time": 26.076009000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.456518307571589, 
+            "powerMix": -15.587526859491692
+          }, 
+          "time": 26.168889
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -18.881382001061745, 
+            "powerMix": -17.63766011563898
+          }, 
+          "time": 26.250159
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -11.426166874539494, 
+            "powerMix": -10.944903038141522
+          }, 
+          "time": 26.343039
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.231642742230989, 
+            "powerMix": -15.859060664882136
+          }, 
+          "time": 26.482358
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -34.763295736698225, 
+            "powerMix": -17.34689340997889
+          }, 
+          "time": 26.540408000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -19.198898804981884, 
+            "powerMix": -17.451427786532257
+          }, 
+          "time": 26.610068000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.567779913185223, 
+            "powerMix": -17.816829005538153
+          }, 
+          "time": 26.668118000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -19.957123370873404, 
+            "powerMix": -18.111102891394449
+          }, 
+          "time": 26.737778000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.67491975626292, 
+            "powerMix": -11.101995213316087
+          }, 
+          "time": 26.888707
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.253755042281007, 
+            "powerMix": -14.108560760447137
+          }, 
+          "time": 27.144127
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -21.434116699054982, 
+            "powerMix": -14.491004897592084
+          }, 
+          "time": 27.318277000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -33.297290694032164, 
+            "powerMix": -12.945241730062522
+          }, 
+          "time": 27.422766000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.691388950232728, 
+            "powerMix": -13.135577353716759
+          }, 
+          "time": 27.689796
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.247956887547993, 
+            "powerMix": -15.006105681131871
+          }, 
+          "time": 27.747846000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.689105210295915, 
+            "powerMix": -12.117329113985287
+          }, 
+          "time": 27.980045
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -45.822852496579394, 
+            "powerMix": -15.827482216438426
+          }, 
+          "time": 28.270295
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.482217497201905, 
+            "powerMix": -19.048303894884356
+          }, 
+          "time": 28.339955000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -36.25391185334346, 
+            "powerMix": -17.7860424937607
+          }, 
+          "time": 28.409615000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -29.200750707919735, 
+            "powerMix": -10.492768373806253
+          }, 
+          "time": 28.502494000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.126403678724909, 
+            "powerMix": -15.831989287148836
+          }, 
+          "time": 28.560544
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -35.053933634959613, 
+            "powerMix": -18.060498200769338
+          }, 
+          "time": 28.665034000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -23.44081639665605, 
+            "powerMix": -13.423864636310617
+          }, 
+          "time": 28.781134
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.731141008504764, 
+            "powerMix": -15.492342569889114
+          }, 
+          "time": 28.839184000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -34.162728015529296, 
+            "powerMix": -18.992876831777913
+          }, 
+          "time": 28.897234
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar", 
+              "female singer"
+            ], 
+            "powerStem": -60.69474398093309, 
+            "powerMix": -11.727490441029687
+          }, 
+          "time": 29.094603000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -30.154474379112585, 
+            "powerMix": -12.350525195251167
+          }, 
+          "time": 29.164263000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.151774122185135, 
+            "powerMix": -15.479636154081387
+          }, 
+          "time": 29.361633
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.219965380646293, 
+            "powerMix": -15.774996564270086
+          }, 
+          "time": 29.512561999000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -38.979247359088134, 
+            "powerMix": -13.783183842339046
+          }, 
+          "time": 29.651882
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -22.662067546611176, 
+            "powerMix": -16.898314964002672
+          }, 
+          "time": 29.791202000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.488014800136245, 
+            "powerMix": -13.190841891610276
+          }, 
+          "time": 29.895692
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -25.301824103540852, 
+            "powerMix": -16.372976518199241
+          }, 
+          "time": 30.035011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.847221427491313, 
+            "powerMix": -10.030514496957725
+          }, 
+          "time": 30.174331000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -19.464938502807602, 
+            "powerMix": -13.672364579858897
+          }, 
+          "time": 30.406531
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -19.015779277325716, 
+            "powerMix": -13.643226131740708
+          }, 
+          "time": 30.46458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.389219123758675, 
+            "powerMix": -13.551983697178709
+          }, 
+          "time": 30.54585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.917879288640943, 
+            "powerMix": -11.206496159639464
+          }, 
+          "time": 30.62712
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.127754884490297, 
+            "powerMix": -11.486691900385921
+          }, 
+          "time": 30.731610000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.994768614273681, 
+            "powerMix": -12.509316699038955
+          }, 
+          "time": 30.812880000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -28.460187121747467, 
+            "powerMix": -11.85629335867767
+          }, 
+          "time": 30.987029000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -24.676086465921671, 
+            "powerMix": -19.985255470296114
+          }, 
+          "time": 31.219229000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -53.059148163115054, 
+            "powerMix": -9.9607994973668728
+          }, 
+          "time": 31.288889
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -22.718051057509854, 
+            "powerMix": -12.099647458239053
+          }, 
+          "time": 31.521088000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.577216840371857, 
+            "powerMix": -14.106776782593686
+          }, 
+          "time": 31.718458000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.976681228621189, 
+            "powerMix": -9.9773458769083376
+          }, 
+          "time": 31.834558
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.81974005572015, 
+            "powerMix": -11.673828997276797
+          }, 
+          "time": 32.066757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.259741415222049, 
+            "powerMix": -12.757805897294554
+          }, 
+          "time": 32.217687000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.912361971123392, 
+            "powerMix": -11.150536316892381
+          }, 
+          "time": 32.368617
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.162911817667883, 
+            "powerMix": -12.814589589005379
+          }, 
+          "time": 32.635646
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.666952321141871, 
+            "powerMix": -16.582033319723394
+          }, 
+          "time": 32.716916000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "female singer"
+            ], 
+            "powerStem": -43.042244618440193, 
+            "powerMix": -10.33072498334128
+          }, 
+          "time": 32.902676
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.616572776711379, 
+            "powerMix": -14.210263403777015
+          }, 
+          "time": 32.995556
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "claps", 
+              "female singer"
+            ], 
+            "powerStem": -58.830861574961318, 
+            "powerMix": -12.169422243892962
+          }, 
+          "time": 33.169705
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -26.453695148761035, 
+            "powerMix": -14.30335571505961
+          }, 
+          "time": 33.227755
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.089500690406055, 
+            "powerMix": -9.9614144957729067
+          }, 
+          "time": 33.436735
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -12.908607761243191, 
+            "powerMix": -10.388991923607541
+          }, 
+          "time": 33.541224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.417500698758737, 
+            "powerMix": -14.946018456323637
+          }, 
+          "time": 33.703764
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -12.830893441778695, 
+            "powerMix": -10.09594294800384
+          }, 
+          "time": 33.808254000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.641260742984549, 
+            "powerMix": -13.102724278295447
+          }, 
+          "time": 33.877914000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.618963881321232, 
+            "powerMix": -8.1897585269425619
+          }, 
+          "time": 33.959184
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -23.279602968546975, 
+            "powerMix": -15.656256948371572
+          }, 
+          "time": 34.133333
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.766182401614325, 
+            "powerMix": -10.038760515121787
+          }, 
+          "time": 34.226213
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -35.513425338528869, 
+            "powerMix": -24.606618375574705
+          }, 
+          "time": 34.470023000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -32.165227782643896, 
+            "powerMix": -12.44826126432536
+          }, 
+          "time": 34.539683000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -28.220244058700537, 
+            "powerMix": -16.276714370923379
+          }, 
+          "time": 34.737052000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.250753511969307, 
+            "powerMix": -11.837531425083721
+          }, 
+          "time": 34.795102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.211534518410637, 
+            "powerMix": -16.261083937668786
+          }, 
+          "time": 34.899592000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.272428472420589, 
+            "powerMix": -15.816037279892122
+          }, 
+          "time": 34.957642
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -11.306136824010268, 
+            "powerMix": -7.6620098640369143
+          }, 
+          "time": 35.073741000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.470404700079769, 
+            "powerMix": -11.334861342669861
+          }, 
+          "time": 35.143401000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.976018566188138, 
+            "powerMix": -11.698635238200794
+          }, 
+          "time": 35.317551
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.453738859373125, 
+            "powerMix": -12.797361117567279
+          }, 
+          "time": 35.387211
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -22.75139644275654, 
+            "powerMix": -13.589518286123422
+          }, 
+          "time": 35.491701
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.4183452205089, 
+            "powerMix": -10.925186521578954
+          }, 
+          "time": 35.59619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.124139269656588, 
+            "powerMix": -10.814905545946662
+          }, 
+          "time": 35.87483
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -21.890565871377859, 
+            "powerMix": -11.904109737907644
+          }, 
+          "time": 36.060590000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -34.328931248885581, 
+            "powerMix": -10.332628822672014
+          }, 
+          "time": 36.188299
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -21.178435402328482, 
+            "powerMix": -10.459660955212971
+          }, 
+          "time": 36.443719
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.706410505901641, 
+            "powerMix": -10.603321818409972
+          }, 
+          "time": 36.745578
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "claps"
+            ], 
+            "powerStem": -52.899714790562271, 
+            "powerMix": -10.574899452633185
+          }, 
+          "time": 36.977778
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.607485868443938, 
+            "powerMix": -12.757419798713087
+          }, 
+          "time": 37.082268
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.790078266543045, 
+            "powerMix": -9.2363447795751092
+          }, 
+          "time": 37.268027000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.209973288749509, 
+            "powerMix": -12.23163209390124
+          }, 
+          "time": 37.523447000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.488956920145952, 
+            "powerMix": -13.431866160719974
+          }, 
+          "time": 37.616327000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -15.601555506034972, 
+            "powerMix": -8.2273824242258851
+          }, 
+          "time": 37.813696
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.33621030337423, 
+            "powerMix": -12.102358230100361
+          }, 
+          "time": 37.929796
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -15.303629862889156, 
+            "powerMix": -12.514474728350715
+          }, 
+          "time": 38.034286
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.140486126185699, 
+            "powerMix": -13.56390695990032
+          }, 
+          "time": 38.103946
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.094622305172152, 
+            "powerMix": -13.728883568193801
+          }, 
+          "time": 38.243265
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -31.133426310187424, 
+            "powerMix": -12.297421504656709
+          }, 
+          "time": 38.312925
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.416726579170726, 
+            "powerMix": -9.851383332644799
+          }, 
+          "time": 38.370975
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -27.140815662728595, 
+            "powerMix": -11.574598172178657
+          }, 
+          "time": 38.626395
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.228267718915188, 
+            "powerMix": -15.593876533765778
+          }, 
+          "time": 38.916644000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -19.152216337463528, 
+            "powerMix": -12.005013237397929
+          }, 
+          "time": 39.160454
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.007199390201784, 
+            "powerMix": -13.97206022578132
+          }, 
+          "time": 39.276553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -31.06191904920038, 
+            "powerMix": -15.699262934585839
+          }, 
+          "time": 39.381043000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.514077051302195, 
+            "powerMix": -11.007235068086924
+          }, 
+          "time": 39.450703000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.328653542660675, 
+            "powerMix": -11.88669966427679
+          }, 
+          "time": 39.531973
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.907509337186376, 
+            "powerMix": -11.363395803343471
+          }, 
+          "time": 39.706122
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -25.760294434422772, 
+            "powerMix": -15.556237365162621
+          }, 
+          "time": 39.915102000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "female singer"
+            ], 
+            "powerStem": -31.526846990689172, 
+            "powerMix": -11.818922106312645
+          }, 
+          "time": 39.996372
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.897930308754329, 
+            "powerMix": -11.286231808286916
+          }, 
+          "time": 40.275011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -20.96476146844855, 
+            "powerMix": -12.009174707031045
+          }, 
+          "time": 40.449161000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.031236990207493, 
+            "powerMix": -9.9512217511814001
+          }, 
+          "time": 40.553651
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -38.876172297160721, 
+            "powerMix": -11.485873170366158
+          }, 
+          "time": 40.82068
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.234454506745349, 
+            "powerMix": -9.9789303781471776
+          }, 
+          "time": 41.08771
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -35.636338139176303, 
+            "powerMix": -18.000671802590087
+          }, 
+          "time": 41.273469000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -32.518649183874885, 
+            "powerMix": -13.374831775920233
+          }, 
+          "time": 41.331519
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.280344096275229, 
+            "powerMix": -16.661462838239881
+          }, 
+          "time": 41.447619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -22.876651952768839, 
+            "powerMix": -17.555245314488381
+          }, 
+          "time": 41.575329
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -40.282177500027728, 
+            "powerMix": -9.8403661391468624
+          }, 
+          "time": 41.644989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.386376155563156, 
+            "powerMix": -11.684270690762538
+          }, 
+          "time": 41.714649
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.468283898091805, 
+            "powerMix": -10.797996522612067
+          }, 
+          "time": 41.912018
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -43.437633107560423, 
+            "powerMix": -8.8046742584117119
+          }, 
+          "time": 42.179048
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.344215926412247, 
+            "powerMix": -11.338285645589551
+          }, 
+          "time": 42.260317
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -24.265517729909149, 
+            "powerMix": -16.045438810091166
+          }, 
+          "time": 42.376417000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.431073494881645, 
+            "powerMix": -15.021293124179206
+          }, 
+          "time": 42.457687
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.453214107302347, 
+            "powerMix": -14.293609095028865
+          }, 
+          "time": 42.608617
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.695959105655987, 
+            "powerMix": -7.6986628683715725
+          }, 
+          "time": 42.713107
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.689991114502309, 
+            "powerMix": -11.899638983180214
+          }, 
+          "time": 42.991746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -32.250866930322303, 
+            "powerMix": -17.062719126822948
+          }, 
+          "time": 43.165896000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -31.219030567619459, 
+            "powerMix": -15.382130010894024
+          }, 
+          "time": 43.223946000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.276414695229832, 
+            "powerMix": -15.128511460286997
+          }, 
+          "time": 43.281995
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.259923271856426, 
+            "powerMix": -12.838191691167879
+          }, 
+          "time": 43.502584999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.005917349800566, 
+            "powerMix": -14.843135107842549
+          }, 
+          "time": 43.699955
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "female singer"
+            ], 
+            "powerStem": -52.093878488780305, 
+            "powerMix": -15.4276972735837
+          }, 
+          "time": 43.792834000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.325483177761637, 
+            "powerMix": -10.161373913135609
+          }, 
+          "time": 43.908934
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -19.787667312691262, 
+            "powerMix": -16.342659881871509
+          }, 
+          "time": 44.059864000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.947125526029907, 
+            "powerMix": -13.31969256467943
+          }, 
+          "time": 44.234014
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.642583464328919, 
+            "powerMix": -13.172800348371013
+          }, 
+          "time": 44.350113
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -23.765662679717021, 
+            "powerMix": -12.977401536115241
+          }, 
+          "time": 44.408163
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.205573583200362, 
+            "powerMix": -13.606226587966184
+          }, 
+          "time": 44.593923000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -21.536632503778101, 
+            "powerMix": -18.979755343490968
+          }, 
+          "time": 44.791293
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.40433254183597, 
+            "powerMix": -8.7410699268458423
+          }, 
+          "time": 44.884172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps", 
+              "female singer"
+            ], 
+            "powerStem": -46.758943050297958, 
+            "powerMix": -11.247717522602061
+          }, 
+          "time": 45.162812
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -24.405874612824057, 
+            "powerMix": -17.139561087810545
+          }, 
+          "time": 45.290522
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -26.643727174072325, 
+            "powerMix": -15.898670685240177
+          }, 
+          "time": 45.406621
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.072017023594654, 
+            "powerMix": -12.190941047563728
+          }, 
+          "time": 45.464671
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -25.970739199847568, 
+            "powerMix": -13.721964828495206
+          }, 
+          "time": 45.534331
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -26.424868038508539, 
+            "powerMix": -16.952265371581657
+          }, 
+          "time": 45.662041
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.854857651465185, 
+            "powerMix": -14.564943469697674
+          }, 
+          "time": 45.720091000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.714382050934219, 
+            "powerMix": -17.599625424668208
+          }, 
+          "time": 45.801361
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -30.90855898891018, 
+            "powerMix": -18.726125076619926
+          }, 
+          "time": 45.917460000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "female singer"
+            ], 
+            "powerStem": -33.287502000669519, 
+            "powerMix": -12.398252656221134
+          }, 
+          "time": 46.01034
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -23.895288635554785, 
+            "powerMix": -15.51048910230339
+          }, 
+          "time": 46.09161
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -26.595516094420312, 
+            "powerMix": -15.872397328752957
+          }, 
+          "time": 46.16127
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -23.357137489809023, 
+            "powerMix": -13.048071910712377
+          }, 
+          "time": 46.25415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -18.588523711544891, 
+            "powerMix": -14.199822859142106
+          }, 
+          "time": 46.312200000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass", 
+              "female singer"
+            ], 
+            "powerStem": -37.516910580203557, 
+            "powerMix": -10.312263668728823
+          }, 
+          "time": 46.544399000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.677608612466948, 
+            "powerMix": -12.703319087206244
+          }, 
+          "time": 46.799819
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.662823041273306, 
+            "powerMix": -15.063257312457349
+          }, 
+          "time": 46.915918000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "female singer"
+            ], 
+            "powerStem": -43.912398722090714, 
+            "powerMix": -14.206397842216475
+          }, 
+          "time": 46.973968000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.965200896493547, 
+            "powerMix": -12.749868377548967
+          }, 
+          "time": 47.066848
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.347701000275617, 
+            "powerMix": -11.842286912764347
+          }, 
+          "time": 47.345488
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.773042722528132, 
+            "powerMix": -14.465438332810638
+          }, 
+          "time": 47.635737000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -27.857370488024241, 
+            "powerMix": -14.197193385088525
+          }, 
+          "time": 47.856327
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -18.928078371417115, 
+            "powerMix": -13.905927952613599
+          }, 
+          "time": 47.914376000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -32.84913951997946, 
+            "powerMix": -16.961292676786506
+          }, 
+          "time": 48.007256000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -18.938305241194819, 
+            "powerMix": -15.233922598452967
+          }, 
+          "time": 48.076916000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.72544148571998, 
+            "powerMix": -16.059966180560423
+          }, 
+          "time": 48.134966000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -40.817489950249914, 
+            "powerMix": -11.899827069400384
+          }, 
+          "time": 48.193016
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.441039866805639, 
+            "powerMix": -11.844451782720038
+          }, 
+          "time": 48.262676000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -16.576853181341541, 
+            "powerMix": -12.856048944495868
+          }, 
+          "time": 48.436825000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -34.706930106959241, 
+            "powerMix": -10.913692893576822
+          }, 
+          "time": 48.727075000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.771211724631044, 
+            "powerMix": -11.137558727371905
+          }, 
+          "time": 48.970884000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -20.6410176613307, 
+            "powerMix": -13.927317235111561
+          }, 
+          "time": 49.179864
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.565436238432987, 
+            "powerMix": -10.207557136983967
+          }, 
+          "time": 49.261133999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.507769127548908, 
+            "powerMix": -13.681886638626617
+          }, 
+          "time": 49.493333
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -39.736273918099798, 
+            "powerMix": -13.254457166048041
+          }, 
+          "time": 49.551383
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.276556847047466, 
+            "powerMix": -8.6466838287153589
+          }, 
+          "time": 49.806803
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.235878336344609, 
+            "powerMix": -12.604452170932902
+          }, 
+          "time": 49.864853000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.492188607417203, 
+            "powerMix": -14.031215946118724
+          }, 
+          "time": 50.062222000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.082158993620048, 
+            "powerMix": -15.543371515785312
+          }, 
+          "time": 50.120272
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.307960914220104, 
+            "powerMix": -17.430091454825334
+          }, 
+          "time": 50.189932000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.369132835560919, 
+            "powerMix": -27.245943396314406
+          }, 
+          "time": 50.282812
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -12.462419533818487, 
+            "powerMix": -10.104563482376205
+          }, 
+          "time": 50.364082
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.874618497171912, 
+            "powerMix": -15.429787208867001
+          }, 
+          "time": 50.468571000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.818164729909675, 
+            "powerMix": -12.181195636043549
+          }, 
+          "time": 50.607891
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -26.872464459121463, 
+            "powerMix": -17.181671465765646
+          }, 
+          "time": 50.723991000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.325513793776128, 
+            "powerMix": -9.2272662214117691
+          }, 
+          "time": 50.886531000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -39.747395790463131, 
+            "powerMix": -11.88132082768972
+          }, 
+          "time": 50.94458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -16.094129613761986, 
+            "powerMix": -13.453508012241343
+          }, 
+          "time": 51.03746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.047842794786245, 
+            "powerMix": -13.09722938640115
+          }, 
+          "time": 51.16517
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -22.561795174009397, 
+            "powerMix": -15.640692905260135
+          }, 
+          "time": 51.23483
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.082098707926441, 
+            "powerMix": -12.894744778356609
+          }, 
+          "time": 51.292880000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -48.615080671553805, 
+            "powerMix": -14.673520019817754
+          }, 
+          "time": 51.350930000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -27.907887105530371, 
+            "powerMix": -8.7950150467273893
+          }, 
+          "time": 51.4322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.407209490621067, 
+            "powerMix": -13.029655943133847
+          }, 
+          "time": 51.490249000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar", 
+              "female singer"
+            ], 
+            "powerStem": -52.01010115332025, 
+            "powerMix": -10.780819769768289
+          }, 
+          "time": 51.722449000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.734451144303936, 
+            "powerMix": -11.68694606422093
+          }, 
+          "time": 51.966259
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.669049754315335, 
+            "powerMix": -16.023755679304493
+          }, 
+          "time": 52.035918
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -26.477160139482464, 
+            "powerMix": -15.730184606177406
+          }, 
+          "time": 52.210068
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -19.87244019078873, 
+            "powerMix": -12.861283502517622
+          }, 
+          "time": 52.268118
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -32.321626644806038, 
+            "powerMix": -12.711994395253431
+          }, 
+          "time": 52.360998
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.156270761822327, 
+            "powerMix": -12.781734341318726
+          }, 
+          "time": 52.430658
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -11.414576090802154, 
+            "powerMix": -9.590328788763383
+          }, 
+          "time": 52.523537000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.313470223954965, 
+            "powerMix": -12.814804059097732
+          }, 
+          "time": 52.662857
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -22.993027203984084, 
+            "powerMix": -10.169323176384914
+          }, 
+          "time": 52.767347
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.03444938804633, 
+            "powerMix": -13.639211401759292
+          }, 
+          "time": 52.825397
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -19.425663056539896, 
+            "powerMix": -16.659212152458288
+          }, 
+          "time": 52.918277
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -20.633660308282344, 
+            "powerMix": -16.564547803643901
+          }, 
+          "time": 52.999546
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.32655179765818, 
+            "powerMix": -8.9613278780111294
+          }, 
+          "time": 53.057596000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.157948526135698, 
+            "powerMix": -10.347717789254638
+          }, 
+          "time": 53.313016000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -21.455241583067036, 
+            "powerMix": -11.747286118087988
+          }, 
+          "time": 53.49877600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -33.078908289694063, 
+            "powerMix": -11.70096093620398
+          }, 
+          "time": 53.603265
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "claps"
+            ], 
+            "powerStem": -46.523341023674078, 
+            "powerMix": -13.698012101075303
+          }, 
+          "time": 53.881905
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -17.05408386944416, 
+            "powerMix": -11.93403809399625
+          }, 
+          "time": 54.114104000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.721013133528107, 
+            "powerMix": -10.150541889272995
+          }, 
+          "time": 54.172154000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -26.10860090444325, 
+            "powerMix": -9.484378390137449
+          }, 
+          "time": 54.415964
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.772759371789867, 
+            "powerMix": -11.796723269295629
+          }, 
+          "time": 54.520454
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.532449824842899, 
+            "powerMix": -12.692714914702004
+          }, 
+          "time": 54.613333000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -41.438063707075372, 
+            "powerMix": -11.494747167984995
+          }, 
+          "time": 54.729433
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.96890640706145, 
+            "powerMix": -12.298200013150398
+          }, 
+          "time": 54.810703000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.697768413051055, 
+            "powerMix": -10.721062126587027
+          }, 
+          "time": 54.950023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -26.968133195721244, 
+            "powerMix": -12.806503485912323
+          }, 
+          "time": 55.008073
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.350138469832419, 
+            "powerMix": -10.37340759532376
+          }, 
+          "time": 55.228662
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.442354468698369, 
+            "powerMix": -11.030064606819092
+          }, 
+          "time": 55.286712
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.751648172772043, 
+            "powerMix": -11.195944374875264
+          }, 
+          "time": 55.530522000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -25.175002104087451, 
+            "powerMix": -11.810742536601387
+          }, 
+          "time": 55.693061
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -33.272175040691508, 
+            "powerMix": -14.345933435940488
+          }, 
+          "time": 55.774331000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -38.647008168504499, 
+            "powerMix": -11.247964222481134
+          }, 
+          "time": 55.832381000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.492736331946922, 
+            "powerMix": -9.2133288057249612
+          }, 
+          "time": 56.076190000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -29.714181474716064, 
+            "powerMix": -12.54439420427275
+          }, 
+          "time": 56.32
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.593245227400189, 
+            "powerMix": -14.796954592320937
+          }, 
+          "time": 56.37805
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -23.268322800068432, 
+            "powerMix": -12.510069992258437
+          }, 
+          "time": 56.47093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.640092522194923, 
+            "powerMix": -11.449910969170746
+          }, 
+          "time": 56.610249
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.04022419761063, 
+            "powerMix": -10.957528743746446
+          }, 
+          "time": 56.807619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.923704743322038, 
+            "powerMix": -11.060968778487734
+          }, 
+          "time": 56.912109
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -28.82653252440447, 
+            "powerMix": -9.8187594684849397
+          }, 
+          "time": 57.15591800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.556044559602814, 
+            "powerMix": -11.513223411580302
+          }, 
+          "time": 57.213968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -52.944076477194358, 
+            "powerMix": -8.8739915843656583
+          }, 
+          "time": 57.469388
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -23.794485770101215, 
+            "powerMix": -10.174099146055584
+          }, 
+          "time": 57.701587
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -40.440324800669643, 
+            "powerMix": -13.694358317429423
+          }, 
+          "time": 57.910567
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.693837090655974, 
+            "powerMix": -9.9811734981136588
+          }, 
+          "time": 58.015057000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -35.036670965317562, 
+            "powerMix": -18.789162935231875
+          }, 
+          "time": 58.165986000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.687432571956762, 
+            "powerMix": -14.894331148644071
+          }, 
+          "time": 58.247256
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.515877087301412, 
+            "powerMix": -16.853709446379501
+          }, 
+          "time": 58.398186
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.808488610957429, 
+            "powerMix": -8.1374196411108617
+          }, 
+          "time": 58.514286000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.722864927968054, 
+            "powerMix": -9.869501382758985
+          }, 
+          "time": 58.769705
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -26.967393857140223, 
+            "powerMix": -10.855629772850481
+          }, 
+          "time": 58.827755
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.686069338205389, 
+            "powerMix": -12.437919808991204
+          }, 
+          "time": 58.897415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -23.710665610234241, 
+            "powerMix": -8.3074635565730741
+          }, 
+          "time": 59.083175000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -19.72106098335713, 
+            "powerMix": -14.559494963836833
+          }, 
+          "time": 59.187664000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.161072474728108, 
+            "powerMix": -11.11200072187772
+          }, 
+          "time": 59.350204000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -26.19043177796712, 
+            "powerMix": -11.742800416640559
+          }, 
+          "time": 59.40825400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -21.310167630259333, 
+            "powerMix": -9.0158815892139543
+          }, 
+          "time": 59.617234
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -27.418221635261393, 
+            "powerMix": -11.803958751305627
+          }, 
+          "time": 59.884263000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.864208048181627, 
+            "powerMix": -12.043998140094468
+          }, 
+          "time": 60.03519300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.607818901534728, 
+            "powerMix": -7.9075692023065356
+          }, 
+          "time": 60.139683000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -24.931057733981049, 
+            "powerMix": -13.752212663507086
+          }, 
+          "time": 60.325442
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.820318667950406, 
+            "powerMix": -9.6904400656974481
+          }, 
+          "time": 60.406712000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -31.655677682104827, 
+            "powerMix": -12.233219593359994
+          }, 
+          "time": 60.720181000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.586391194471398, 
+            "powerMix": -11.805139691964133
+          }, 
+          "time": 60.940771000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.221746748475397, 
+            "powerMix": -13.499562181276536
+          }, 
+          "time": 61.080091
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.291128550515339, 
+            "powerMix": -11.928000588293443
+          }, 
+          "time": 61.138141000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -11.220177362425686, 
+            "powerMix": -7.7598281455073295
+          }, 
+          "time": 61.25424
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -30.683537764824955, 
+            "powerMix": -12.358712967428067
+          }, 
+          "time": 61.3239
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "claps"
+            ], 
+            "powerStem": -38.502893056519937, 
+            "powerMix": -10.665560371405059
+          }, 
+          "time": 61.52127
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.990230114395636, 
+            "powerMix": -15.062481444966796
+          }, 
+          "time": 61.68381
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.870765377157777, 
+            "powerMix": -13.607928638280262
+          }, 
+          "time": 61.753469
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -55.45328397001569, 
+            "powerMix": -9.3885342866090991
+          }, 
+          "time": 61.823129
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -27.660852067116018, 
+            "powerMix": -10.049668698056928
+          }, 
+          "time": 62.055329
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -14.093918050487515, 
+            "powerMix": -12.389603369592768
+          }, 
+          "time": 62.206259
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -24.455336530917272, 
+            "powerMix": -14.886325091729089
+          }, 
+          "time": 62.26430800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -33.845532136265746, 
+            "powerMix": -12.03248505378655
+          }, 
+          "time": 62.368798000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -29.39276155597808, 
+            "powerMix": -16.469336512075536
+          }, 
+          "time": 62.531338000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -23.657323227664424, 
+            "powerMix": -12.87180296110088
+          }, 
+          "time": 62.600998000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -29.2081866754421, 
+            "powerMix": -15.876036379796313
+          }, 
+          "time": 62.72870700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -12.777822604271359, 
+            "powerMix": -11.638831298083455
+          }, 
+          "time": 62.821587
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -15.130602503052641, 
+            "powerMix": -8.1571364902379511
+          }, 
+          "time": 62.902857000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -25.655628924004926, 
+            "powerMix": -10.224135393228629
+          }, 
+          "time": 63.18149700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.251412813597216, 
+            "powerMix": -12.375128850964256
+          }, 
+          "time": 63.285986
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.535763959022717, 
+            "powerMix": -11.831007930574177
+          }, 
+          "time": 63.35564600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.390711812057154, 
+            "powerMix": -13.682878103477638
+          }, 
+          "time": 63.471746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -26.844636343179133, 
+            "powerMix": -17.022726650345234
+          }, 
+          "time": 63.564626000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.859885650287467, 
+            "powerMix": -8.8527606060556892
+          }, 
+          "time": 63.738776
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.143885991220651, 
+            "powerMix": -7.0266925324676963
+          }, 
+          "time": 63.994195000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -39.098905031869904, 
+            "powerMix": -10.891984732008442
+          }, 
+          "time": 64.052245
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -27.975034203190503, 
+            "powerMix": -10.981794522562748
+          }, 
+          "time": 64.261224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -16.27150531587835, 
+            "powerMix": -13.964461482362804
+          }, 
+          "time": 64.377324
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.57415019928515, 
+            "powerMix": -14.051715136268594
+          }, 
+          "time": 64.43537400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -25.590849588441102, 
+            "powerMix": -8.2964786815607319
+          }, 
+          "time": 64.528254
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.577113699094525, 
+            "powerMix": -12.197822518658352
+          }, 
+          "time": 64.586304
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.850318689531289, 
+            "powerMix": -10.812928393818911
+          }, 
+          "time": 64.795283
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -43.773619901598877, 
+            "powerMix": -10.384191349354857
+          }, 
+          "time": 64.853333
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -12.962448062019657, 
+            "powerMix": -12.341552298899295
+          }, 
+          "time": 65.085533
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.416293706351407, 
+            "powerMix": -11.692706681482806
+          }, 
+          "time": 65.352562
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.685028396508105, 
+            "powerMix": -14.312414509786322
+          }, 
+          "time": 65.457052
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.439872515291043, 
+            "powerMix": -11.073713716819327
+          }, 
+          "time": 65.51510199900001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -20.605531798595614, 
+            "powerMix": -11.399547836742865
+          }, 
+          "time": 65.631202
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -15.375416917002699, 
+            "powerMix": -10.363679012518956
+          }, 
+          "time": 65.770522
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.767494087178722, 
+            "powerMix": -11.694819804232012
+          }, 
+          "time": 65.886621
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.42086966176376, 
+            "powerMix": -12.249010416416624
+          }, 
+          "time": 65.944671
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.662471754392662, 
+            "powerMix": -10.656183578822262
+          }, 
+          "time": 66.165261
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -11.492336335441104, 
+            "powerMix": -10.13160424901908
+          }, 
+          "time": 66.33941
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -22.542465320655207, 
+            "powerMix": -9.8720772437533864
+          }, 
+          "time": 66.43229000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -21.329411981283712, 
+            "powerMix": -12.606887581280411
+          }, 
+          "time": 66.61805000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -34.301919317962486, 
+            "powerMix": -11.462097525418978
+          }, 
+          "time": 66.71093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -33.582166840553299, 
+            "powerMix": -17.346859441553701
+          }, 
+          "time": 66.89668900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.119019013868712, 
+            "powerMix": -13.329269068585631
+          }, 
+          "time": 66.977959
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.524153331768138, 
+            "powerMix": -8.1581629655191819
+          }, 
+          "time": 67.244989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -31.479738848310546, 
+            "powerMix": -12.234807657045581
+          }, 
+          "time": 67.303039
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.725773564826529, 
+            "powerMix": -9.3455674604413854
+          }, 
+          "time": 67.523628
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -29.410715519308191, 
+            "powerMix": -12.368117525140443
+          }, 
+          "time": 67.639728
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -22.183641896989347, 
+            "powerMix": -9.7083126519333529
+          }, 
+          "time": 67.825488
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -21.992187689486194, 
+            "powerMix": -14.568648723501912
+          }, 
+          "time": 67.89514700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "clean electric guitar", 
+              "claps"
+            ], 
+            "powerStem": -54.869217517598734, 
+            "powerMix": -9.8782877958719766
+          }, 
+          "time": 68.08090700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "female singer"
+            ], 
+            "powerStem": -13.588309825039801, 
+            "powerMix": -8.5153621503418897
+          }, 
+          "time": 68.336327
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -20.505350198611509, 
+            "powerMix": -9.6230019346904783
+          }, 
+          "time": 68.39437600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -27.353957749188837, 
+            "powerMix": -8.2512102131613769
+          }, 
+          "time": 68.61496600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -27.237094901656921, 
+            "powerMix": -11.387097408007506
+          }, 
+          "time": 68.789116
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -20.882719688954758, 
+            "powerMix": -8.386421560291879
+          }, 
+          "time": 68.905215
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.956244623258531, 
+            "powerMix": -7.6441059671832665
+          }, 
+          "time": 69.160635
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set", 
+              "electric bass"
+            ], 
+            "powerStem": -31.867548981214384, 
+            "powerMix": -9.1641521226567253
+          }, 
+          "time": 69.47410400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.632153089672535, 
+            "powerMix": -12.310397738256949
+          }, 
+          "time": 69.68308400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 6, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -11.170264521608907, 
+            "powerMix": -9.6288368441145682
+          }, 
+          "time": 69.741134
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -30.804986924664117, 
+            "powerMix": -19.885328353690483
+          }, 
+          "time": 69.903673
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -12.57519682715615, 
+            "powerMix": -12.569108131013486
+          }, 
+          "time": 70.019773
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "clean electric guitar"
+            ], 
+            "powerStem": -28.626890575451473, 
+            "powerMix": -14.490461396983065
+          }, 
+          "time": 70.11265300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -25.53282154788311, 
+            "powerMix": -19.081112907903332
+          }, 
+          "time": 70.228753
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -11.610002198215224, 
+            "powerMix": -10.80456712675038
+          }, 
+          "time": 70.29841300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -22.610802556358991, 
+            "powerMix": -17.654753670046247
+          }, 
+          "time": 70.484172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -11.127683580541197, 
+            "powerMix": -11.315274199651867
+          }, 
+          "time": 70.553832
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -19.297133757548771, 
+            "powerMix": -13.871060849090547
+          }, 
+          "time": 70.635102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -24.151977637720961, 
+            "powerMix": -13.346118521872315
+          }, 
+          "time": 70.786032
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "electric bass"
+            ], 
+            "powerStem": -29.181443386367679, 
+            "powerMix": -16.996124344482578
+          }, 
+          "time": 70.995011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -12.850639321529711, 
+            "powerMix": -12.452735476007824
+          }, 
+          "time": 71.087891
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -29.431287975667168, 
+            "powerMix": -13.97121935017198
+          }, 
+          "time": 71.343311
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "drum set", 
+              "clean electric guitar"
+            ], 
+            "powerStem": -44.928622082844882, 
+            "powerMix": -13.575486285957068
+          }, 
+          "time": 71.65678
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "claps"
+            ], 
+            "powerStem": -26.916925176294374, 
+            "powerMix": -14.26755431544051
+          }, 
+          "time": 71.88898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -19.232561597596298, 
+            "powerMix": -19.22320236003069
+          }, 
+          "time": 72.202449
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.593922676936675, 
+            "powerMix": -17.592160078950403
+          }, 
+          "time": 72.457868
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -14.090664584761136, 
+            "powerMix": -14.090710016035811
+          }, 
+          "time": 72.736508
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -17.143452417026907, 
+            "powerMix": -17.143396230874636
+          }, 
+          "time": 73.00353700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -12.778958135258939, 
+            "powerMix": -12.77896280992284
+          }, 
+          "time": 73.282177
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -16.515387185580742, 
+            "powerMix": -16.515386353158728
+          }, 
+          "time": 73.549206
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -10.854100637321283, 
+            "powerMix": -10.854052762265233
+          }, 
+          "time": 73.82784600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.535903003428167, 
+            "powerMix": -18.535903003428167
+          }, 
+          "time": 74.094875
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -13.399133092400932, 
+            "powerMix": -13.399133092400932
+          }, 
+          "time": 74.36190500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -18.269397391889459, 
+            "powerMix": -18.269397391889459
+          }, 
+          "time": 74.58249400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -10.503015613609081, 
+            "powerMix": -10.503015613609081
+          }, 
+          "time": 74.640544
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -24.321641055511328, 
+            "powerMix": -24.321641055511328
+          }, 
+          "time": 74.861134
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "drum set"
+            ], 
+            "powerStem": -11.373196172762727, 
+            "powerMix": -11.373196172762727
+          }, 
+          "time": 74.930794
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "Gospel", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 75.73730158730159, 
+    "artist": "MusicDelta"
+  }
+}

@@ -1,0 +1,1897 @@
+{
+  "sandbox": {
+    "genre": "Classical", 
+    "is_instrumental": true
+  }, 
+  "annotations": [
+    {
+      "namespace": "onset", 
+      "sandbox": {}, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "Gain Window: 0.25ms\nTemporal Threshold: 0.05ms\nLoudness Threshold: -20dB", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola", 
+              "cello", 
+              "double bass", 
+              "french horn section"
+            ], 
+            "powerStem": -131.53453740670656, 
+            "powerMix": -26.860987847125809
+          }, 
+          "time": 0.058050000000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 7, 
+            "onsetSource": [
+              "tuba"
+            ], 
+            "powerStem": -33.24227703522309, 
+            "powerMix": -22.393446605642382
+          }, 
+          "time": 0.12770999900000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 8, 
+            "onsetSource": [
+              "trombone"
+            ], 
+            "powerStem": -35.818769127769642, 
+            "powerMix": -24.428239047976717
+          }, 
+          "time": 0.18576
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 15, 
+            "onsetSource": [
+              "cello", 
+              "double bass"
+            ], 
+            "powerStem": -62.380621242701906, 
+            "powerMix": -25.369171553210883
+          }, 
+          "time": 0.336689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cymbal", 
+              "trumpet section"
+            ], 
+            "powerStem": -68.163410526790443, 
+            "powerMix": -18.683919383089183
+          }, 
+          "time": 0.5688890000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "oboe", 
+              "cello"
+            ], 
+            "powerStem": -62.628610615829103, 
+            "powerMix": -17.340652600327012
+          }, 
+          "time": 0.626939
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "clarinet", 
+              "flute"
+            ], 
+            "powerStem": -52.696132580904916, 
+            "powerMix": -17.974017472013802
+          }, 
+          "time": 0.743039
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -56.315135951070673, 
+            "powerMix": -19.591975407080394
+          }, 
+          "time": 0.8707480000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -57.358956532908785, 
+            "powerMix": -21.862480542154383
+          }, 
+          "time": 1.126168
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "tuba"
+            ], 
+            "powerStem": -32.315222031758168, 
+            "powerMix": -20.746164829455338
+          }, 
+          "time": 1.184218
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -62.166584733874856, 
+            "powerMix": -21.976153865580446
+          }, 
+          "time": 1.4048070000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "flute"
+            ], 
+            "powerStem": -34.145355849444385, 
+            "powerMix": -18.155158384362323
+          }, 
+          "time": 1.637007
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "bassoon", 
+              "double bass"
+            ], 
+            "powerStem": -53.738424088777705, 
+            "powerMix": -15.270803922531968
+          }, 
+          "time": 1.695057
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -29.47765778268711, 
+            "powerMix": -18.223987501586713
+          }, 
+          "time": 1.787937
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -58.298537657730812, 
+            "powerMix": -20.11195856578528
+          }, 
+          "time": 1.950476
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -55.762045041702265, 
+            "powerMix": -20.569088038610069
+          }, 
+          "time": 2.217506
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -29.744860847355316, 
+            "powerMix": -19.237784449440184
+          }, 
+          "time": 2.2755560000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "viola"
+            ], 
+            "powerStem": -29.351217324693547, 
+            "powerMix": -20.562723048394979
+          }, 
+          "time": 2.519364999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms", 
+              "oboe"
+            ], 
+            "powerStem": -79.546428320900745, 
+            "powerMix": -17.879582085198603
+          }, 
+          "time": 2.7515650000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -30.951279564657099, 
+            "powerMix": -15.465361630712698
+          }, 
+          "time": 2.809615
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -27.275732325154699, 
+            "powerMix": -16.396038615344967
+          }, 
+          "time": 2.867664
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "flute"
+            ], 
+            "powerStem": -33.977670579351724, 
+            "powerMix": -18.132516398075449
+          }, 
+          "time": 2.925714
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms", 
+              "oboe"
+            ], 
+            "powerStem": -81.419566861663753, 
+            "powerMix": -18.706832654358031
+          }, 
+          "time": 3.0302040000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -56.864216751204168, 
+            "powerMix": -22.019613566578013
+          }, 
+          "time": 3.3204540000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "trombone"
+            ], 
+            "powerStem": -35.61179189023192, 
+            "powerMix": -18.793223167312526
+          }, 
+          "time": 3.3785030000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "viola", 
+              "double bass"
+            ], 
+            "powerStem": -64.124176787385238, 
+            "powerMix": -23.327291908126341
+          }, 
+          "time": 3.6107030000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "viola"
+            ], 
+            "powerStem": -30.085303076046181, 
+            "powerMix": -25.87469526607272
+          }, 
+          "time": 3.7384130000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "oboe"
+            ], 
+            "powerStem": -30.395918216550605, 
+            "powerMix": -18.327938955003738
+          }, 
+          "time": 3.831293
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "flute"
+            ], 
+            "powerStem": -32.849500657430681, 
+            "powerMix": -16.457360499167976
+          }, 
+          "time": 3.889342
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "flute"
+            ], 
+            "powerStem": -36.593932270598032, 
+            "powerMix": -19.360371638522825
+          }, 
+          "time": 4.028662000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -29.25829074216206, 
+            "powerMix": -18.406021477890949
+          }, 
+          "time": 4.121542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -33.426158846945178, 
+            "powerMix": -20.937873206732824
+          }, 
+          "time": 4.3769610000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -29.759405748652583, 
+            "powerMix": -19.020502038261384
+          }, 
+          "time": 4.435011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -31.18907663407235, 
+            "powerMix": -21.864986525216146
+          }, 
+          "time": 4.690431
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "flute"
+            ], 
+            "powerStem": -42.090654577527324, 
+            "powerMix": -25.260126471626521
+          }, 
+          "time": 4.911020000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms", 
+              "oboe"
+            ], 
+            "powerStem": -80.479032286776629, 
+            "powerMix": -16.245111868214231
+          }, 
+          "time": 4.96907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -27.676294994088039, 
+            "powerMix": -18.176345484813712
+          }, 
+          "time": 5.05034
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "oboe"
+            ], 
+            "powerStem": -29.747961949609646, 
+            "powerMix": -18.532795588620012
+          }, 
+          "time": 5.12
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -32.605424074909358, 
+            "powerMix": -19.647953442296114
+          }, 
+          "time": 5.2361
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -30.697016843486686, 
+            "powerMix": -19.855506276281606
+          }, 
+          "time": 5.503129
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms", 
+              "double bass"
+            ], 
+            "powerStem": -94.225135891544937, 
+            "powerMix": -20.974521711251008
+          }, 
+          "time": 5.781769000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "bassoon", 
+              "flute"
+            ], 
+            "powerStem": -63.484306386930669, 
+            "powerMix": -16.91600173799252
+          }, 
+          "time": 6.013968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cymbal", 
+              "bassoon", 
+              "cello"
+            ], 
+            "powerStem": -90.768541742573802, 
+            "powerMix": -17.735277453273529
+          }, 
+          "time": 6.072018000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "bassoon"
+            ], 
+            "powerStem": -28.285944798000749, 
+            "powerMix": -18.680494097909094
+          }, 
+          "time": 6.164898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms", 
+              "double bass"
+            ], 
+            "powerStem": -86.616038085701788, 
+            "powerMix": -19.556620382283182
+          }, 
+          "time": 6.3042180000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -30.304393403921949, 
+            "powerMix": -21.843348431392215
+          }, 
+          "time": 6.373878
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -30.476149823340815, 
+            "powerMix": -24.060113005538231
+          }, 
+          "time": 6.513197000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -56.344245253841692, 
+            "powerMix": -20.972564433656217
+          }, 
+          "time": 6.5712470000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "trombone"
+            ], 
+            "powerStem": -33.959439521215728, 
+            "powerMix": -18.745108595856987
+          }, 
+          "time": 6.640907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -58.458623163447726, 
+            "powerMix": -19.135240545218714
+          }, 
+          "time": 6.838277000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -25.906412104507829, 
+            "powerMix": -19.169733604107908
+          }, 
+          "time": 6.919546
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "bassoon"
+            ], 
+            "powerStem": -29.508716790629052, 
+            "powerMix": -19.683608698862642
+          }, 
+          "time": 7.0936960000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cymbal", 
+              "bassoon", 
+              "clarinet", 
+              "trumpet section", 
+              "oboe"
+            ], 
+            "powerStem": -144.91457188993616, 
+            "powerMix": -16.792214079842992
+          }, 
+          "time": 7.151746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -24.594314610113216, 
+            "powerMix": -16.558534039519625
+          }, 
+          "time": 7.209796000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -26.882418520345279, 
+            "powerMix": -18.069581288628477
+          }, 
+          "time": 7.279456000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -58.644084315755379, 
+            "powerMix": -20.570281937610204
+          }, 
+          "time": 7.372336000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -27.840988761007374, 
+            "powerMix": -22.077202833537477
+          }, 
+          "time": 7.476825000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -61.04437832579498, 
+            "powerMix": -23.243797116702353
+          }, 
+          "time": 7.650975000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello", 
+              "trombone"
+            ], 
+            "powerStem": -64.742821755638602, 
+            "powerMix": -19.886868904542663
+          }, 
+          "time": 7.743855000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -64.436070000859416, 
+            "powerMix": -19.681071448833215
+          }, 
+          "time": 7.906395000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "viola", 
+              "double bass"
+            ], 
+            "powerStem": -60.92257758978775, 
+            "powerMix": -20.160317256431387
+          }, 
+          "time": 7.964444
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "bassoon"
+            ], 
+            "powerStem": -28.752434466405361, 
+            "powerMix": -21.401799778293707
+          }, 
+          "time": 8.185034
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "bassoon", 
+              "trumpet section"
+            ], 
+            "powerStem": -57.122199363179234, 
+            "powerMix": -16.470995656426872
+          }, 
+          "time": 8.243084
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "oboe"
+            ], 
+            "powerStem": -25.395646730033334, 
+            "powerMix": -16.953666265095706
+          }, 
+          "time": 8.382404000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello", 
+              "double bass"
+            ], 
+            "powerStem": -66.065204598581872, 
+            "powerMix": -19.623019560289645
+          }, 
+          "time": 8.498503000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -30.783940850668834, 
+            "powerMix": -21.056057535009153
+          }, 
+          "time": 8.556553000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -34.838795371856804, 
+            "powerMix": -21.937267096478202
+          }, 
+          "time": 8.765533000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "cello", 
+              "trombone"
+            ], 
+            "powerStem": -62.387400671963697, 
+            "powerMix": -19.966082886959747
+          }, 
+          "time": 8.823583000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -29.354396379838757, 
+            "powerMix": -20.755201050139359
+          }, 
+          "time": 9.055782
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "trombone"
+            ], 
+            "powerStem": -36.109744647926675, 
+            "powerMix": -25.232667094401521
+          }, 
+          "time": 9.276372
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani", 
+              "toms", 
+              "cymbal"
+            ], 
+            "powerStem": -83.669066205810665, 
+            "powerMix": -15.218582474471834
+          }, 
+          "time": 9.334422
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "flute"
+            ], 
+            "powerStem": -31.756818030882869, 
+            "powerMix": -16.977254457590728
+          }, 
+          "time": 9.427302000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "bassoon"
+            ], 
+            "powerStem": -26.63103930584635, 
+            "powerMix": -18.022405863341117
+          }, 
+          "time": 9.508571
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -32.012948134649115, 
+            "powerMix": -18.937652415657649
+          }, 
+          "time": 9.578231
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -24.537365001312036, 
+            "powerMix": -17.929638501598369
+          }, 
+          "time": 9.636281
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "tuba"
+            ], 
+            "powerStem": -28.377586298423559, 
+            "powerMix": -20.123332247242402
+          }, 
+          "time": 9.868481000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -29.539230631540079, 
+            "powerMix": -20.696190313778541
+          }, 
+          "time": 10.147120000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani"
+            ], 
+            "powerStem": -34.369324696579461, 
+            "powerMix": -23.228526455270249
+          }, 
+          "time": 10.356100000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "toms", 
+              "trumpet section", 
+              "oboe", 
+              "double bass"
+            ], 
+            "powerStem": -104.77566656204205, 
+            "powerMix": -14.878412441450619
+          }, 
+          "time": 10.42576
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -30.247502302519514, 
+            "powerMix": -16.975469146948299
+          }, 
+          "time": 10.507028999000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -30.321791242244082, 
+            "powerMix": -17.231736872510485
+          }, 
+          "time": 10.588299000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani", 
+              "double bass"
+            ], 
+            "powerStem": -65.791966704654115, 
+            "powerMix": -19.20356140543721
+          }, 
+          "time": 10.692789000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "tuba"
+            ], 
+            "powerStem": -32.242962114269837, 
+            "powerMix": -22.691349071846872
+          }, 
+          "time": 10.948209
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani"
+            ], 
+            "powerStem": -37.206206922554287, 
+            "powerMix": -20.350322007322514
+          }, 
+          "time": 11.041088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -28.177646900715168, 
+            "powerMix": -22.609990933874332
+          }, 
+          "time": 11.226848
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani"
+            ], 
+            "powerStem": -33.289671482118415, 
+            "powerMix": -21.232004112357469
+          }, 
+          "time": 11.296508000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -69.514457379867423, 
+            "powerMix": -21.855138112651606
+          }, 
+          "time": 11.377778000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "trombone"
+            ], 
+            "powerStem": -36.346561365578602, 
+            "powerMix": -21.458378662338326
+          }, 
+          "time": 11.459048000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "toms", 
+              "cello"
+            ], 
+            "powerStem": -50.142412121280493, 
+            "powerMix": -15.068642003660578
+          }, 
+          "time": 11.528707
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -26.739889120421026, 
+            "powerMix": -17.205087504925061
+          }, 
+          "time": 11.609977
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -27.881540566270356, 
+            "powerMix": -17.949488766653388
+          }, 
+          "time": 11.668027
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "viola"
+            ], 
+            "powerStem": -31.131680365773121, 
+            "powerMix": -18.413717661217444
+          }, 
+          "time": 11.760907000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -40.663938484177741, 
+            "powerMix": -24.170466239183277
+          }, 
+          "time": 11.981497000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -27.361504217288552, 
+            "powerMix": -21.355053355841061
+          }, 
+          "time": 12.039546000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "tuba"
+            ], 
+            "powerStem": -28.624323506093422, 
+            "powerMix": -19.912931632323247
+          }, 
+          "time": 12.109206
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani"
+            ], 
+            "powerStem": -35.571895469717504, 
+            "powerMix": -21.776311523202612
+          }, 
+          "time": 12.236916
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -30.457182307844587, 
+            "powerMix": -23.213158554271509
+          }, 
+          "time": 12.306576000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -74.131453824365678, 
+            "powerMix": -26.327596323967533
+          }, 
+          "time": 12.492336000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "flute", 
+              "trombone"
+            ], 
+            "powerStem": -60.320246832291851, 
+            "powerMix": -21.157290976847595
+          }, 
+          "time": 12.561995000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "toms", 
+              "clarinet", 
+              "piccolo"
+            ], 
+            "powerStem": -71.320425366620952, 
+            "powerMix": -15.296797106734063
+          }, 
+          "time": 12.620045000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -30.578832278016691, 
+            "powerMix": -17.263620273177914
+          }, 
+          "time": 12.724535000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -29.235588781711321, 
+            "powerMix": -19.074257961717763
+          }, 
+          "time": 12.782585000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -27.056406826396753, 
+            "powerMix": -18.383969896296293
+          }, 
+          "time": 12.863855000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani"
+            ], 
+            "powerStem": -37.219949829525326, 
+            "powerMix": -22.396887169587181
+          }, 
+          "time": 13.014785000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -41.493255109547619, 
+            "powerMix": -23.926776263627872
+          }, 
+          "time": 13.084444000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "french horn section"
+            ], 
+            "powerStem": -31.949835361569114, 
+            "powerMix": -21.002100722235188
+          }, 
+          "time": 13.142494000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -31.037581754430747, 
+            "powerMix": -21.879115101131479
+          }, 
+          "time": 13.397914
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -30.51374941995299, 
+            "powerMix": -21.958147298288033
+          }, 
+          "time": 13.455964000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "bassoon"
+            ], 
+            "powerStem": -32.747095622480693, 
+            "powerMix": -17.827956410494309
+          }, 
+          "time": 13.664943000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -24.305913749786509, 
+            "powerMix": -15.066142795451448
+          }, 
+          "time": 13.722993
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -32.386365524976519, 
+            "powerMix": -15.870879452296194
+          }, 
+          "time": 13.792653000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "oboe", 
+              "piccolo"
+            ], 
+            "powerStem": -56.100236182259522, 
+            "powerMix": -17.959696488903191
+          }, 
+          "time": 13.862313
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -28.833351006933874, 
+            "powerMix": -17.450512571900187
+          }, 
+          "time": 13.920363
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -25.705269805131898, 
+            "powerMix": -16.588099255930253
+          }, 
+          "time": 13.978413000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "oboe"
+            ], 
+            "powerStem": -35.789430318339058, 
+            "powerMix": -22.115154620548676
+          }, 
+          "time": 14.117732
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "french horn section"
+            ], 
+            "powerStem": -29.281094088689294, 
+            "powerMix": -18.071739098248408
+          }, 
+          "time": 14.199002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -34.50352524030145, 
+            "powerMix": -21.601677475559601
+          }, 
+          "time": 14.466032
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "bassoon", 
+              "violin section"
+            ], 
+            "powerStem": -66.759759395489482, 
+            "powerMix": -19.210263099924504
+          }, 
+          "time": 14.733061000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "cymbal", 
+              "flute"
+            ], 
+            "powerStem": -59.910731407277524, 
+            "powerMix": -14.726705830759112
+          }, 
+          "time": 14.791111
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -30.936984251358723, 
+            "powerMix": -16.286705936038945
+          }, 
+          "time": 14.849161
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "oboe", 
+              "piccolo"
+            ], 
+            "powerStem": -58.328666435516965, 
+            "powerMix": -17.489139644286432
+          }, 
+          "time": 14.918821000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani", 
+              "toms", 
+              "cello", 
+              "double bass"
+            ], 
+            "powerStem": -113.28400289591795, 
+            "powerMix": -16.609727620193198
+          }, 
+          "time": 15.046531000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "viola", 
+              "trumpet section", 
+              "double bass"
+            ], 
+            "powerStem": -80.107304825457902, 
+            "powerMix": -19.409497937885437
+          }, 
+          "time": 15.301950000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "trumpet section"
+            ], 
+            "powerStem": -25.614052239092935, 
+            "powerMix": -19.776208505444025
+          }, 
+          "time": 15.568980000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "bassoon"
+            ], 
+            "powerStem": -29.275331747998518, 
+            "powerMix": -19.482626663815804
+          }, 
+          "time": 15.824399000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "cymbal", 
+              "piccolo"
+            ], 
+            "powerStem": -62.924148644981656, 
+            "powerMix": -14.649001090225813
+          }, 
+          "time": 15.882449000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "oboe"
+            ], 
+            "powerStem": -29.844350075576038, 
+            "powerMix": -15.957466763419196
+          }, 
+          "time": 15.998549
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "oboe"
+            ], 
+            "powerStem": -31.530909252050783, 
+            "powerMix": -18.625001128197574
+          }, 
+          "time": 16.056599000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "cello", 
+              "double bass"
+            ], 
+            "powerStem": -61.306720499406993, 
+            "powerMix": -17.588267324067623
+          }, 
+          "time": 16.137868
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -34.54309258719563, 
+            "powerMix": -19.88050606813459
+          }, 
+          "time": 16.219138
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "trumpet section"
+            ], 
+            "powerStem": -25.057859648418415, 
+            "powerMix": -20.047411699941961
+          }, 
+          "time": 16.381678
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "timpani", 
+              "toms"
+            ], 
+            "powerStem": -60.093381885068069, 
+            "powerMix": -16.589868915784741
+          }, 
+          "time": 16.439728000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -30.665466606082475, 
+            "powerMix": -18.027195337845011
+          }, 
+          "time": 16.671927
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "bassoon"
+            ], 
+            "powerStem": -29.610481022465475, 
+            "powerMix": -15.376441512853333
+          }, 
+          "time": 16.938957000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -24.399217817142898, 
+            "powerMix": -14.55254224022941
+          }, 
+          "time": 16.997007
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -27.950321160877362, 
+            "powerMix": -16.100509862857265
+          }, 
+          "time": 17.113107
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 17, 
+            "onsetSource": [
+              "clarinet"
+            ], 
+            "powerStem": -28.709607012280681, 
+            "powerMix": -17.719130033448927
+          }, 
+          "time": 17.182766
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 16, 
+            "onsetSource": [
+              "piccolo"
+            ], 
+            "powerStem": -23.644470156405571, 
+            "powerMix": -17.42910341453889
+          }, 
+          "time": 17.240816000000002
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "InTheHalloftheMountainKing", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 17.443990929705215, 
+    "artist": "MusicDelta"
+  }
+}

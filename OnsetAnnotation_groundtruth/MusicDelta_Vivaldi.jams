@@ -1,0 +1,1400 @@
+{
+  "sandbox": {
+    "genre": "Classical", 
+    "is_instrumental": true
+  }, 
+  "annotations": [
+    {
+      "namespace": "onset", 
+      "sandbox": {}, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "Gain Window: 0.25ms\nTemporal Threshold: 0.05ms\nLoudness Threshold: -20dB", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -33.033470400184051, 
+            "powerMix": -30.623668431013783
+          }, 
+          "time": 0.777868
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -29.585632332006981, 
+            "powerMix": -17.25638640379448
+          }, 
+          "time": 0.835918
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -30.371804210877393, 
+            "powerMix": -22.827629430398563
+          }, 
+          "time": 1.0681180000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -20.754951016249123, 
+            "powerMix": -12.431224051045263
+          }, 
+          "time": 1.126168
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -18.961863474737285, 
+            "powerMix": -15.147564192172743
+          }, 
+          "time": 1.393197
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -23.092512124073615, 
+            "powerMix": -19.052516253509321
+          }, 
+          "time": 1.6253970000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -23.204457418058677, 
+            "powerMix": -12.892260816297254
+          }, 
+          "time": 1.6834470000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -22.340282742956528, 
+            "powerMix": -13.619651659228564
+          }, 
+          "time": 1.9388660000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -26.425762281191187, 
+            "powerMix": -19.027743548190607
+          }, 
+          "time": 2.194286
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -25.85383178581905, 
+            "powerMix": -23.08145253821661
+          }, 
+          "time": 2.693515
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -20.462199855561028, 
+            "powerMix": -18.23386911546082
+          }, 
+          "time": 2.7515650000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -28.356141818007657, 
+            "powerMix": -20.876621657994647
+          }, 
+          "time": 2.9489340000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -24.081908181245936, 
+            "powerMix": -19.363060221757575
+          }, 
+          "time": 3.018594
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -29.919851040076107, 
+            "powerMix": -17.703110547854223
+          }, 
+          "time": 3.134694
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -23.466124471786053, 
+            "powerMix": -18.652028585986589
+          }, 
+          "time": 3.227574
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section", 
+              "violin section"
+            ], 
+            "powerStem": -41.095671456575282, 
+            "powerMix": -15.110058992425582
+          }, 
+          "time": 3.2856240000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -25.374875380412849, 
+            "powerMix": -17.900365817161184
+          }, 
+          "time": 3.4713830000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -26.207273945564658, 
+            "powerMix": -17.240488984737237
+          }, 
+          "time": 3.575873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -23.812458304267082, 
+            "powerMix": -21.560021964885685
+          }, 
+          "time": 3.7268030000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -25.087196508433035, 
+            "powerMix": -20.319801372637578
+          }, 
+          "time": 3.784853
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -22.570510921534726, 
+            "powerMix": -17.367761280144926
+          }, 
+          "time": 4.0170520000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -24.119674997926538, 
+            "powerMix": -18.868183529100122
+          }, 
+          "time": 4.075102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -27.477165008342443, 
+            "powerMix": -22.948485891891796
+          }, 
+          "time": 4.237642
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -25.010988917771996, 
+            "powerMix": -19.924496408138477
+          }, 
+          "time": 4.342132
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -20.164540598908005, 
+            "powerMix": -14.35451086544678
+          }, 
+          "time": 4.400181
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "cello"
+            ], 
+            "powerStem": -39.802301019462938, 
+            "powerMix": -16.937329036067229
+          }, 
+          "time": 4.922630000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -23.65764947993182, 
+            "powerMix": -18.099399527079242
+          }, 
+          "time": 5.14322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -21.059264609538136, 
+            "powerMix": -16.382236543912075
+          }, 
+          "time": 5.20127
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -24.590854193606049, 
+            "powerMix": -19.538491678218705
+          }, 
+          "time": 5.29415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -24.925553046681401, 
+            "powerMix": -21.360916371477771
+          }, 
+          "time": 5.37542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -23.564992404436147, 
+            "powerMix": -15.809575029727556
+          }, 
+          "time": 5.4334690000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -23.352833716914063, 
+            "powerMix": -14.749435747474031
+          }, 
+          "time": 5.723719
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -29.629687334430418, 
+            "powerMix": -16.92382110228333
+          }, 
+          "time": 5.828209
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.705988794949651, 
+            "powerMix": -15.541370584183472
+          }, 
+          "time": 5.967528000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -27.468254540264464, 
+            "powerMix": -22.795419665551037
+          }, 
+          "time": 6.188118
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -25.257761622906223, 
+            "powerMix": -15.618715058749091
+          }, 
+          "time": 6.246168000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -17.646532288915985, 
+            "powerMix": -16.045461439046239
+          }, 
+          "time": 6.3042180000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -25.730855979817683, 
+            "powerMix": -20.384546516413632
+          }, 
+          "time": 6.478367
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -17.05882998520406, 
+            "powerMix": -15.763032622150494
+          }, 
+          "time": 6.548027
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -27.646588615532906, 
+            "powerMix": -19.357114415535317
+          }, 
+          "time": 6.803447
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "violin section"
+            ], 
+            "powerStem": -54.483488893313606, 
+            "powerMix": -22.983563639592841
+          }, 
+          "time": 7.325896
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -21.204946780060094, 
+            "powerMix": -19.682700101324407
+          }, 
+          "time": 7.383946000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "viola section"
+            ], 
+            "powerStem": -49.716545202878727, 
+            "powerMix": -18.293601186838554
+          }, 
+          "time": 7.6277550000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -22.667331807841361, 
+            "powerMix": -20.71449468237256
+          }, 
+          "time": 7.918005000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.345773056834229, 
+            "powerMix": -19.490038277669623
+          }, 
+          "time": 8.161814
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -27.186154289787915, 
+            "powerMix": -19.628467030189356
+          }, 
+          "time": 8.231474
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -28.035449657192032, 
+            "powerMix": -19.20250181130184
+          }, 
+          "time": 8.440454
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -26.011940595765299, 
+            "powerMix": -23.101572650345755
+          }, 
+          "time": 8.684263000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -28.879573349004648, 
+            "powerMix": -27.561822258529762
+          }, 
+          "time": 9.218322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -21.887643139119412, 
+            "powerMix": -19.166899945916484
+          }, 
+          "time": 9.334422
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -40.053569245951728, 
+            "powerMix": -21.638935065665677
+          }, 
+          "time": 9.543401000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -25.9910553000514, 
+            "powerMix": -23.159720642787143
+          }, 
+          "time": 9.636281
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "violin section"
+            ], 
+            "powerStem": -49.944710697829152, 
+            "powerMix": -19.594915454463944
+          }, 
+          "time": 9.775601
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -17.51380899837368, 
+            "powerMix": -16.281333706731669
+          }, 
+          "time": 9.856871
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -19.146970888598066, 
+            "powerMix": -17.072800083345815
+          }, 
+          "time": 10.089070000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.321313196165097, 
+            "powerMix": -18.438823144659935
+          }, 
+          "time": 10.332880000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -36.49846138653615, 
+            "powerMix": -22.895812359380592
+          }, 
+          "time": 10.541859
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -27.642339780035563, 
+            "powerMix": -21.236888899990852
+          }, 
+          "time": 10.599909
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -27.913449738985449, 
+            "powerMix": -20.486106578855065
+          }, 
+          "time": 10.866939
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.6847740431445, 
+            "powerMix": -18.771849061324328
+          }, 
+          "time": 11.435828
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -26.798066572620137, 
+            "powerMix": -21.458740988161907
+          }, 
+          "time": 11.691247
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -29.726942566583094, 
+            "powerMix": -20.610764416478858
+          }, 
+          "time": 11.830567
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -25.986221932421035, 
+            "powerMix": -22.907366790600534
+          }, 
+          "time": 11.923447000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "viola section"
+            ], 
+            "powerStem": -51.856424688093227, 
+            "powerMix": -17.35657623845141
+          }, 
+          "time": 11.981497000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -18.366286700924697, 
+            "powerMix": -15.094936114983739
+          }, 
+          "time": 12.039546000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "viola section"
+            ], 
+            "powerStem": -48.077218913395313, 
+            "powerMix": -16.514956803842814
+          }, 
+          "time": 12.248526
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -19.437312232159805, 
+            "powerMix": -17.73238226852499
+          }, 
+          "time": 12.318186
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "violin section"
+            ], 
+            "powerStem": -56.109622837279474, 
+            "powerMix": -18.494549953034046
+          }, 
+          "time": 12.480726
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.762882750702111, 
+            "powerMix": -16.621299400553255
+          }, 
+          "time": 12.770975
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -19.845071082531838, 
+            "powerMix": -17.56295807313688
+          }, 
+          "time": 12.840635
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -23.931036187429346, 
+            "powerMix": -17.967097072444037
+          }, 
+          "time": 13.026395
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "viola section"
+            ], 
+            "powerStem": -52.021395706453575, 
+            "powerMix": -20.155346674281049
+          }, 
+          "time": 13.873923000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -13.831571089653366, 
+            "powerMix": -11.778228620501514
+          }, 
+          "time": 13.955193000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass", 
+              "viola section"
+            ], 
+            "powerStem": -48.136020433965953, 
+            "powerMix": -17.717619491444864
+          }, 
+          "time": 14.152562000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -16.618711593412382, 
+            "powerMix": -12.233187039899537
+          }, 
+          "time": 14.257052000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.241597720808024, 
+            "powerMix": -16.567400845649736
+          }, 
+          "time": 14.709841
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -26.225026529347399, 
+            "powerMix": -19.733966274095
+          }, 
+          "time": 15.20907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -23.027303538581716, 
+            "powerMix": -18.947507388951564
+          }, 
+          "time": 15.51093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -16.673073810275373, 
+            "powerMix": -14.14314206067086
+          }, 
+          "time": 15.836009
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -24.974453410567492, 
+            "powerMix": -18.973648518873361
+          }, 
+          "time": 16.056599000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.413206979894937, 
+            "powerMix": -19.394299085903079
+          }, 
+          "time": 16.323628
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -18.325699036075367, 
+            "powerMix": -13.408347374625277
+          }, 
+          "time": 16.381678
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -27.219357086185646, 
+            "powerMix": -21.280544077949422
+          }, 
+          "time": 16.729977
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -27.454680238750598, 
+            "powerMix": -19.098240655029013
+          }, 
+          "time": 16.834467
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -28.954682726674559, 
+            "powerMix": -19.213542842431618
+          }, 
+          "time": 17.391746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -26.977387508519488, 
+            "powerMix": -12.40047433492796
+          }, 
+          "time": 17.449796000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -23.896008042563558, 
+            "powerMix": -14.097921613944585
+          }, 
+          "time": 17.728435
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -25.490533881063591, 
+            "powerMix": -20.305255208165015
+          }, 
+          "time": 17.937415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -19.847962446362001, 
+            "powerMix": -15.536783134220302
+          }, 
+          "time": 17.995465
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -23.916366132378492, 
+            "powerMix": -15.964832342865588
+          }, 
+          "time": 18.227664
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "violin section"
+            ], 
+            "powerStem": -24.267014940355018, 
+            "powerMix": -17.235684971367849
+          }, 
+          "time": 18.506304
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -19.242457366521553, 
+            "powerMix": -15.437526679775285
+          }, 
+          "time": 18.564354
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -23.532271956007612, 
+            "powerMix": -17.632677245042508
+          }, 
+          "time": 18.784943000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.044899907942398, 
+            "powerMix": -19.068935780606953
+          }, 
+          "time": 19.040363000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -17.618803351451209, 
+            "powerMix": -15.116038779849767
+          }, 
+          "time": 19.121633000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section", 
+              "violin section"
+            ], 
+            "powerStem": -47.731217423457082, 
+            "powerMix": -14.988259496313574
+          }, 
+          "time": 19.307392
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -19.117133964919944, 
+            "powerMix": -15.900632524695947
+          }, 
+          "time": 19.377052000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -23.998056104067928, 
+            "powerMix": -18.005828385360306
+          }, 
+          "time": 19.574422000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -17.597508831494753, 
+            "powerMix": -13.73153619004186
+          }, 
+          "time": 19.655692000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -26.78993468812104, 
+            "powerMix": -21.396377870971417
+          }, 
+          "time": 20.096871
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -21.612498297935293, 
+            "powerMix": -13.570511891410057
+          }, 
+          "time": 20.154921
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "double bass"
+            ], 
+            "powerStem": -24.855457103495855, 
+            "powerMix": -18.997011985855814
+          }, 
+          "time": 20.387120000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "cello"
+            ], 
+            "powerStem": -16.011449143073587, 
+            "powerMix": -13.792187507804702
+          }, 
+          "time": 20.456780000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 5, 
+            "onsetSource": [
+              "viola section"
+            ], 
+            "powerStem": -25.677730664200091, 
+            "powerMix": -19.067901304703007
+          }, 
+          "time": 20.67737
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "Vivaldi", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 21.837369614512472, 
+    "artist": "MusicDelta"
+  }
+}

@@ -1,0 +1,5709 @@
+{
+  "sandbox": {
+    "genre": "World/Folk", 
+    "is_instrumental": true
+  }, 
+  "annotations": [
+    {
+      "namespace": "onset", 
+      "sandbox": {}, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "Gain Window: 0.25ms\nTemporal Threshold: 0.05ms\nLoudness Threshold: -20dB", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -27.283146762384867, 
+            "powerMix": -27.281570051118639
+          }, 
+          "time": 0.336689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -28.757545750830495, 
+            "powerMix": -28.769616517798035
+          }, 
+          "time": 0.754649
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -26.125292196178577, 
+            "powerMix": -14.217380732404665
+          }, 
+          "time": 0.8939680000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -25.733365413631372, 
+            "powerMix": -20.999858812839584
+          }, 
+          "time": 1.184218
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -25.816000117816259, 
+            "powerMix": -23.919611830188778
+          }, 
+          "time": 1.4512470000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.749578327433216, 
+            "powerMix": -22.27459062385574
+          }, 
+          "time": 1.7298870000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -34.673511491856594, 
+            "powerMix": -29.526980996237654
+          }, 
+          "time": 1.8924260000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -33.530565815755232, 
+            "powerMix": -23.388003906732521
+          }, 
+          "time": 1.9736960000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -36.312039806804428, 
+            "powerMix": -26.658187602715195
+          }, 
+          "time": 2.031746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -27.12537017626499, 
+            "powerMix": -13.599892045441166
+          }, 
+          "time": 2.2639460000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -51.752789881222277, 
+            "powerMix": -21.555311377986229
+          }, 
+          "time": 2.5425850000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -26.317721259512837, 
+            "powerMix": -24.699053388394386
+          }, 
+          "time": 2.658685
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -25.051095903428973, 
+            "powerMix": -15.926847966265543
+          }, 
+          "time": 2.7980050000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.619389790043776, 
+            "powerMix": -18.024075589162692
+          }, 
+          "time": 2.925714
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.296939728552534, 
+            "powerMix": -16.05740181256963
+          }, 
+          "time": 3.065033999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -14.227781794101915, 
+            "powerMix": -12.787578430335248
+          }, 
+          "time": 3.308844
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -43.414367586078001, 
+            "powerMix": -13.972509256419563
+          }, 
+          "time": 3.413333
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.432022893750261, 
+            "powerMix": -15.366722271145111
+          }, 
+          "time": 3.482993
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -36.713735590102104, 
+            "powerMix": -11.929702878445386
+          }, 
+          "time": 3.622313
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -19.645536738709769, 
+            "powerMix": -14.979058280979247
+          }, 
+          "time": 3.7384130000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -19.240683482304426, 
+            "powerMix": -16.116457667267305
+          }, 
+          "time": 3.8196830000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -16.037744811183185, 
+            "powerMix": -13.810264557224256
+          }, 
+          "time": 3.889342
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.373776121708485, 
+            "powerMix": -15.986304769217153
+          }, 
+          "time": 4.028662000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -14.431410601962607, 
+            "powerMix": -13.6397789566985
+          }, 
+          "time": 4.156372
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.703739250511926, 
+            "powerMix": -18.572459325529923
+          }, 
+          "time": 4.3769610000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -13.695844450954365, 
+            "powerMix": -8.9016351419065725
+          }, 
+          "time": 4.435011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.663924357768874, 
+            "powerMix": -12.474609964070048
+          }, 
+          "time": 4.504671
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.224064070996501, 
+            "powerMix": -11.935128557727042
+          }, 
+          "time": 4.574331
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -35.692037448753069, 
+            "powerMix": -13.601033383200814
+          }, 
+          "time": 4.702041
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -19.83544437154362, 
+            "powerMix": -13.877241266735032
+          }, 
+          "time": 4.818141000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -18.713839239951149, 
+            "powerMix": -16.295505797225132
+          }, 
+          "time": 4.8994100000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -22.44448784311459, 
+            "powerMix": -15.464752286441799
+          }, 
+          "time": 4.95746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.528525797346354, 
+            "powerMix": -16.438742167122996
+          }, 
+          "time": 5.096780000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -12.682420976069233, 
+            "powerMix": -11.997886625659842
+          }, 
+          "time": 5.22449
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.361451863625227, 
+            "powerMix": -15.215395813735896
+          }, 
+          "time": 5.514738999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -31.95982726152145, 
+            "powerMix": -12.757337047246057
+          }, 
+          "time": 5.781769000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.664335103668044, 
+            "powerMix": -19.419666130839936
+          }, 
+          "time": 6.072018000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.659519470291865, 
+            "powerMix": -20.963504517199514
+          }, 
+          "time": 6.2113380000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 2, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.597276651605114, 
+            "powerMix": -17.449302722480738
+          }, 
+          "time": 6.339048
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -13.384527225828284, 
+            "powerMix": -12.226615501312194
+          }, 
+          "time": 6.617687
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -19.24501377544437, 
+            "powerMix": -16.15809821453843
+          }, 
+          "time": 6.687347000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -14.118519592305031, 
+            "powerMix": -14.64046692715204
+          }, 
+          "time": 6.896327
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -34.523051365852282, 
+            "powerMix": -12.07780826680731
+          }, 
+          "time": 7.174966
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.165132255135639, 
+            "powerMix": -15.461218319746489
+          }, 
+          "time": 7.4536050000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -19.146665800965707, 
+            "powerMix": -17.420871167571036
+          }, 
+          "time": 7.7090250000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -22.137392202875738, 
+            "powerMix": -20.518087322226602
+          }, 
+          "time": 7.813515000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -14.07276290719282, 
+            "powerMix": -14.507639144543468
+          }, 
+          "time": 8.010884
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -37.012876517389685, 
+            "powerMix": -12.808308500209398
+          }, 
+          "time": 8.266304
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -22.824341063581372, 
+            "powerMix": -19.973030468658525
+          }, 
+          "time": 8.347574
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -31.752316811128285, 
+            "powerMix": -23.639880300063151
+          }, 
+          "time": 8.463673
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -39.904349084018847, 
+            "powerMix": -17.055691242880847
+          }, 
+          "time": 8.533332999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -22.209177452097812, 
+            "powerMix": -19.643137894950716
+          }, 
+          "time": 8.730703
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.713599155441266, 
+            "powerMix": -16.990355999428047
+          }, 
+          "time": 8.881633
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -25.931158719443992, 
+            "powerMix": -15.58519814292805
+          }, 
+          "time": 8.951293
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.19320442765062, 
+            "powerMix": -14.376238946397731
+          }, 
+          "time": 9.009342
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.997383184956529, 
+            "powerMix": -14.756517315440798
+          }, 
+          "time": 9.299592
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -41.136544817009181, 
+            "powerMix": -14.173054935128542
+          }, 
+          "time": 9.589841
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -15.114880272880768, 
+            "powerMix": -11.095447577748169
+          }, 
+          "time": 9.845261
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -12.7972520803844, 
+            "powerMix": -11.359777117463848
+          }, 
+          "time": 10.1239
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.050458723496696, 
+            "powerMix": -15.773897442390117
+          }, 
+          "time": 10.657959
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.734164481565873, 
+            "powerMix": -17.351956804628738
+          }, 
+          "time": 10.808889
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -23.176394989211374, 
+            "powerMix": -21.339534994012489
+          }, 
+          "time": 10.948209
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.554211320510301, 
+            "powerMix": -19.231520412971872
+          }, 
+          "time": 11.099138
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -47.869289301884308, 
+            "powerMix": -21.332975241782922
+          }, 
+          "time": 11.238458000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -59.021469134792667, 
+            "powerMix": -21.165100772974323
+          }, 
+          "time": 11.540317
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -29.205639837262154, 
+            "powerMix": -19.640646973638539
+          }, 
+          "time": 11.656417000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -24.398668941401134, 
+            "powerMix": -18.587335809053908
+          }, 
+          "time": 11.726077
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.447253804201324, 
+            "powerMix": -13.674551287822315
+          }, 
+          "time": 11.784127000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.901711814538579, 
+            "powerMix": -15.848382965735883
+          }, 
+          "time": 12.085986
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -47.276643261442175, 
+            "powerMix": -17.774777003609913
+          }, 
+          "time": 12.341406000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.561369884442669, 
+            "powerMix": -17.853165588486547
+          }, 
+          "time": 12.620045000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -30.256193025323515, 
+            "powerMix": -16.945658859180973
+          }, 
+          "time": 12.852245
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -30.140912422444771, 
+            "powerMix": -11.940038965213486
+          }, 
+          "time": 13.165714000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.874302666769282, 
+            "powerMix": -14.360022985803784
+          }, 
+          "time": 13.397914
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.493462259915116, 
+            "powerMix": -17.756843951485955
+          }, 
+          "time": 13.467574
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.202725284576911, 
+            "powerMix": -18.001081650438113
+          }, 
+          "time": 13.548844
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -17.789760859267567, 
+            "powerMix": -15.183388382114334
+          }, 
+          "time": 13.606893000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.710258128272976, 
+            "powerMix": -16.321071741526591
+          }, 
+          "time": 13.676553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.376434973008735, 
+            "powerMix": -15.96699677836618
+          }, 
+          "time": 13.804263
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.210760755241783, 
+            "powerMix": -20.074428801597918
+          }, 
+          "time": 13.955193000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -23.191056022099538, 
+            "powerMix": -21.678232293556277
+          }, 
+          "time": 14.013243000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -21.153994356062213, 
+            "powerMix": -19.552905382992844
+          }, 
+          "time": 14.164172
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -47.435057307176095, 
+            "powerMix": -10.861377996659689
+          }, 
+          "time": 14.245442
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -48.177309630393239, 
+            "powerMix": -15.055061069013016
+          }, 
+          "time": 14.303492
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -46.909349032033305, 
+            "powerMix": -13.925903774449671
+          }, 
+          "time": 14.361542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -53.01081626311867, 
+            "powerMix": -12.010180492238687
+          }, 
+          "time": 14.419592000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -16.640616352230793, 
+            "powerMix": -10.5383220860042
+          }, 
+          "time": 14.489252
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.551643544949599, 
+            "powerMix": -12.050533233457131
+          }, 
+          "time": 14.663401
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -15.361570861674611, 
+            "powerMix": -14.523586933675894
+          }, 
+          "time": 14.767891
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.986417413832545, 
+            "powerMix": -16.142447030925297
+          }, 
+          "time": 14.895601000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -29.566587955017045, 
+            "powerMix": -17.038531431814828
+          }, 
+          "time": 15.034921
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -20.977716987586774, 
+            "powerMix": -16.898735886817484
+          }, 
+          "time": 15.18585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.731236877299089, 
+            "powerMix": -17.859851434965783
+          }, 
+          "time": 15.301950000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -26.854346198002229, 
+            "powerMix": -11.276320713231589
+          }, 
+          "time": 15.360000000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -35.233227470517562, 
+            "powerMix": -12.52908816672792
+          }, 
+          "time": 15.418050000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -34.453439299592894, 
+            "powerMix": -11.967012163720987
+          }, 
+          "time": 15.487710000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -18.537599120843979, 
+            "powerMix": -12.863887676805783
+          }, 
+          "time": 15.545760000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -17.775867188259877, 
+            "powerMix": -12.562085718326301
+          }, 
+          "time": 15.627029
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -55.574381924593872, 
+            "powerMix": -19.365769325389085
+          }, 
+          "time": 15.789569
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -44.764248762319255, 
+            "powerMix": -17.012503949997676
+          }, 
+          "time": 15.859229000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -18.858268740562508, 
+            "powerMix": -14.70858627308532
+          }, 
+          "time": 15.917279
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -18.123086948463666, 
+            "powerMix": -14.721094933996032
+          }, 
+          "time": 15.986939000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.413981925205263, 
+            "powerMix": -14.485887307875117
+          }, 
+          "time": 16.044989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -50.703579785270904, 
+            "powerMix": -11.075629897306328
+          }, 
+          "time": 16.149478000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -25.307586921381059, 
+            "powerMix": -12.51045540599165
+          }, 
+          "time": 16.323628
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu"
+            ], 
+            "powerStem": -36.001435802579245, 
+            "powerMix": -12.946366447468927
+          }, 
+          "time": 16.416508
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -24.904841700749714, 
+            "powerMix": -19.853744825253052
+          }, 
+          "time": 16.532608
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -34.591693997634032, 
+            "powerMix": -18.721343923151988
+          }, 
+          "time": 16.602268000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -35.242981960738504, 
+            "powerMix": -16.166915657651344
+          }, 
+          "time": 16.660317000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -16.247578112291595, 
+            "powerMix": -14.807807317560041
+          }, 
+          "time": 16.718367
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -21.977510430700168, 
+            "powerMix": -17.463822393379669
+          }, 
+          "time": 16.811247
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -17.012841785029885, 
+            "powerMix": -15.017554160362891
+          }, 
+          "time": 16.950567
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -17.073817932318111, 
+            "powerMix": -15.508556869816616
+          }, 
+          "time": 17.089887
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -37.725961899436051, 
+            "powerMix": -21.518934610562475
+          }, 
+          "time": 17.159546000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.195241399631076, 
+            "powerMix": -12.049104112674689
+          }, 
+          "time": 17.229206
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -29.813932388200719, 
+            "powerMix": -13.230000168653195
+          }, 
+          "time": 17.287256000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.601783542958042, 
+            "powerMix": -13.375175135136592
+          }, 
+          "time": 17.368526000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.197260407808926, 
+            "powerMix": -14.28732392574477
+          }, 
+          "time": 17.496236
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -24.922423600233934, 
+            "powerMix": -13.465607819180708
+          }, 
+          "time": 17.647166000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.254576883631781, 
+            "powerMix": -12.145554188889527
+          }, 
+          "time": 17.774875
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -21.613291945827761, 
+            "powerMix": -14.565701842389899
+          }, 
+          "time": 17.879365
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -30.207074727197725, 
+            "powerMix": -18.182094655338414
+          }, 
+          "time": 18.030295000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -26.024294660744612, 
+            "powerMix": -16.4340033416936
+          }, 
+          "time": 18.158005000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -26.881046093723793, 
+            "powerMix": -18.871050039887436
+          }, 
+          "time": 18.216054
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -29.385132311270041, 
+            "powerMix": -19.254145629229406
+          }, 
+          "time": 18.285714000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -16.888182150139823, 
+            "powerMix": -14.775946791467561
+          }, 
+          "time": 18.355374
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -25.18890520710913, 
+            "powerMix": -15.667216513813662
+          }, 
+          "time": 18.413424000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.563991443120301, 
+            "powerMix": -15.612429118563607
+          }, 
+          "time": 18.471474
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.960783520293425, 
+            "powerMix": -15.967017846153249
+          }, 
+          "time": 18.541134
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -41.262005614455148, 
+            "powerMix": -16.225499292638574
+          }, 
+          "time": 18.610794000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.367938768455026, 
+            "powerMix": -17.880826333063414
+          }, 
+          "time": 18.668844
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.330881535787196, 
+            "powerMix": -15.244610990681464
+          }, 
+          "time": 18.761723
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -31.800060917356301, 
+            "powerMix": -9.9182593117263824
+          }, 
+          "time": 18.889433
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.119075513116577, 
+            "powerMix": -14.8701901369807
+          }, 
+          "time": 19.028753000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.248467506746827, 
+            "powerMix": -14.018803002389014
+          }, 
+          "time": 19.144853
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -21.546631619004625, 
+            "powerMix": -17.043003330162584
+          }, 
+          "time": 19.237732
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.61892854333874, 
+            "powerMix": -16.610454057215858
+          }, 
+          "time": 19.295782000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -22.678403089131159, 
+            "powerMix": -14.208536635325729
+          }, 
+          "time": 19.400272
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.064347507259889, 
+            "powerMix": -12.010119770928014
+          }, 
+          "time": 19.713741000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.754580937931618, 
+            "powerMix": -13.766350808568365
+          }, 
+          "time": 19.771791
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.188423039199201, 
+            "powerMix": -13.279973087341592
+          }, 
+          "time": 19.841451000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.893447607013957, 
+            "powerMix": -15.377803084657213
+          }, 
+          "time": 19.899501
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.565231724557524, 
+            "powerMix": -15.899760610980811
+          }, 
+          "time": 19.992381
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -22.141430946894847, 
+            "powerMix": -19.051177012076181
+          }, 
+          "time": 20.166531000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -62.226979676063529, 
+            "powerMix": -13.36433077719262
+          }, 
+          "time": 20.2478
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -14.544465943870266, 
+            "powerMix": -12.623511999837099
+          }, 
+          "time": 20.3639
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -14.141778360475625, 
+            "powerMix": -13.230465910470395
+          }, 
+          "time": 20.456780000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "guzheng"
+            ], 
+            "powerStem": -39.412530395033649, 
+            "powerMix": -12.52377149693039
+          }, 
+          "time": 20.51483
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.412795679409871, 
+            "powerMix": -15.350633425476595
+          }, 
+          "time": 20.67737
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -41.522319799783219, 
+            "powerMix": -15.462257811388042
+          }, 
+          "time": 20.781859
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -25.293689382257931, 
+            "powerMix": -19.089831952570229
+          }, 
+          "time": 20.944399
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -72.224430054247193, 
+            "powerMix": -16.367314250125705
+          }, 
+          "time": 21.072109
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu"
+            ], 
+            "powerStem": -59.947407796213341, 
+            "powerMix": -14.735999483085662
+          }, 
+          "time": 21.164989000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -26.745097382181875, 
+            "powerMix": -16.092312371750786
+          }, 
+          "time": 21.304308000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -15.263478822228622, 
+            "powerMix": -12.453765380353436
+          }, 
+          "time": 21.373968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.513086509525039, 
+            "powerMix": -14.502181006446392
+          }, 
+          "time": 21.478458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.91293225898939, 
+            "powerMix": -19.496703737233286
+          }, 
+          "time": 21.536508
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.349220429352506, 
+            "powerMix": -12.392860995596953
+          }, 
+          "time": 21.594558000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -15.950765598361533, 
+            "powerMix": -13.977716558771716
+          }, 
+          "time": 21.664218
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.978089698940366, 
+            "powerMix": -12.664549541634036
+          }, 
+          "time": 21.768707000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -14.096654902280488, 
+            "powerMix": -12.382084877768285
+          }, 
+          "time": 21.896417000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -35.250861196762983, 
+            "powerMix": -18.621999429148161
+          }, 
+          "time": 22.024127
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.139838921182999, 
+            "powerMix": -16.940038164150643
+          }, 
+          "time": 22.151837
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.150967686457061, 
+            "powerMix": -18.707960990821082
+          }, 
+          "time": 22.291156
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -27.001483785623105, 
+            "powerMix": -20.225136375417346
+          }, 
+          "time": 22.407256
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -24.756979614824747, 
+            "powerMix": -15.000443966640749
+          }, 
+          "time": 22.534966
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.561450483523952, 
+            "powerMix": -13.001284773797435
+          }, 
+          "time": 22.674286000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -52.277894397283035, 
+            "powerMix": -10.354317091274503
+          }, 
+          "time": 22.976145000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -14.717352046524754, 
+            "powerMix": -13.199190622714658
+          }, 
+          "time": 23.034195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -23.069564056155961, 
+            "powerMix": -19.725396780942908
+          }, 
+          "time": 23.161905
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -17.367779882274132, 
+            "powerMix": -12.452622760615728
+          }, 
+          "time": 23.219955000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -14.877720202009082, 
+            "powerMix": -12.773392778548555
+          }, 
+          "time": 23.289615
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.538174462485941, 
+            "powerMix": -9.3349729236011942
+          }, 
+          "time": 23.498594
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu"
+            ], 
+            "powerStem": -47.848955088286822, 
+            "powerMix": -14.7053326455357
+          }, 
+          "time": 23.603084000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -38.417093860386579, 
+            "powerMix": -12.371095266077131
+          }, 
+          "time": 23.765624000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -21.303321428409664, 
+            "powerMix": -11.63458356385793
+          }, 
+          "time": 24.032653
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -16.269514052831859, 
+            "powerMix": -13.89770984194729
+          }, 
+          "time": 24.148753000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -24.827907998263331, 
+            "powerMix": -19.950293484769837
+          }, 
+          "time": 24.241633
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "guzheng"
+            ], 
+            "powerStem": -39.83729776889227, 
+            "powerMix": -14.403932095024281
+          }, 
+          "time": 24.322902000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -16.604214641748801, 
+            "powerMix": -14.56225001316735
+          }, 
+          "time": 24.543492
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -12.773481935544101, 
+            "powerMix": -10.866523521483259
+          }, 
+          "time": 24.601542000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -22.015427747433286, 
+            "powerMix": -16.967306933345007
+          }, 
+          "time": 24.787302
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -13.378584115152981, 
+            "powerMix": -7.1191832835383453
+          }, 
+          "time": 24.856961000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -14.630297660411784, 
+            "powerMix": -11.436610584444189
+          }, 
+          "time": 24.926621
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.458808026628919, 
+            "powerMix": -10.866975964278591
+          }, 
+          "time": 25.077551000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -15.075115995235828, 
+            "powerMix": -11.386757836440594
+          }, 
+          "time": 25.147211000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.034878136636216, 
+            "powerMix": -12.439561402633457
+          }, 
+          "time": 25.35619
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.84212473329476, 
+            "powerMix": -10.71330551194723
+          }, 
+          "time": 25.42585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.465505973129932, 
+            "powerMix": -11.818631986341707
+          }, 
+          "time": 25.55356
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -44.305883370195033, 
+            "powerMix": -16.261176546865116
+          }, 
+          "time": 25.692880000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -22.086481515910158, 
+            "powerMix": -17.312428911823908
+          }, 
+          "time": 25.774150000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.677077390729195, 
+            "powerMix": -15.72546438509325
+          }, 
+          "time": 25.8322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -18.692255796707887, 
+            "powerMix": -15.658521380881767
+          }, 
+          "time": 25.913469000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -59.895368084832576, 
+            "powerMix": -16.235265781421788
+          }, 
+          "time": 25.983129
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.924677818795193, 
+            "powerMix": -11.862924778469463
+          }, 
+          "time": 26.250159
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -14.674723678796171, 
+            "powerMix": -12.871610191216202
+          }, 
+          "time": 26.505578000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -18.254633526614608, 
+            "powerMix": -15.781455946522449
+          }, 
+          "time": 26.749388000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.589376023916369, 
+            "powerMix": -14.262733216152094
+          }, 
+          "time": 26.877098
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.419532037167652, 
+            "powerMix": -14.404750428941389
+          }, 
+          "time": 27.028027
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.845773038684442, 
+            "powerMix": -17.630749115482157
+          }, 
+          "time": 27.178957
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -23.253043760148881, 
+            "powerMix": -8.9635434519364576
+          }, 
+          "time": 27.329887000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.306606492721148, 
+            "powerMix": -16.064515850730682
+          }, 
+          "time": 27.573696
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.104088637118089, 
+            "powerMix": -15.80019044090071
+          }, 
+          "time": 27.794286000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.144761845854994, 
+            "powerMix": -11.06678874739308
+          }, 
+          "time": 27.887166
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.306988261348209, 
+            "powerMix": -17.153807879783184
+          }, 
+          "time": 28.130975000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -31.120929143604993, 
+            "powerMix": -25.452944007842902
+          }, 
+          "time": 28.281905000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -33.634197632312308, 
+            "powerMix": -20.178900771975485
+          }, 
+          "time": 28.374785000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -21.786232592478029, 
+            "powerMix": -20.445782246215476
+          }, 
+          "time": 28.456054
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -30.323803577235555, 
+            "powerMix": -22.471880623190565
+          }, 
+          "time": 28.537324
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -25.417542024481115, 
+            "powerMix": -19.973612946003531
+          }, 
+          "time": 28.665034000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.976072732800727, 
+            "powerMix": -11.473763949944601
+          }, 
+          "time": 28.723084
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.558898206933439, 
+            "powerMix": -14.318939720367354
+          }, 
+          "time": 28.804354000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.589025420644177, 
+            "powerMix": -13.632434840301277
+          }, 
+          "time": 28.932063000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -17.617798800218193, 
+            "powerMix": -14.295233391202746
+          }, 
+          "time": 29.001723000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.56088358186798, 
+            "powerMix": -15.5682372505565
+          }, 
+          "time": 29.059773000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -24.385994174312934, 
+            "powerMix": -14.020452965771126
+          }, 
+          "time": 29.117823
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.925890892372131, 
+            "powerMix": -12.12950882211269
+          }, 
+          "time": 29.210703000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.833811424394728, 
+            "powerMix": -12.744774203775833
+          }, 
+          "time": 29.338413000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -17.609503861278363, 
+            "powerMix": -11.426450589437586
+          }, 
+          "time": 29.419683000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.043976345299448, 
+            "powerMix": -12.611218134398182
+          }, 
+          "time": 29.512561999000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -23.870472060545364, 
+            "powerMix": -12.959473437575406
+          }, 
+          "time": 29.617052
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -14.319968803454406, 
+            "powerMix": -13.585067789966361
+          }, 
+          "time": 29.709932000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.780450617727656, 
+            "powerMix": -13.830180838453799
+          }, 
+          "time": 29.779592
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -21.714535827591352, 
+            "powerMix": -12.287772574445118
+          }, 
+          "time": 29.907302
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -40.909616070391237, 
+            "powerMix": -13.447726565731003
+          }, 
+          "time": 30.023401000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -26.747104824694112, 
+            "powerMix": -13.95809488643026
+          }, 
+          "time": 30.185941000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -23.691741803314194, 
+            "powerMix": -17.039333561616857
+          }, 
+          "time": 30.278821
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.537341683558175, 
+            "powerMix": -11.73615247389874
+          }, 
+          "time": 30.336871000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.443029812818708, 
+            "powerMix": -11.839425509744972
+          }, 
+          "time": 30.487800000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -33.617137987687414, 
+            "powerMix": -11.928228561046264
+          }, 
+          "time": 30.58068
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -15.054215528473179, 
+            "powerMix": -12.656493941028868
+          }, 
+          "time": 30.673560000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -44.525864398611944, 
+            "powerMix": -11.765497453424858
+          }, 
+          "time": 30.731610000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.75515934728557, 
+            "powerMix": -13.548459524481329
+          }, 
+          "time": 30.85932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -22.258061312766863, 
+            "powerMix": -12.921601232247632
+          }, 
+          "time": 30.975420000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.363497561899237, 
+            "powerMix": -12.012384085249179
+          }, 
+          "time": 31.137959000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -33.141261463616239, 
+            "powerMix": -17.936053357286482
+          }, 
+          "time": 31.288889
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -26.567805512699628, 
+            "powerMix": -19.847361879093796
+          }, 
+          "time": 31.370159
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.463309370998758, 
+            "powerMix": -16.675023719467529
+          }, 
+          "time": 31.428209000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.877799297090473, 
+            "powerMix": -13.853761236914139
+          }, 
+          "time": 31.555918000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -33.724372109588245, 
+            "powerMix": -14.850453280097025
+          }, 
+          "time": 31.672018
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.320295056036517, 
+            "powerMix": -14.469076767884061
+          }, 
+          "time": 31.834558
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.520008208203055, 
+            "powerMix": -13.616411700856176
+          }, 
+          "time": 31.962268
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -18.723679028628251, 
+            "powerMix": -13.062552426745542
+          }, 
+          "time": 32.020317
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.790333217408396, 
+            "powerMix": -13.830648707049244
+          }, 
+          "time": 32.101587
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -24.253472203576493, 
+            "powerMix": -18.030953473887244
+          }, 
+          "time": 32.194467
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -33.883932493422392, 
+            "powerMix": -13.19868315350991
+          }, 
+          "time": 32.252517000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.475202177737593, 
+            "powerMix": -13.134118517982481
+          }, 
+          "time": 32.380227000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -25.586870266596641, 
+            "powerMix": -14.787573251713642
+          }, 
+          "time": 32.519545999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.807891913731467, 
+            "powerMix": -14.057235369470325
+          }, 
+          "time": 32.670476
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -17.287286670895618, 
+            "powerMix": -14.045635782009731
+          }, 
+          "time": 32.786576000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -20.240605732976384, 
+            "powerMix": -18.509840912391851
+          }, 
+          "time": 32.867846
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -17.837275376483454, 
+            "powerMix": -11.291436392180209
+          }, 
+          "time": 32.925896
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -23.145666445463853, 
+            "powerMix": -12.227843149053783
+          }, 
+          "time": 33.041995
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.32863471181896, 
+            "powerMix": -14.279275817105697
+          }, 
+          "time": 33.158095
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -19.874858989299149, 
+            "powerMix": -16.58662339014883
+          }, 
+          "time": 33.250975000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -23.869797207736625, 
+            "powerMix": -13.318993617561283
+          }, 
+          "time": 33.320635
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -20.010600609985381, 
+            "powerMix": -13.006437817377686
+          }, 
+          "time": 33.459955
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -15.972816587409648, 
+            "powerMix": -14.501364345303237
+          }, 
+          "time": 33.541224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -20.21474092538238, 
+            "powerMix": -10.771070427745993
+          }, 
+          "time": 33.599274
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.590935846496912, 
+            "powerMix": -13.193521458359815
+          }, 
+          "time": 33.843084000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -11.182739895659818, 
+            "powerMix": -8.1476392439221428
+          }, 
+          "time": 33.912744
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -37.746440651282121, 
+            "powerMix": -11.543696128950574
+          }, 
+          "time": 34.156553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -28.640046180166596, 
+            "powerMix": -14.99478097377586
+          }, 
+          "time": 34.284263
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -82.260178601120344, 
+            "powerMix": -15.091651684109541
+          }, 
+          "time": 34.411973
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -53.546726569624283, 
+            "powerMix": -16.001286045728492
+          }, 
+          "time": 34.539683000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.114247626329089, 
+            "powerMix": -23.234646346254383
+          }, 
+          "time": 34.667392
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -17.996744424682674, 
+            "powerMix": -17.793478395888883
+          }, 
+          "time": 34.725442
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -52.054812055291293, 
+            "powerMix": -18.967617089666476
+          }, 
+          "time": 34.783492
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -23.559047801039675, 
+            "powerMix": -20.403038828299252
+          }, 
+          "time": 34.876372
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.843829879091878, 
+            "powerMix": -17.792548639962515
+          }, 
+          "time": 34.969252000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.907324608408853, 
+            "powerMix": -18.205609677123313
+          }, 
+          "time": 35.096961
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.013939883253599, 
+            "powerMix": -17.056868824571094
+          }, 
+          "time": 35.236281000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -28.046412531193209, 
+            "powerMix": -25.5789466426167
+          }, 
+          "time": 35.538141
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.465994176296221, 
+            "powerMix": -20.951262359284769
+          }, 
+          "time": 35.642630000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.861312775425997, 
+            "powerMix": -22.319492197015713
+          }, 
+          "time": 35.7239
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.06568644904516, 
+            "powerMix": -12.277290298661223
+          }, 
+          "time": 35.78195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -31.455877558916345, 
+            "powerMix": -16.940361572194885
+          }, 
+          "time": 36.03737
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -29.572606161343398, 
+            "powerMix": -21.635743246543978
+          }, 
+          "time": 36.165079000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.638950968920994, 
+            "powerMix": -17.465082533579341
+          }, 
+          "time": 36.292789
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.768517174889119, 
+            "powerMix": -15.20513404580662
+          }, 
+          "time": 36.350839
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.749407153532839, 
+            "powerMix": -18.125927632688487
+          }, 
+          "time": 36.536599
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -15.708700577165818, 
+            "powerMix": -13.813734723147013
+          }, 
+          "time": 36.606259
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.188276064299288, 
+            "powerMix": -15.756414379487616
+          }, 
+          "time": 36.687528
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -17.021327584549933, 
+            "powerMix": -16.259610793790529
+          }, 
+          "time": 36.884898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -33.555916405446816, 
+            "powerMix": -23.159446012654463
+          }, 
+          "time": 37.012608
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -25.38251684391955, 
+            "powerMix": -15.345567210697457
+          }, 
+          "time": 37.140317
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.26098087147227, 
+            "powerMix": -18.192787844824629
+          }, 
+          "time": 37.291247000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -25.069652177771257, 
+            "powerMix": -21.441313573910431
+          }, 
+          "time": 37.442177
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -54.322527654466256, 
+            "powerMix": -23.263460287256095
+          }, 
+          "time": 37.581497
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -38.756811618115989, 
+            "powerMix": -16.056052543534644
+          }, 
+          "time": 37.697596000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.761249169329151, 
+            "powerMix": -16.925643626638809
+          }, 
+          "time": 37.825306000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -24.753087810574016, 
+            "powerMix": -17.730064242100568
+          }, 
+          "time": 37.906576
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -41.775048319674852, 
+            "powerMix": -15.195329112685268
+          }, 
+          "time": 37.964626
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.558774030671774, 
+            "powerMix": -13.010123424396172
+          }, 
+          "time": 38.022676000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -20.039574576119286, 
+            "powerMix": -13.820324435258557
+          }, 
+          "time": 38.080726000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -22.732039540424648, 
+            "powerMix": -17.761970029425996
+          }, 
+          "time": 38.208435
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.137828819019195, 
+            "powerMix": -8.2055429299064127
+          }, 
+          "time": 38.266485
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -18.240639548985463, 
+            "powerMix": -12.495132387627105
+          }, 
+          "time": 38.336145
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -15.572570219571279, 
+            "powerMix": -11.600940507563823
+          }, 
+          "time": 38.394195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -37.352609521993799, 
+            "powerMix": -13.242293496723331
+          }, 
+          "time": 38.452245000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -13.97958734713847, 
+            "powerMix": -10.772203795795415
+          }, 
+          "time": 38.510295
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.559291342030342, 
+            "powerMix": -11.129869501272733
+          }, 
+          "time": 38.579955000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -15.560346059394025, 
+            "powerMix": -13.356484937699067
+          }, 
+          "time": 38.812154
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -17.72272993155751, 
+            "powerMix": -12.778192586387283
+          }, 
+          "time": 38.963084
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -13.02865633741855, 
+            "powerMix": -12.74748573805039
+          }, 
+          "time": 39.090794
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -24.912996174605627, 
+            "powerMix": -14.051045584729739
+          }, 
+          "time": 39.160454
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -22.558362661775714, 
+            "powerMix": -15.299158068762694
+          }, 
+          "time": 39.288163000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -11.620208946097613, 
+            "powerMix": -6.3603652448201355
+          }, 
+          "time": 39.357823
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -56.31944974418662, 
+            "powerMix": -10.233000817825879
+          }, 
+          "time": 39.415873000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.31461392357981, 
+            "powerMix": -10.639078234931434
+          }, 
+          "time": 39.485533000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -19.054323102173896, 
+            "powerMix": -12.081536815087844
+          }, 
+          "time": 39.555193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -16.48394485394731, 
+            "powerMix": -10.306068204570817
+          }, 
+          "time": 39.624853
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -13.043441570867229, 
+            "powerMix": -9.1874324293781502
+          }, 
+          "time": 39.682902000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -18.561451206742657, 
+            "powerMix": -11.08929486867453
+          }, 
+          "time": 39.903492
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -40.601874569073011, 
+            "powerMix": -12.555022356663031
+          }, 
+          "time": 40.031202
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.621164289298953, 
+            "powerMix": -16.211355012308285
+          }, 
+          "time": 40.182132
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -23.982714112240565, 
+            "powerMix": -18.650027147286995
+          }, 
+          "time": 40.286621000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -23.229005121020869, 
+            "powerMix": -18.389641990026384
+          }, 
+          "time": 40.414331000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -24.936025218503346, 
+            "powerMix": -21.595887906279593
+          }, 
+          "time": 40.565261
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -43.959253337594184, 
+            "powerMix": -18.40904142681277
+          }, 
+          "time": 40.692971
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.670842143112846, 
+            "powerMix": -19.765783972825492
+          }, 
+          "time": 40.83229
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.098534831778235, 
+            "powerMix": -19.494334527786737
+          }, 
+          "time": 40.96
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.459087366376501, 
+            "powerMix": -13.666268770859531
+          }, 
+          "time": 41.08771
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.098234911760287, 
+            "powerMix": -13.608932823616586
+          }, 
+          "time": 41.227029
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -17.335051659083188, 
+            "powerMix": -16.016296845012313
+          }, 
+          "time": 41.412789000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.682212531683831, 
+            "powerMix": -17.405264506419215
+          }, 
+          "time": 41.494059
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -24.211741854623369, 
+            "powerMix": -20.124147160839225
+          }, 
+          "time": 41.621769
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.456255810227468, 
+            "powerMix": -20.988385218444471
+          }, 
+          "time": 41.761088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.465256411054465, 
+            "powerMix": -15.768955484850618
+          }, 
+          "time": 41.900408000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -28.902807110206258, 
+            "powerMix": -18.351982437034444
+          }, 
+          "time": 42.028118
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.827836241243467, 
+            "powerMix": -20.126440286099569
+          }, 
+          "time": 42.120998
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.013484931282996, 
+            "powerMix": -16.09379808284098
+          }, 
+          "time": 42.190658
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.575294585027674, 
+            "powerMix": -16.157981553388407
+          }, 
+          "time": 42.329977
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.625886779648994, 
+            "powerMix": -11.488312861124593
+          }, 
+          "time": 42.480907
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.278584287384362, 
+            "powerMix": -14.968053351165976
+          }, 
+          "time": 42.620227
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -22.283356279393018, 
+            "powerMix": -14.992468501857113
+          }, 
+          "time": 42.771156000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -32.317992921561526, 
+            "powerMix": -11.970644299920242
+          }, 
+          "time": 42.898866000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.533338519131966, 
+            "powerMix": -17.168271604840964
+          }, 
+          "time": 43.165896000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.239549263717539, 
+            "powerMix": -18.650771743731219
+          }, 
+          "time": 43.305215000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -34.559814493948323, 
+            "powerMix": -17.305456973831244
+          }, 
+          "time": 43.409705
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -14.720568871580326, 
+            "powerMix": -13.415702976727498
+          }, 
+          "time": 43.467755000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -45.64237595479527, 
+            "powerMix": -16.830959707238172
+          }, 
+          "time": 43.537415
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -26.362977216500923, 
+            "powerMix": -17.567535077659521
+          }, 
+          "time": 43.665125
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -37.452066853224949, 
+            "powerMix": -15.068339154672836
+          }, 
+          "time": 43.723175000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -17.178741600919341, 
+            "powerMix": -12.167744226428361
+          }, 
+          "time": 43.874104
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -15.425337874464979, 
+            "powerMix": -15.353056905334505
+          }, 
+          "time": 43.966984000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 3, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -20.060680354473433, 
+            "powerMix": -17.033538150661741
+          }, 
+          "time": 44.234014
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -24.980986895201617, 
+            "powerMix": -21.20245548379048
+          }, 
+          "time": 44.454603000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -29.714739439002635, 
+            "powerMix": -20.777052263167203
+          }, 
+          "time": 44.512653
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -37.308608638600411, 
+            "powerMix": -27.591829396407171
+          }, 
+          "time": 44.675193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -46.081435493054329, 
+            "powerMix": -18.419340711639414
+          }, 
+          "time": 44.779683000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.592634017131282, 
+            "powerMix": -17.497403832339327
+          }, 
+          "time": 44.907392
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -18.829298654690042, 
+            "powerMix": -17.941981280493035
+          }, 
+          "time": 45.035102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.709164513212038, 
+            "powerMix": -12.303262336753917
+          }, 
+          "time": 45.093152
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -27.336695948732309, 
+            "powerMix": -11.478711002422566
+          }, 
+          "time": 45.232472
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -13.665652083210327, 
+            "powerMix": -12.664470319852114
+          }, 
+          "time": 45.325351000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -18.875933464251354, 
+            "powerMix": -18.136759876478592
+          }, 
+          "time": 45.429841
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -36.965173129961954, 
+            "powerMix": -13.618542355463109
+          }, 
+          "time": 45.487891000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.776578905502593, 
+            "powerMix": -13.027042597671237
+          }, 
+          "time": 45.615601000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -18.387687637793249, 
+            "powerMix": -16.401561117470354
+          }, 
+          "time": 45.754921
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -16.835605804894218, 
+            "powerMix": -16.347813065616499
+          }, 
+          "time": 45.882630000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -28.420603720673373, 
+            "powerMix": -16.962261595929583
+          }, 
+          "time": 45.99873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -22.951263365656658, 
+            "powerMix": -18.567412929242902
+          }, 
+          "time": 46.149660000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu"
+            ], 
+            "powerStem": -46.180584736548433, 
+            "powerMix": -16.349296254437498
+          }, 
+          "time": 46.28898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -69.071880288125598, 
+            "powerMix": -13.466755970708157
+          }, 
+          "time": 46.416689000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -18.834877961480188, 
+            "powerMix": -15.373630005070813
+          }, 
+          "time": 46.556009
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.03805897435527, 
+            "powerMix": -14.825576242065921
+          }, 
+          "time": 46.660499
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -19.535374299442971, 
+            "powerMix": -16.690222070319763
+          }, 
+          "time": 46.741769000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "guzheng"
+            ], 
+            "powerStem": -31.556137623610514, 
+            "powerMix": -12.594899646082041
+          }, 
+          "time": 46.997188
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.460328068861898, 
+            "powerMix": -12.706242196085224
+          }, 
+          "time": 47.078458000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -17.463616811898572, 
+            "powerMix": -14.473863135431637
+          }, 
+          "time": 47.148118000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.019599504469522, 
+            "powerMix": -13.988646152252539
+          }, 
+          "time": 47.240998000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -25.637216411995762, 
+            "powerMix": -18.712549753834402
+          }, 
+          "time": 47.426757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -30.339800547053152, 
+            "powerMix": -15.827164021064064
+          }, 
+          "time": 47.496417
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -25.566271952466657, 
+            "powerMix": -14.8374750669487
+          }, 
+          "time": 47.554467
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -37.239269023262764, 
+            "powerMix": -18.594882485059149
+          }, 
+          "time": 47.658957
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "guzheng"
+            ], 
+            "powerStem": -63.948961472999315, 
+            "powerMix": -15.138378443784962
+          }, 
+          "time": 47.786667
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -17.416184577968586, 
+            "powerMix": -12.618346003491617
+          }, 
+          "time": 47.914376000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.852508854852424, 
+            "powerMix": -12.677712089921238
+          }, 
+          "time": 47.972426000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -19.700284197796528, 
+            "powerMix": -13.647646177626175
+          }, 
+          "time": 48.065306
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -24.004943671348027, 
+            "powerMix": -15.267587202946798
+          }, 
+          "time": 48.239456000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -21.42470103910491, 
+            "powerMix": -14.394393824403638
+          }, 
+          "time": 48.309116
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.866689892718174, 
+            "powerMix": -11.085835409086297
+          }, 
+          "time": 48.367166000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -15.715938918152082, 
+            "powerMix": -12.496774995123328
+          }, 
+          "time": 48.494875
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu"
+            ], 
+            "powerStem": -37.928121207732524, 
+            "powerMix": -12.962990904949468
+          }, 
+          "time": 48.622585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -17.450321241886712, 
+            "powerMix": -15.030332236054083
+          }, 
+          "time": 48.761905000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -29.709527358504438, 
+            "powerMix": -16.537949717177881
+          }, 
+          "time": 48.866395000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -14.271572356152189, 
+            "powerMix": -12.708942663487203
+          }, 
+          "time": 48.924444
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -34.929090052864339, 
+            "powerMix": -13.804579174609074
+          }, 
+          "time": 49.040544000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -18.282692622921733, 
+            "powerMix": -15.112038653982125
+          }, 
+          "time": 49.168254000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -23.811344201664433, 
+            "powerMix": -14.586837173173713
+          }, 
+          "time": 49.295964000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -32.13405375975708, 
+            "powerMix": -17.056651552262675
+          }, 
+          "time": 49.35401400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -17.414505455713535, 
+            "powerMix": -11.88153875347394
+          }, 
+          "time": 49.412063
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -15.984246627737491, 
+            "powerMix": -13.715596680529663
+          }, 
+          "time": 49.562993000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -24.740317581810597, 
+            "powerMix": -14.440153046598585
+          }, 
+          "time": 49.655873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.105129003412937, 
+            "powerMix": -15.361703832609347
+          }, 
+          "time": 49.713923
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -16.894901167696435, 
+            "powerMix": -13.791234687182122
+          }, 
+          "time": 49.783583
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu"
+            ], 
+            "powerStem": -49.54128869304536, 
+            "powerMix": -15.050814685394352
+          }, 
+          "time": 49.911293
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -40.944465517592555, 
+            "powerMix": -10.90113777777062
+          }, 
+          "time": 49.969342000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -40.93145100912821, 
+            "powerMix": -14.81418739030476
+          }, 
+          "time": 50.097052000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -55.012948552030011, 
+            "powerMix": -12.946229472162099
+          }, 
+          "time": 50.236372
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -19.764334908846301, 
+            "powerMix": -17.920110385665321
+          }, 
+          "time": 50.352472000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng", 
+              "yangqin"
+            ], 
+            "powerStem": -41.230220079848493, 
+            "powerMix": -16.78701953702026
+          }, 
+          "time": 50.491791000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.580871486560049, 
+            "powerMix": -14.112269535897624
+          }, 
+          "time": 50.631111000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -21.193194136211083, 
+            "powerMix": -17.493667956678536
+          }, 
+          "time": 50.758821000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -22.075195700476055, 
+            "powerMix": -14.978436956647895
+          }, 
+          "time": 50.840091
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.597280624355506, 
+            "powerMix": -14.737961323086644
+          }, 
+          "time": 50.898141
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -33.754458050591765, 
+            "powerMix": -17.910464488952933
+          }, 
+          "time": 50.967800000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -43.200521495347161, 
+            "powerMix": -12.920618722923695
+          }, 
+          "time": 51.03746
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -18.323143192610097, 
+            "powerMix": -13.981447862534726
+          }, 
+          "time": 51.095510000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -25.754032534552827, 
+            "powerMix": -16.747405801016292
+          }, 
+          "time": 51.16517
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.122415115912609, 
+            "powerMix": -16.07041703557752
+          }, 
+          "time": 51.281270000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -13.793669212718916, 
+            "powerMix": -10.080620626119053
+          }, 
+          "time": 51.33932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -20.607840013175377, 
+            "powerMix": -14.730470874392028
+          }, 
+          "time": 51.40898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -27.708193879914607, 
+            "powerMix": -18.657466838022469
+          }, 
+          "time": 51.536689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -20.146181255157533, 
+            "powerMix": -11.920945284915971
+          }, 
+          "time": 51.606349
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -39.978711776353002, 
+            "powerMix": -23.958043976059059
+          }, 
+          "time": 52.291338
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "guzheng"
+            ], 
+            "powerStem": -31.498273591798231, 
+            "powerMix": -28.166006846902114
+          }, 
+          "time": 52.488707000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -32.929861630193166, 
+            "powerMix": -28.661505303229625
+          }, 
+          "time": 52.662857
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "yangqin"
+            ], 
+            "powerStem": -33.916995353486598, 
+            "powerMix": -8.1633688655622887
+          }, 
+          "time": 52.720907000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -17.014658221745837, 
+            "powerMix": -11.79997986391121
+          }, 
+          "time": 52.813787000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -18.986928101125336, 
+            "powerMix": -11.764052906461153
+          }, 
+          "time": 52.895057
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -18.303342058903972, 
+            "powerMix": -14.098479048955717
+          }, 
+          "time": 52.999546
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -23.791311201217638, 
+            "powerMix": -17.189851941728637
+          }, 
+          "time": 53.080816000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi", 
+              "erhu", 
+              "yangqin"
+            ], 
+            "powerStem": -77.141128022755197, 
+            "powerMix": -19.640484924789703
+          }, 
+          "time": 53.162086
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -13.595638755057983, 
+            "powerMix": -13.098428524994429
+          }, 
+          "time": 53.254966
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "yangqin"
+            ], 
+            "powerStem": -13.984684923263458, 
+            "powerMix": -10.920996238337871
+          }, 
+          "time": 53.313016000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "dizi"
+            ], 
+            "powerStem": -22.608982068133258, 
+            "powerMix": -14.203856035625069
+          }, 
+          "time": 53.405896000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -26.41905492821083, 
+            "powerMix": -19.996644226524374
+          }, 
+          "time": 53.661315
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 4, 
+            "onsetSource": [
+              "erhu"
+            ], 
+            "powerStem": -28.25191585800399, 
+            "powerMix": -25.086996919986284
+          }, 
+          "time": 53.777415000000005
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "ChineseChaoZhou", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 56.66827664399093, 
+    "artist": "MusicDelta"
+  }
+}

@@ -1,0 +1,6186 @@
+{
+  "sandbox": {
+    "genre": "Singer/Songwriter", 
+    "is_instrumental": true
+  }, 
+  "annotations": [
+    {
+      "namespace": "onset", 
+      "sandbox": {}, 
+      "time": 0, 
+      "duration": null, 
+      "annotation_metadata": {
+        "annotation_tools": "", 
+        "curator": {
+          "name": "", 
+          "email": ""
+        }, 
+        "annotator": {}, 
+        "version": "", 
+        "corpus": "", 
+        "annotation_rules": "Gain Window: 0.25ms\nTemporal Threshold: 0.05ms\nLoudness Threshold: -20dB", 
+        "validation": "", 
+        "data_source": ""
+      }, 
+      "data": [
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 0, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -30.175253120395993, 
+            "powerMix": -30.175253120395993
+          }, 
+          "time": 1.6834470000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -35.112006485919522, 
+            "powerMix": -35.112006485919522
+          }, 
+          "time": 1.9620860000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -23.135883209734502, 
+            "powerMix": -23.135883209734502
+          }, 
+          "time": 2.217506
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -25.404583944187028, 
+            "powerMix": -25.404583944187028
+          }, 
+          "time": 3.041814
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -33.326949124650433, 
+            "powerMix": -33.326949124650433
+          }, 
+          "time": 3.366893
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -28.344910687428403, 
+            "powerMix": -28.344910687428403
+          }, 
+          "time": 3.6339230000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -29.711010869189568, 
+            "powerMix": -29.711010869189568
+          }, 
+          "time": 3.750023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -28.369252955014264, 
+            "powerMix": -28.369252955014264
+          }, 
+          "time": 3.9241720000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -33.192457273083903, 
+            "powerMix": -33.192457273083903
+          }, 
+          "time": 4.121542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -23.174284985903171, 
+            "powerMix": -23.174284985903171
+          }, 
+          "time": 4.423401
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -29.239306152212979, 
+            "powerMix": -29.239306152212979
+          }, 
+          "time": 4.7136510000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -24.953966835106854, 
+            "powerMix": -24.953966835106854
+          }, 
+          "time": 5.2361
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -30.079118017228087, 
+            "powerMix": -30.079118017228087
+          }, 
+          "time": 5.503129
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -31.191222565307374, 
+            "powerMix": -31.191222565307374
+          }, 
+          "time": 5.816599
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -28.9287498336152, 
+            "powerMix": -28.9287498336152
+          }, 
+          "time": 5.944308
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -30.530935410046226, 
+            "powerMix": -30.530935410046226
+          }, 
+          "time": 6.048798000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -32.248683335222772, 
+            "powerMix": -32.248683335222772
+          }, 
+          "time": 6.3042180000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.731989161252816, 
+            "powerMix": -20.731989161252816
+          }, 
+          "time": 6.594467000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -27.389138691162657, 
+            "powerMix": -27.389138691162657
+          }, 
+          "time": 6.873107
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -28.132892721910409, 
+            "powerMix": -28.132892721910409
+          }, 
+          "time": 7.140136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -21.283769031468228, 
+            "powerMix": -21.283769031468228
+          }, 
+          "time": 7.395556
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -31.500410511893726, 
+            "powerMix": -31.500410511893726
+          }, 
+          "time": 7.941224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -28.592248833378026, 
+            "powerMix": -28.592248833378026
+          }, 
+          "time": 8.080544
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -24.370505226430815, 
+            "powerMix": -24.370505226430815
+          }, 
+          "time": 8.219864000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -31.656460292157934, 
+            "powerMix": -31.656460292157934
+          }, 
+          "time": 8.475283000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.703314227741128, 
+            "powerMix": -18.703314227741128
+          }, 
+          "time": 8.742313000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -28.495315612131588, 
+            "powerMix": -28.495315612131588
+          }, 
+          "time": 9.287982000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.632793139637421, 
+            "powerMix": -17.632793139637421
+          }, 
+          "time": 9.555011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -21.580160689453134, 
+            "powerMix": -21.580160689453134
+          }, 
+          "time": 9.856871
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -24.673857117152345, 
+            "powerMix": -24.673857117152345
+          }, 
+          "time": 10.11229
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -22.885538050104014, 
+            "powerMix": -22.885538050104014
+          }, 
+          "time": 10.251610000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -26.405452005065747, 
+            "powerMix": -26.405452005065747
+          }, 
+          "time": 10.646349
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.20179103927974, 
+            "powerMix": -20.20179103927974
+          }, 
+          "time": 10.924989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -28.094274194529486, 
+            "powerMix": -28.094274194529486
+          }, 
+          "time": 11.238458000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -27.047095897965249, 
+            "powerMix": -27.047095897965249
+          }, 
+          "time": 11.505488000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.631684725156767, 
+            "powerMix": -17.631684725156767
+          }, 
+          "time": 11.760907000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -23.6429345747312, 
+            "powerMix": -23.6429345747312
+          }, 
+          "time": 12.051156
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -23.355142409199466, 
+            "powerMix": -23.355142409199466
+          }, 
+          "time": 12.306576000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -25.658601429199884, 
+            "powerMix": -25.658601429199884
+          }, 
+          "time": 12.596825
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -23.95289229769428, 
+            "powerMix": -23.95289229769428
+          }, 
+          "time": 12.863855000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.392134568095875, 
+            "powerMix": -15.392134568095875
+          }, 
+          "time": 13.142494000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -22.489027858184425, 
+            "powerMix": -22.489027858184425
+          }, 
+          "time": 13.444354
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -24.837523353980284, 
+            "powerMix": -24.837523353980284
+          }, 
+          "time": 13.711383000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.551216742790952, 
+            "powerMix": -15.551216742790952
+          }, 
+          "time": 13.990023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -21.478939208985906, 
+            "powerMix": -21.478939208985906
+          }, 
+          "time": 14.268662
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -23.013591147693575, 
+            "powerMix": -23.013591147693575
+          }, 
+          "time": 14.535691999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -22.583554045045386, 
+            "powerMix": -22.583554045045386
+          }, 
+          "time": 15.10458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.124322421273366, 
+            "powerMix": -15.124322421273366
+          }, 
+          "time": 15.34839
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -25.124824572740497, 
+            "powerMix": -25.124824572740497
+          }, 
+          "time": 15.928889000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.009501437510689, 
+            "powerMix": -15.009501437510689
+          }, 
+          "time": 16.172698
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -21.203667578916061, 
+            "powerMix": -21.203667578916061
+          }, 
+          "time": 16.718367
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -26.192434074276232, 
+            "powerMix": -26.192434074276232
+          }, 
+          "time": 17.252425999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.06066239572063, 
+            "powerMix": -15.06066239572063
+          }, 
+          "time": 17.519456
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -22.926937001624541, 
+            "powerMix": -22.926937001624541
+          }, 
+          "time": 17.821315000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.950958917977189, 
+            "powerMix": -19.950958917977189
+          }, 
+          "time": 18.076735000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.81882755216956, 
+            "powerMix": -14.81882755216956
+          }, 
+          "time": 18.320544
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.908008720601234, 
+            "powerMix": -20.908008720601234
+          }, 
+          "time": 18.634014
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -28.669109537666838, 
+            "powerMix": -28.669109537666838
+          }, 
+          "time": 19.005533
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.725088118356275, 
+            "powerMix": -15.725088118356275
+          }, 
+          "time": 19.179683
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.242755693034276, 
+            "powerMix": -19.242755693034276
+          }, 
+          "time": 19.435102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.757619614973951, 
+            "powerMix": -17.757619614973951
+          }, 
+          "time": 19.667302000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -21.307165043640044, 
+            "powerMix": -21.307165043640044
+          }, 
+          "time": 19.934331
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.480566924859033, 
+            "powerMix": -14.480566924859033
+          }, 
+          "time": 19.992381
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.841429595511157, 
+            "powerMix": -13.841429595511157
+          }, 
+          "time": 20.212971
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.303224525731851, 
+            "powerMix": -15.303224525731851
+          }, 
+          "time": 20.538050000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -21.917425510824302, 
+            "powerMix": -21.917425510824302
+          }, 
+          "time": 21.060499
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.776088362603639, 
+            "powerMix": -14.776088362603639
+          }, 
+          "time": 21.373968
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.036512985536802, 
+            "powerMix": -15.036512985536802
+          }, 
+          "time": 21.896417000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.148060713193779, 
+            "powerMix": -16.148060713193779
+          }, 
+          "time": 21.989297
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.22322754389592, 
+            "powerMix": -14.22322754389592
+          }, 
+          "time": 22.209887000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.181361598112524, 
+            "powerMix": -12.181361598112524
+          }, 
+          "time": 22.442086
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.606253665301567, 
+            "powerMix": -14.606253665301567
+          }, 
+          "time": 22.697506
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.640216554166056, 
+            "powerMix": -10.640216554166056
+          }, 
+          "time": 23.022585000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.453532503153784, 
+            "powerMix": -13.453532503153784
+          }, 
+          "time": 23.231565
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.652445503598919, 
+            "powerMix": -15.652445503598919
+          }, 
+          "time": 23.370884
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.238529228387335, 
+            "powerMix": -17.238529228387335
+          }, 
+          "time": 23.510204
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.982354906206751, 
+            "powerMix": -18.982354906206751
+          }, 
+          "time": 23.765624000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.42827660634704, 
+            "powerMix": -13.42827660634704
+          }, 
+          "time": 24.032653
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.398841615075483, 
+            "powerMix": -20.398841615075483
+          }, 
+          "time": 24.624762
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.306520883139859, 
+            "powerMix": -14.306520883139859
+          }, 
+          "time": 24.868571000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.872701858438759, 
+            "powerMix": -14.872701858438759
+          }, 
+          "time": 25.576780000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.429188949871371, 
+            "powerMix": -15.429188949871371
+          }, 
+          "time": 25.70449
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.934070797370406, 
+            "powerMix": -18.934070797370406
+          }, 
+          "time": 25.936689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.771191116517009, 
+            "powerMix": -19.771191116517009
+          }, 
+          "time": 26.180499
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.785061187080224, 
+            "powerMix": -17.785061187080224
+          }, 
+          "time": 26.807438
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.163820656111533, 
+            "powerMix": -14.163820656111533
+          }, 
+          "time": 27.028027
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.859048177607953, 
+            "powerMix": -19.859048177607953
+          }, 
+          "time": 27.306667
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.338849453594781, 
+            "powerMix": -15.338849453594781
+          }, 
+          "time": 27.596916
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.501428242136853, 
+            "powerMix": -20.501428242136853
+          }, 
+          "time": 27.724626
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.1782236796933, 
+            "powerMix": -18.1782236796933
+          }, 
+          "time": 27.887166
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.951924923798821, 
+            "powerMix": -20.951924923798821
+          }, 
+          "time": 28.154195
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.090142228608983, 
+            "powerMix": -16.090142228608983
+          }, 
+          "time": 28.351565
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.990390213342321, 
+            "powerMix": -14.990390213342321
+          }, 
+          "time": 28.955283
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.160712873411008, 
+            "powerMix": -11.160712873411008
+          }, 
+          "time": 29.233923
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.958698322946798, 
+            "powerMix": -14.958698322946798
+          }, 
+          "time": 29.489342
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.242845768597313, 
+            "powerMix": -13.242845768597313
+          }, 
+          "time": 29.756372000000002
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.177502572597383, 
+            "powerMix": -14.177502572597383
+          }, 
+          "time": 29.895692
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.287106516402485, 
+            "powerMix": -16.287106516402485
+          }, 
+          "time": 30.302041000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.887935441464714, 
+            "powerMix": -13.887935441464714
+          }, 
+          "time": 30.54585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.452632074017307, 
+            "powerMix": -13.452632074017307
+          }, 
+          "time": 31.393379000000003
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.820068628352359, 
+            "powerMix": -18.820068628352359
+          }, 
+          "time": 31.660408
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.90251800706169, 
+            "powerMix": -19.90251800706169
+          }, 
+          "time": 31.950658
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -22.570048631054064, 
+            "powerMix": -22.570048631054064
+          }, 
+          "time": 32.101587
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.137219979381538, 
+            "powerMix": -13.137219979381538
+          }, 
+          "time": 32.217687000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.190320421358459, 
+            "powerMix": -15.190320421358459
+          }, 
+          "time": 32.542766
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.571727547751287, 
+            "powerMix": -14.571727547751287
+          }, 
+          "time": 32.774966
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.738023713613982, 
+            "powerMix": -12.738023713613982
+          }, 
+          "time": 33.053605000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.06868442955944, 
+            "powerMix": -12.06868442955944
+          }, 
+          "time": 33.320635
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.900497380198889, 
+            "powerMix": -15.900497380198889
+          }, 
+          "time": 33.587664000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.39969100410395, 
+            "powerMix": -19.39969100410395
+          }, 
+          "time": 33.866304
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.423523356450197, 
+            "powerMix": -16.423523356450197
+          }, 
+          "time": 34.052063000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -21.166761238822463, 
+            "powerMix": -21.166761238822463
+          }, 
+          "time": 34.144943000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.568173127940948, 
+            "powerMix": -20.568173127940948
+          }, 
+          "time": 34.411973
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.576032060964236, 
+            "powerMix": -13.576032060964236
+          }, 
+          "time": 34.493243
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.823553131745461, 
+            "powerMix": -13.823553131745461
+          }, 
+          "time": 34.760272
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.644503477212441, 
+            "powerMix": -14.644503477212441
+          }, 
+          "time": 35.236281000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.083110885972758, 
+            "powerMix": -15.083110885972758
+          }, 
+          "time": 35.294331
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.808253446584821, 
+            "powerMix": -16.808253446584821
+          }, 
+          "time": 35.538141
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.641637983113158, 
+            "powerMix": -11.641637983113158
+          }, 
+          "time": 35.805170000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.304123031381646, 
+            "powerMix": -13.304123031381646
+          }, 
+          "time": 36.0722
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -23.628796152384886, 
+            "powerMix": -23.628796152384886
+          }, 
+          "time": 36.478549
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.12791056984921, 
+            "powerMix": -16.12791056984921
+          }, 
+          "time": 36.606259
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.546268573646413, 
+            "powerMix": -15.546268573646413
+          }, 
+          "time": 36.873288
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.145808873023896, 
+            "powerMix": -10.145808873023896
+          }, 
+          "time": 37.140317
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.460555455507794, 
+            "powerMix": -14.460555455507794
+          }, 
+          "time": 37.418957
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.354888321346236, 
+            "powerMix": -15.354888321346236
+          }, 
+          "time": 37.662766000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.792931741595382, 
+            "powerMix": -13.792931741595382
+          }, 
+          "time": 38.243265
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.255033513183886, 
+            "powerMix": -17.255033513183886
+          }, 
+          "time": 38.649615000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.996606758842198, 
+            "powerMix": -16.996606758842198
+          }, 
+          "time": 38.777324
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.46566351145648, 
+            "powerMix": -15.46566351145648
+          }, 
+          "time": 39.044354000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.109725851271703, 
+            "powerMix": -13.109725851271703
+          }, 
+          "time": 39.276553
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.063540143569622, 
+            "powerMix": -11.063540143569622
+          }, 
+          "time": 39.334603
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.096961629317438, 
+            "powerMix": -14.096961629317438
+          }, 
+          "time": 39.590023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.467791508797182, 
+            "powerMix": -13.467791508797182
+          }, 
+          "time": 39.845442000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.690623752566548, 
+            "powerMix": -15.690623752566548
+          }, 
+          "time": 40.100862
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -9.9843378887845358, 
+            "powerMix": -9.9843378887845358
+          }, 
+          "time": 40.170522000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.01112148936144, 
+            "powerMix": -12.01112148936144
+          }, 
+          "time": 40.391111
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.421677196417981, 
+            "powerMix": -16.421677196417981
+          }, 
+          "time": 40.692971
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.783841693609229, 
+            "powerMix": -14.783841693609229
+          }, 
+          "time": 40.98322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.327051367862605, 
+            "powerMix": -13.327051367862605
+          }, 
+          "time": 41.250249000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.854443193922283, 
+            "powerMix": -12.854443193922283
+          }, 
+          "time": 41.482449
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.832259867061705, 
+            "powerMix": -12.832259867061705
+          }, 
+          "time": 41.784308
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.088359947979615, 
+            "powerMix": -17.088359947979615
+          }, 
+          "time": 42.062948000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.309335931468439, 
+            "powerMix": -12.309335931468439
+          }, 
+          "time": 42.341587000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.104742972119345, 
+            "powerMix": -15.104742972119345
+          }, 
+          "time": 42.887256
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.658744623056078, 
+            "powerMix": -15.658744623056078
+          }, 
+          "time": 43.154286000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.695596544254599, 
+            "powerMix": -18.695596544254599
+          }, 
+          "time": 43.421315
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.86253523262236, 
+            "powerMix": -18.86253523262236
+          }, 
+          "time": 43.549025
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.168906369953572, 
+            "powerMix": -11.168906369953572
+          }, 
+          "time": 43.630295000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.010103666926975, 
+            "powerMix": -12.010103666926975
+          }, 
+          "time": 43.885714
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.449926145501411, 
+            "powerMix": -12.449926145501411
+          }, 
+          "time": 43.966984000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.908314897436075, 
+            "powerMix": -14.908314897436075
+          }, 
+          "time": 44.199184
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.185269182766508, 
+            "powerMix": -13.185269182766508
+          }, 
+          "time": 44.466213
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.379551057286111, 
+            "powerMix": -16.379551057286111
+          }, 
+          "time": 45.011882
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -22.921637024843736, 
+            "powerMix": -22.921637024843736
+          }, 
+          "time": 45.186032000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.315104218279693, 
+            "powerMix": -12.315104218279693
+          }, 
+          "time": 45.290522
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.915936713414663, 
+            "powerMix": -11.915936713414663
+          }, 
+          "time": 45.87102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.98200156002345, 
+            "powerMix": -12.98200156002345
+          }, 
+          "time": 46.21932
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.547151958345477, 
+            "powerMix": -12.547151958345477
+          }, 
+          "time": 46.405079
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.117879656117333, 
+            "powerMix": -11.117879656117333
+          }, 
+          "time": 46.695329
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.384261038106381, 
+            "powerMix": -17.384261038106381
+          }, 
+          "time": 47.264218
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.944246688293042, 
+            "powerMix": -12.944246688293042
+          }, 
+          "time": 47.496417
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.631698042394248, 
+            "powerMix": -13.631698042394248
+          }, 
+          "time": 47.775057000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.513560714062256, 
+            "powerMix": -11.513560714062256
+          }, 
+          "time": 48.030476
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.700220154488015, 
+            "powerMix": -13.700220154488015
+          }, 
+          "time": 48.332336000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.821638075583472, 
+            "powerMix": -13.821638075583472
+          }, 
+          "time": 48.576145000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.574302966990842, 
+            "powerMix": -10.574302966990842
+          }, 
+          "time": 48.878005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -9.9306126709663385, 
+            "powerMix": -9.9306126709663385
+          }, 
+          "time": 49.145034
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.72791307446464, 
+            "powerMix": -11.72791307446464
+          }, 
+          "time": 49.35401400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.596356671282354, 
+            "powerMix": -15.596356671282354
+          }, 
+          "time": 49.551383
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.386246235291843, 
+            "powerMix": -13.386246235291843
+          }, 
+          "time": 49.667483000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.52335027492677, 
+            "powerMix": -16.52335027492677
+          }, 
+          "time": 49.911293
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.803619087427752, 
+            "powerMix": -12.803619087427752
+          }, 
+          "time": 50.015782
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.358822126921051, 
+            "powerMix": -11.358822126921051
+          }, 
+          "time": 50.189932000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.767699829681046, 
+            "powerMix": -14.767699829681046
+          }, 
+          "time": 50.747211
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.508817021107919, 
+            "powerMix": -11.508817021107919
+          }, 
+          "time": 51.060680000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.707281674904863, 
+            "powerMix": -13.707281674904863
+          }, 
+          "time": 51.32771
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.980745376302117, 
+            "powerMix": -17.980745376302117
+          }, 
+          "time": 51.548299
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.839780091647794, 
+            "powerMix": -12.839780091647794
+          }, 
+          "time": 51.850159000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.068705726863307, 
+            "powerMix": -15.068705726863307
+          }, 
+          "time": 52.093968000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.728836064387732, 
+            "powerMix": -14.728836064387732
+          }, 
+          "time": 52.314558000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.612680501663485, 
+            "powerMix": -12.612680501663485
+          }, 
+          "time": 52.662857
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.0462271860381, 
+            "powerMix": -14.0462271860381
+          }, 
+          "time": 52.918277
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.672817832014916, 
+            "powerMix": -10.672817832014916
+          }, 
+          "time": 53.185306000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.591412645382665, 
+            "powerMix": -16.591412645382665
+          }, 
+          "time": 53.881905
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.80218858179051, 
+            "powerMix": -12.80218858179051
+          }, 
+          "time": 54.021224000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.364620751289186, 
+            "powerMix": -14.364620751289186
+          }, 
+          "time": 54.079274000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.173993345340694, 
+            "powerMix": -14.173993345340694
+          }, 
+          "time": 54.29986400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.738646667927512, 
+            "powerMix": -12.738646667927512
+          }, 
+          "time": 54.50884399900001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.91247570657557, 
+            "powerMix": -13.91247570657557
+          }, 
+          "time": 55.10095200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.598402101061946, 
+            "powerMix": -15.598402101061946
+          }, 
+          "time": 55.379592
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.586246382054753, 
+            "powerMix": -14.586246382054753
+          }, 
+          "time": 55.948481
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.349293203623899, 
+            "powerMix": -15.349293203623899
+          }, 
+          "time": 56.227120000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.554936138302647, 
+            "powerMix": -15.554936138302647
+          }, 
+          "time": 56.494150000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -9.836407211545545, 
+            "powerMix": -9.836407211545545
+          }, 
+          "time": 57.063039
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.532659282790444, 
+            "powerMix": -13.532659282790444
+          }, 
+          "time": 57.330068000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.525564253659335, 
+            "powerMix": -11.525564253659335
+          }, 
+          "time": 57.608707
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.357630502700992, 
+            "powerMix": -15.357630502700992
+          }, 
+          "time": 58.386576000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.422378795223761, 
+            "powerMix": -13.422378795223761
+          }, 
+          "time": 58.44462600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.074594215092683, 
+            "powerMix": -15.074594215092683
+          }, 
+          "time": 58.700045
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.092233656600724, 
+            "powerMix": -12.092233656600724
+          }, 
+          "time": 58.943855000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.320210684375269, 
+            "powerMix": -11.320210684375269
+          }, 
+          "time": 59.24571400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.289587768794627, 
+            "powerMix": -11.289587768794627
+          }, 
+          "time": 59.501133999000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.299632635454158, 
+            "powerMix": -14.299632635454158
+          }, 
+          "time": 59.768163
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.84697827902054, 
+            "powerMix": -16.84697827902054
+          }, 
+          "time": 60.046803000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.674184030092977, 
+            "powerMix": -12.674184030092977
+          }, 
+          "time": 60.580862
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.429880804451059, 
+            "powerMix": -14.429880804451059
+          }, 
+          "time": 61.114921
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.660317148184514, 
+            "powerMix": -12.660317148184514
+          }, 
+          "time": 61.184580000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.25027228862152, 
+            "powerMix": -10.25027228862152
+          }, 
+          "time": 61.440000000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -9.7910889259666902, 
+            "powerMix": -9.7910889259666902
+          }, 
+          "time": 61.695420000000006
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -8.9477304238854476, 
+            "powerMix": -8.9477304238854476
+          }, 
+          "time": 62.241088000000005
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.867073338432448, 
+            "powerMix": -10.867073338432448
+          }, 
+          "time": 62.310748000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.769776149423144, 
+            "powerMix": -11.769776149423144
+          }, 
+          "time": 62.484898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.175604378885753, 
+            "powerMix": -14.175604378885753
+          }, 
+          "time": 62.76353700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.05790901128854, 
+            "powerMix": -12.05790901128854
+          }, 
+          "time": 62.844807
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.836769475422653, 
+            "powerMix": -15.836769475422653
+          }, 
+          "time": 63.065397000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.105454334689416, 
+            "powerMix": -13.105454334689416
+          }, 
+          "time": 63.274376000000004
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.454340656365993, 
+            "powerMix": -14.454340656365993
+          }, 
+          "time": 63.85487500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.722017211611512, 
+            "powerMix": -12.722017211611512
+          }, 
+          "time": 64.11029500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.460397826825226, 
+            "powerMix": -12.460397826825226
+          }, 
+          "time": 64.388934
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.711151427737924, 
+            "powerMix": -13.711151427737924
+          }, 
+          "time": 64.667574
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.952940288518828, 
+            "powerMix": -13.952940288518828
+          }, 
+          "time": 64.911383
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.401650238281889, 
+            "powerMix": -18.401650238281889
+          }, 
+          "time": 65.155193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.464011621637997, 
+            "powerMix": -12.464011621637997
+          }, 
+          "time": 65.445442
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.759278916832951, 
+            "powerMix": -12.759278916832951
+          }, 
+          "time": 65.979501
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.009312435434815, 
+            "powerMix": -17.009312435434815
+          }, 
+          "time": 66.86185900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.986581319928106, 
+            "powerMix": -14.986581319928106
+          }, 
+          "time": 67.094059
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.239897313444597, 
+            "powerMix": -14.239897313444597
+          }, 
+          "time": 67.175329
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.488950605426197, 
+            "powerMix": -15.488950605426197
+          }, 
+          "time": 67.407528
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.127331121446256, 
+            "powerMix": -14.127331121446256
+          }, 
+          "time": 67.61650800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -9.7075976399694444, 
+            "powerMix": -9.7075976399694444
+          }, 
+          "time": 67.709388
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.445542077348096, 
+            "powerMix": -13.445542077348096
+          }, 
+          "time": 67.953197
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.421345708455558, 
+            "powerMix": -12.421345708455558
+          }, 
+          "time": 68.208617
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.099755277061613, 
+            "powerMix": -15.099755277061613
+          }, 
+          "time": 68.487256
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.400300995862152, 
+            "powerMix": -13.400300995862152
+          }, 
+          "time": 68.789116
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.04284343975894, 
+            "powerMix": -15.04284343975894
+          }, 
+          "time": 69.021315
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.006081984169636, 
+            "powerMix": -14.006081984169636
+          }, 
+          "time": 69.276735
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.473514879843467, 
+            "powerMix": -17.473514879843467
+          }, 
+          "time": 69.566984
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.042929047703181, 
+            "powerMix": -11.042929047703181
+          }, 
+          "time": 69.83401400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -9.308646681151151, 
+            "powerMix": -9.308646681151151
+          }, 
+          "time": 70.36807300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.787671770707732, 
+            "powerMix": -14.787671770707732
+          }, 
+          "time": 71.72644000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.314305077553076, 
+            "powerMix": -16.314305077553076
+          }, 
+          "time": 71.88898
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.315134292359343, 
+            "powerMix": -20.315134292359343
+          }, 
+          "time": 72.306939
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.85050389212272, 
+            "powerMix": -20.85050389212272
+          }, 
+          "time": 72.492698
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.742862792357908, 
+            "powerMix": -18.742862792357908
+          }, 
+          "time": 72.678458
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.109357314311413, 
+            "powerMix": -17.109357314311413
+          }, 
+          "time": 73.07319700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.293886004930275, 
+            "powerMix": -19.293886004930275
+          }, 
+          "time": 73.479546
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.430053532982043, 
+            "powerMix": -20.430053532982043
+          }, 
+          "time": 73.700136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -24.184713224620509, 
+            "powerMix": -24.184713224620509
+          }, 
+          "time": 73.885896
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.253621724191795, 
+            "powerMix": -14.253621724191795
+          }, 
+          "time": 74.071655
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.061588915829098, 
+            "powerMix": -17.061588915829098
+          }, 
+          "time": 74.675374
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.170607426085631, 
+            "powerMix": -18.170607426085631
+          }, 
+          "time": 74.849524
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.739254842035116, 
+            "powerMix": -12.739254842035116
+          }, 
+          "time": 75.000454
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.272832714786365, 
+            "powerMix": -19.272832714786365
+          }, 
+          "time": 75.395193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.680157198833509, 
+            "powerMix": -17.680157198833509
+          }, 
+          "time": 75.61578200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.904320256523523, 
+            "powerMix": -15.904320256523523
+          }, 
+          "time": 75.813152
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.561596045043018, 
+            "powerMix": -13.561596045043018
+          }, 
+          "time": 76.196281
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.159386359761815, 
+            "powerMix": -18.159386359761815
+          }, 
+          "time": 76.428481
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.733500445831101, 
+            "powerMix": -16.733500445831101
+          }, 
+          "time": 76.61424000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.097792853994363, 
+            "powerMix": -16.097792853994363
+          }, 
+          "time": 76.83483000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.320532594714678, 
+            "powerMix": -19.320532594714678
+          }, 
+          "time": 77.02059
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.012860714327033, 
+            "powerMix": -13.012860714327033
+          }, 
+          "time": 77.206349
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.716891728407127, 
+            "powerMix": -16.716891728407127
+          }, 
+          "time": 77.786848
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.227897019493197, 
+            "powerMix": -15.227897019493197
+          }, 
+          "time": 77.984218
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.270645924219217, 
+            "powerMix": -16.270645924219217
+          }, 
+          "time": 78.077098
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.501553528667261, 
+            "powerMix": -13.501553528667261
+          }, 
+          "time": 78.14675700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.280413782763546, 
+            "powerMix": -19.280413782763546
+          }, 
+          "time": 78.564717
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.006528546542164, 
+            "powerMix": -20.006528546542164
+          }, 
+          "time": 78.750476
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.816386503608204, 
+            "powerMix": -14.816386503608204
+          }, 
+          "time": 78.947846
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.034145330593093, 
+            "powerMix": -14.034145330593093
+          }, 
+          "time": 79.33097500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.484236151312194, 
+            "powerMix": -15.484236151312194
+          }, 
+          "time": 79.702494
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.917035559697872, 
+            "powerMix": -17.917035559697872
+          }, 
+          "time": 79.911474
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.793791883780251, 
+            "powerMix": -18.793791883780251
+          }, 
+          "time": 80.08562400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.202990977002788, 
+            "powerMix": -14.202990977002788
+          }, 
+          "time": 80.271383
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.447249442516377, 
+            "powerMix": -18.447249442516377
+          }, 
+          "time": 80.700952
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.802858404304772, 
+            "powerMix": -14.802858404304772
+          }, 
+          "time": 80.875102
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -24.229778651389935, 
+            "powerMix": -24.229778651389935
+          }, 
+          "time": 81.01442200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.363688851491382, 
+            "powerMix": -15.363688851491382
+          }, 
+          "time": 81.08408200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.637561381000863, 
+            "powerMix": -13.637561381000863
+          }, 
+          "time": 81.176961
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.542930761604797, 
+            "powerMix": -14.542930761604797
+          }, 
+          "time": 81.25823100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.833763526887651, 
+            "powerMix": -17.833763526887651
+          }, 
+          "time": 81.68780000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.80577227687121, 
+            "powerMix": -18.80577227687121
+          }, 
+          "time": 81.87356000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.420360487868438, 
+            "powerMix": -14.420360487868438
+          }, 
+          "time": 82.0361
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.832931517304964, 
+            "powerMix": -14.832931517304964
+          }, 
+          "time": 82.40761900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.117548690604679, 
+            "powerMix": -20.117548690604679
+          }, 
+          "time": 82.593379
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.210842110675191, 
+            "powerMix": -15.210842110675191
+          }, 
+          "time": 82.779138
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.321987136923614, 
+            "powerMix": -20.321987136923614
+          }, 
+          "time": 83.139048
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.121799457246336, 
+            "powerMix": -16.121799457246336
+          }, 
+          "time": 83.33641700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.556787937949112, 
+            "powerMix": -14.556787937949112
+          }, 
+          "time": 83.707937
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.532935102821543, 
+            "powerMix": -13.532935102821543
+          }, 
+          "time": 83.87047600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.937465743718473, 
+            "powerMix": -16.937465743718473
+          }, 
+          "time": 84.056236
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.694480288177974, 
+            "powerMix": -13.694480288177974
+          }, 
+          "time": 84.230385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.899319883041327, 
+            "powerMix": -13.899319883041327
+          }, 
+          "time": 84.416145
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.986428415841381, 
+            "powerMix": -17.986428415841381
+          }, 
+          "time": 84.59029500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.387628070264688, 
+            "powerMix": -15.387628070264688
+          }, 
+          "time": 84.75283400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.773591120939123, 
+            "powerMix": -14.773591120939123
+          }, 
+          "time": 84.97342400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.466335628866201, 
+            "powerMix": -13.466335628866201
+          }, 
+          "time": 85.12435400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.797664649517461, 
+            "powerMix": -16.797664649517461
+          }, 
+          "time": 85.33333300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.758622676783126, 
+            "powerMix": -11.758622676783126
+          }, 
+          "time": 85.670023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.057363645926102, 
+            "powerMix": -17.057363645926102
+          }, 
+          "time": 85.855782
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.332327226400739, 
+            "powerMix": -19.332327226400739
+          }, 
+          "time": 85.97188200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.171497468611888, 
+            "powerMix": -10.171497468611888
+          }, 
+          "time": 86.041542
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.558946863360646, 
+            "powerMix": -13.558946863360646
+          }, 
+          "time": 86.215692
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.570688243741454, 
+            "powerMix": -12.570688243741454
+          }, 
+          "time": 86.413061
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.433742415329403, 
+            "powerMix": -15.433742415329403
+          }, 
+          "time": 86.58721100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.221650150884802, 
+            "powerMix": -16.221650150884802
+          }, 
+          "time": 86.77297100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.851383722315902, 
+            "powerMix": -17.851383722315902
+          }, 
+          "time": 86.90068000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.050227397130776, 
+            "powerMix": -16.050227397130776
+          }, 
+          "time": 86.95873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.998505867701809, 
+            "powerMix": -14.998505867701809
+          }, 
+          "time": 87.04
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.951982836166021, 
+            "powerMix": -13.951982836166021
+          }, 
+          "time": 87.318639
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.053995676428084, 
+            "powerMix": -12.053995676428084
+          }, 
+          "time": 87.65532900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.959205170179334, 
+            "powerMix": -15.959205170179334
+          }, 
+          "time": 87.841088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.987655347659478, 
+            "powerMix": -11.987655347659478
+          }, 
+          "time": 88.01523800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.394807707774611, 
+            "powerMix": -18.394807707774611
+          }, 
+          "time": 88.18938800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.998059250203385, 
+            "powerMix": -15.998059250203385
+          }, 
+          "time": 88.351927
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.025425651189234, 
+            "powerMix": -15.025425651189234
+          }, 
+          "time": 88.526077
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.050168326079625, 
+            "powerMix": -16.050168326079625
+          }, 
+          "time": 88.711837
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -19.854339615949016, 
+            "powerMix": -19.854339615949016
+          }, 
+          "time": 88.80471700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.945518369145347, 
+            "powerMix": -12.945518369145347
+          }, 
+          "time": 88.87437600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.593569365249147, 
+            "powerMix": -12.593569365249147
+          }, 
+          "time": 89.04852600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.245472784372545, 
+            "powerMix": -13.245472784372545
+          }, 
+          "time": 89.222676
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.307407826934572, 
+            "powerMix": -17.307407826934572
+          }, 
+          "time": 89.44326500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.182045719147951, 
+            "powerMix": -17.182045719147951
+          }, 
+          "time": 89.570975
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.019466890478217, 
+            "powerMix": -17.019466890478217
+          }, 
+          "time": 89.756735
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.474203702131581, 
+            "powerMix": -14.474203702131581
+          }, 
+          "time": 90.12825400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.44623814855489, 
+            "powerMix": -16.44623814855489
+          }, 
+          "time": 90.348844
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.767450161131707, 
+            "powerMix": -14.767450161131707
+          }, 
+          "time": 90.488163
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.364973101305413, 
+            "powerMix": -17.364973101305413
+          }, 
+          "time": 90.685533
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.248119227947743, 
+            "powerMix": -11.248119227947743
+          }, 
+          "time": 90.859683
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -18.260711552113303, 
+            "powerMix": -18.260711552113303
+          }, 
+          "time": 91.022222
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.66197889781604, 
+            "powerMix": -15.66197889781604
+          }, 
+          "time": 91.19637200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.115880717804126, 
+            "powerMix": -12.115880717804126
+          }, 
+          "time": 91.37052200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.000706033921603, 
+            "powerMix": -16.000706033921603
+          }, 
+          "time": 91.54467100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.896407915198507, 
+            "powerMix": -12.896407915198507
+          }, 
+          "time": 91.742041
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.255893837451802, 
+            "powerMix": -13.255893837451802
+          }, 
+          "time": 91.88136100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.270685307386799, 
+            "powerMix": -15.270685307386799
+          }, 
+          "time": 92.06712
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -23.521768944350857, 
+            "powerMix": -23.521768944350857
+          }, 
+          "time": 92.55473900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.89643875248591, 
+            "powerMix": -16.89643875248591
+          }, 
+          "time": 92.612789
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.916291050001831, 
+            "powerMix": -16.916291050001831
+          }, 
+          "time": 92.69405900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.713857851779444, 
+            "powerMix": -13.713857851779444
+          }, 
+          "time": 92.775329
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.014458570464658, 
+            "powerMix": -13.014458570464658
+          }, 
+          "time": 92.961088
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.042221309364466, 
+            "powerMix": -13.042221309364466
+          }, 
+          "time": 93.320998
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.874038249591933, 
+            "powerMix": -16.874038249591933
+          }, 
+          "time": 93.495147
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.637721012715964, 
+            "powerMix": -12.637721012715964
+          }, 
+          "time": 93.65768700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.616305932107085, 
+            "powerMix": -12.616305932107085
+          }, 
+          "time": 94.133696
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.639733534559932, 
+            "powerMix": -15.639733534559932
+          }, 
+          "time": 94.331066
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.382891979398259, 
+            "powerMix": -13.382891979398259
+          }, 
+          "time": 94.528435
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.851818375803587, 
+            "powerMix": -11.851818375803587
+          }, 
+          "time": 94.679365
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.548642909274729, 
+            "powerMix": -13.548642909274729
+          }, 
+          "time": 94.865125
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.055250231058055, 
+            "powerMix": -13.055250231058055
+          }, 
+          "time": 95.05088400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.059571171882855, 
+            "powerMix": -12.059571171882855
+          }, 
+          "time": 95.23664400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.617041644426715, 
+            "powerMix": -15.617041644426715
+          }, 
+          "time": 95.399184
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.792184815023742, 
+            "powerMix": -12.792184815023742
+          }, 
+          "time": 95.48045400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.381047748069239, 
+            "powerMix": -11.381047748069239
+          }, 
+          "time": 95.538503
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.663151307060634, 
+            "powerMix": -12.663151307060634
+          }, 
+          "time": 95.91002300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.758150258493755, 
+            "powerMix": -12.758150258493755
+          }, 
+          "time": 96.08417200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.509231449707352, 
+            "powerMix": -10.509231449707352
+          }, 
+          "time": 96.258322
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.838664555681007, 
+            "powerMix": -11.838664555681007
+          }, 
+          "time": 96.61823100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.698736875756426, 
+            "powerMix": -11.698736875756426
+          }, 
+          "time": 96.966531
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.918401482976432, 
+            "powerMix": -13.918401482976432
+          }, 
+          "time": 97.32644
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.354489058582304, 
+            "powerMix": -11.354489058582304
+          }, 
+          "time": 97.5122
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.251461983156577, 
+            "powerMix": -13.251461983156577
+          }, 
+          "time": 97.66312900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.089180200755209, 
+            "powerMix": -11.089180200755209
+          }, 
+          "time": 98.011429
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.633032444285508, 
+            "powerMix": -12.633032444285508
+          }, 
+          "time": 98.266847999
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.918293191552019, 
+            "powerMix": -14.918293191552019
+          }, 
+          "time": 98.893787
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.952208252394055, 
+            "powerMix": -15.952208252394055
+          }, 
+          "time": 99.044717
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.475750896279598, 
+            "powerMix": -14.475750896279598
+          }, 
+          "time": 99.59038500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.486446849793376, 
+            "powerMix": -12.486446849793376
+          }, 
+          "time": 99.752925
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.382076230125797, 
+            "powerMix": -14.382076230125797
+          }, 
+          "time": 99.938685
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.384753787271411, 
+            "powerMix": -16.384753787271411
+          }, 
+          "time": 100.101224
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.409076595252477, 
+            "powerMix": -14.409076595252477
+          }, 
+          "time": 100.60045400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.892645424312452, 
+            "powerMix": -16.892645424312452
+          }, 
+          "time": 100.786213
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.856248240982836, 
+            "powerMix": -11.856248240982836
+          }, 
+          "time": 100.855873
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -20.375566598035032, 
+            "powerMix": -20.375566598035032
+          }, 
+          "time": 100.995193
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.889347150480555, 
+            "powerMix": -15.889347150480555
+          }, 
+          "time": 101.05324300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.519664320711275, 
+            "powerMix": -10.519664320711275
+          }, 
+          "time": 101.134512
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.942605129203089, 
+            "powerMix": -10.942605129203089
+          }, 
+          "time": 101.215782
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.307099485845017, 
+            "powerMix": -14.307099485845017
+          }, 
+          "time": 101.51764200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.642252806625461, 
+            "powerMix": -16.642252806625461
+          }, 
+          "time": 101.703401
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.643933342548568, 
+            "powerMix": -12.643933342548568
+          }, 
+          "time": 101.923991
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.464006588366225, 
+            "powerMix": -14.464006588366225
+          }, 
+          "time": 102.08653100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.624700904436551, 
+            "powerMix": -12.624700904436551
+          }, 
+          "time": 102.2839
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.984229061390909, 
+            "powerMix": -13.984229061390909
+          }, 
+          "time": 102.62059
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.563128409871874, 
+            "powerMix": -15.563128409871874
+          }, 
+          "time": 102.817959
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.595701845517224, 
+            "powerMix": -14.595701845517224
+          }, 
+          "time": 102.98049900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.124026861643063, 
+            "powerMix": -13.124026861643063
+          }, 
+          "time": 103.16625900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -16.546560375939908, 
+            "powerMix": -16.546560375939908
+          }, 
+          "time": 103.30557800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.778116325301829, 
+            "powerMix": -14.778116325301829
+          }, 
+          "time": 103.47972800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.255571202962217, 
+            "powerMix": -13.255571202962217
+          }, 
+          "time": 103.677098
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -17.95837668693175, 
+            "powerMix": -17.95837668693175
+          }, 
+          "time": 103.862857
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.969390549255841, 
+            "powerMix": -13.969390549255841
+          }, 
+          "time": 103.932517
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.401530359719279, 
+            "powerMix": -10.401530359719279
+          }, 
+          "time": 103.99056700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.106335599575109, 
+            "powerMix": -13.106335599575109
+          }, 
+          "time": 104.362086
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.463671041533251, 
+            "powerMix": -13.463671041533251
+          }, 
+          "time": 104.710385
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.453040174171722, 
+            "powerMix": -15.453040174171722
+          }, 
+          "time": 105.047075
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.044594695206172, 
+            "powerMix": -13.044594695206172
+          }, 
+          "time": 105.38376400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.575857554810714, 
+            "powerMix": -14.575857554810714
+          }, 
+          "time": 105.581134
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.542643302065816, 
+            "powerMix": -12.542643302065816
+          }, 
+          "time": 105.76689300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.527530326132382, 
+            "powerMix": -12.527530326132382
+          }, 
+          "time": 105.95265300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.898900541991553, 
+            "powerMix": -12.898900541991553
+          }, 
+          "time": 106.44027200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.337822536432363, 
+            "powerMix": -14.337822536432363
+          }, 
+          "time": 106.74213200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.87487180376367, 
+            "powerMix": -14.87487180376367
+          }, 
+          "time": 106.80018100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.984440789786929, 
+            "powerMix": -12.984440789786929
+          }, 
+          "time": 107.32263
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.828235012167825, 
+            "powerMix": -14.828235012167825
+          }, 
+          "time": 107.53161
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.336315761772488, 
+            "powerMix": -13.336315761772488
+          }, 
+          "time": 107.65932000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.313409735311097, 
+            "powerMix": -13.313409735311097
+          }, 
+          "time": 107.856689
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.632850516305595, 
+            "powerMix": -12.632850516305595
+          }, 
+          "time": 108.181769
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.404234119021252, 
+            "powerMix": -11.404234119021252
+          }, 
+          "time": 108.541678
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.263124502264873, 
+            "powerMix": -12.263124502264873
+          }, 
+          "time": 108.692608
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.915938412928984, 
+            "powerMix": -12.915938412928984
+          }, 
+          "time": 108.866757
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.475722472906718, 
+            "powerMix": -10.475722472906718
+          }, 
+          "time": 109.37759600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.700372259673497, 
+            "powerMix": -12.700372259673497
+          }, 
+          "time": 109.470476
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.872450687004877, 
+            "powerMix": -11.872450687004877
+          }, 
+          "time": 109.540136
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.307460015856559, 
+            "powerMix": -14.307460015856559
+          }, 
+          "time": 110.02775500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.209628209061773, 
+            "powerMix": -11.209628209061773
+          }, 
+          "time": 110.364444
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.621300628740048, 
+            "powerMix": -15.621300628740048
+          }, 
+          "time": 110.59664400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.939858257708806, 
+            "powerMix": -12.939858257708806
+          }, 
+          "time": 110.689524
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.094064645356351, 
+            "powerMix": -12.094064645356351
+          }, 
+          "time": 110.863673
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.764185538500358, 
+            "powerMix": -11.764185538500358
+          }, 
+          "time": 111.223583
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.138532315785667, 
+            "powerMix": -14.138532315785667
+          }, 
+          "time": 111.42095200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.472604072721927, 
+            "powerMix": -12.472604072721927
+          }, 
+          "time": 111.583492
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.331103898666292, 
+            "powerMix": -13.331103898666292
+          }, 
+          "time": 111.931791
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.426113324960273, 
+            "powerMix": -13.426113324960273
+          }, 
+          "time": 112.105941
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.073702976303487, 
+            "powerMix": -13.073702976303487
+          }, 
+          "time": 112.291701
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.832866216579603, 
+            "powerMix": -12.832866216579603
+          }, 
+          "time": 112.79093
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.420293729466438, 
+            "powerMix": -10.420293729466438
+          }, 
+          "time": 113.12761900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.607232120343804, 
+            "powerMix": -13.607232120343804
+          }, 
+          "time": 113.464308
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -9.9280693291886948, 
+            "powerMix": -9.9280693291886948
+          }, 
+          "time": 113.650068
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.271431152451591, 
+            "powerMix": -13.271431152451591
+          }, 
+          "time": 113.998367
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.768553873326212, 
+            "powerMix": -12.768553873326212
+          }, 
+          "time": 114.16090700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.40448354440931, 
+            "powerMix": -13.40448354440931
+          }, 
+          "time": 114.323447
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.005212143742764, 
+            "powerMix": -13.005212143742764
+          }, 
+          "time": 114.474376
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.829717970916704, 
+            "powerMix": -15.829717970916704
+          }, 
+          "time": 114.683356
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.487084300146002, 
+            "powerMix": -10.487084300146002
+          }, 
+          "time": 114.84589600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.283928350992509, 
+            "powerMix": -11.283928350992509
+          }, 
+          "time": 115.008435
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.150819679651278, 
+            "powerMix": -13.150819679651278
+          }, 
+          "time": 115.182585
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.659990022521763, 
+            "powerMix": -11.659990022521763
+          }, 
+          "time": 115.51927400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.584879546339511, 
+            "powerMix": -14.584879546339511
+          }, 
+          "time": 115.728254
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.720611421082147, 
+            "powerMix": -10.720611421082147
+          }, 
+          "time": 115.84435400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.304863363230922, 
+            "powerMix": -13.304863363230922
+          }, 
+          "time": 116.06494300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.028284828486269, 
+            "powerMix": -13.028284828486269
+          }, 
+          "time": 116.20426300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.05075474583724, 
+            "powerMix": -12.05075474583724
+          }, 
+          "time": 116.366803
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.849452147759687, 
+            "powerMix": -11.849452147759687
+          }, 
+          "time": 116.73832200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.310086812225967, 
+            "powerMix": -14.310086812225967
+          }, 
+          "time": 116.900862
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -12.579449295789555, 
+            "powerMix": -12.579449295789555
+          }, 
+          "time": 117.075011
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.307741099393711, 
+            "powerMix": -14.307741099393711
+          }, 
+          "time": 117.434921
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.006635407519877, 
+            "powerMix": -11.006635407519877
+          }, 
+          "time": 117.57424
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.833628334330362, 
+            "powerMix": -11.833628334330362
+          }, 
+          "time": 118.444989
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.322476689675288, 
+            "powerMix": -11.322476689675288
+          }, 
+          "time": 118.78167800000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.282105347850347, 
+            "powerMix": -13.282105347850347
+          }, 
+          "time": 119.12997700000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.564251818440095, 
+            "powerMix": -11.564251818440095
+          }, 
+          "time": 119.466667
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.19477938061344, 
+            "powerMix": -14.19477938061344
+          }, 
+          "time": 119.84979600000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.793994820371507, 
+            "powerMix": -11.793994820371507
+          }, 
+          "time": 120.116825
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.177941053114004, 
+            "powerMix": -13.177941053114004
+          }, 
+          "time": 120.30258500000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.563661112051104, 
+            "powerMix": -10.563661112051104
+          }, 
+          "time": 120.430295
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.063244578434187, 
+            "powerMix": -13.063244578434187
+          }, 
+          "time": 121.510023
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.731245006722627, 
+            "powerMix": -10.731245006722627
+          }, 
+          "time": 121.88154200000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.245326593569192, 
+            "powerMix": -14.245326593569192
+          }, 
+          "time": 122.22984100000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.581874490531794, 
+            "powerMix": -13.581874490531794
+          }, 
+          "time": 122.578141
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -15.566023765051888, 
+            "powerMix": -15.566023765051888
+          }, 
+          "time": 122.89161000000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.521490781123219, 
+            "powerMix": -13.521490781123219
+          }, 
+          "time": 123.04254
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -9.9345089326588294, 
+            "powerMix": -9.9345089326588294
+          }, 
+          "time": 123.17024900000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.091424954417656, 
+            "powerMix": -10.091424954417656
+          }, 
+          "time": 123.263129
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.447696043171373, 
+            "powerMix": -13.447696043171373
+          }, 
+          "time": 123.611429
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.352411110859792, 
+            "powerMix": -13.352411110859792
+          }, 
+          "time": 123.936508
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -14.141238722938564, 
+            "powerMix": -14.141238722938564
+          }, 
+          "time": 125.503855
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.04595519994632, 
+            "powerMix": -13.04595519994632
+          }, 
+          "time": 125.87537400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -11.279757138898677, 
+            "powerMix": -11.279757138898677
+          }, 
+          "time": 125.99147400000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.155792724495461, 
+            "powerMix": -13.155792724495461
+          }, 
+          "time": 126.397823
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.124329920581498, 
+            "powerMix": -13.124329920581498
+          }, 
+          "time": 126.57197300000001
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.2516340166141, 
+            "powerMix": -10.2516340166141
+          }, 
+          "time": 126.792562
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -13.087914801221334, 
+            "powerMix": -13.087914801221334
+          }, 
+          "time": 127.442721
+        }, 
+        {
+          "duration": 0.0, 
+          "confidence": null, 
+          "value": {
+            "polyphony": 1, 
+            "onsetSource": [
+              "acoustic guitar"
+            ], 
+            "powerStem": -10.861235432722525, 
+            "powerMix": -10.861235432722525
+          }, 
+          "time": 127.82585
+        }
+      ]
+    }
+  ], 
+  "file_metadata": {
+    "jams_version": "0.2.1", 
+    "title": "SpringDay1", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 133.92049886621317, 
+    "artist": "AmarLal"
+  }
+}
